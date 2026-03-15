@@ -1,0 +1,2115 @@
+{
+  "site": "HoiQuan1",
+  "source": "https://sv2.hoiquan1.live/",
+  "updated": "2026-03-15 12:43 UTC",
+  "matches": 54,
+  "total_streams": 162,
+  "data": [
+    {
+      "name": "[18h00] {'id': 3154, 'referenceId': '836', 'slug': 'shanghai-sipg.9uXtCsXuPw', 'name': 'SHANGHAI SIPG', 'logoUrl': 'https://media.api-sports.io/football/teams/836.png', 'createdAt': '2026-03-13T18:55:28.583Z', 'updatedAt': '2026-03-13T18:55:28.583Z'} vs {'id': 3155, 'referenceId': '17265', 'slug': 'qingdao-youth-island.aMFh49YIOb', 'name': 'Qingdao Youth Island', 'logoUrl': 'https://media.api-sports.io/football/teams/17265.png', 'createdAt': '2026-03-13T18:55:28.659Z', 'updatedAt': '2026-03-13T18:55:28.659Z'}",
+      "group": "Super League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3154,
+        "referenceId": "836",
+        "slug": "shanghai-sipg.9uXtCsXuPw",
+        "name": "SHANGHAI SIPG",
+        "logoUrl": "https://media.api-sports.io/football/teams/836.png",
+        "createdAt": "2026-03-13T18:55:28.583Z",
+        "updatedAt": "2026-03-13T18:55:28.583Z"
+      },
+      "away": {
+        "id": 3155,
+        "referenceId": "17265",
+        "slug": "qingdao-youth-island.aMFh49YIOb",
+        "name": "Qingdao Youth Island",
+        "logoUrl": "https://media.api-sports.io/football/teams/17265.png",
+        "createdAt": "2026-03-13T18:55:28.659Z",
+        "updatedAt": "2026-03-13T18:55:28.659Z"
+      },
+      "time": "18h00",
+      "id": "5447"
+    },
+    {
+      "name": "[18h30] {'id': 354, 'referenceId': None, 'slug': 'hellas-verona-1759460542637', 'name': ' Hellas Verona', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg', 'createdAt': '2025-10-03T10:02:22.640Z', 'updatedAt': '2025-10-03T10:02:22.640Z'} vs {'id': 91, 'referenceId': None, 'slug': 'genoa-1759051240278', 'name': 'Genoa', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png', 'createdAt': '2025-09-28T16:20:40.280Z', 'updatedAt': '2025-09-28T16:20:40.280Z'}",
+      "group": "Serie A",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 354,
+        "referenceId": null,
+        "slug": "hellas-verona-1759460542637",
+        "name": " Hellas Verona",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg",
+        "createdAt": "2025-10-03T10:02:22.640Z",
+        "updatedAt": "2025-10-03T10:02:22.640Z"
+      },
+      "away": {
+        "id": 91,
+        "referenceId": null,
+        "slug": "genoa-1759051240278",
+        "name": "Genoa",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/4/4e/Genoa_cfc.png",
+        "createdAt": "2025-09-28T16:20:40.280Z",
+        "updatedAt": "2025-09-28T16:20:40.280Z"
+      },
+      "time": "18h30",
+      "id": "5448"
+    },
+    {
+      "name": "[20h00] {'id': 430, 'referenceId': None, 'slug': 'mallorca-1759500662092', 'name': 'Mallorca', 'logoUrl': 'https://vectorseek.com/wp-content/uploads/2023/08/Rcd-Mallorca-Logo-Vector.svg-.png', 'createdAt': '2025-10-03T21:11:02.095Z', 'updatedAt': '2025-10-03T21:11:02.095Z'} vs {'id': 510, 'referenceId': None, 'slug': 'espanyol-1759621065814', 'name': 'Espanyol', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/f/fd/Rcd_espanyol_de_barcelona.gif', 'createdAt': '2025-10-05T06:37:45.816Z', 'updatedAt': '2025-10-05T06:37:45.816Z'}",
+      "group": "La Liga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 430,
+        "referenceId": null,
+        "slug": "mallorca-1759500662092",
+        "name": "Mallorca",
+        "logoUrl": "https://vectorseek.com/wp-content/uploads/2023/08/Rcd-Mallorca-Logo-Vector.svg-.png",
+        "createdAt": "2025-10-03T21:11:02.095Z",
+        "updatedAt": "2025-10-03T21:11:02.095Z"
+      },
+      "away": {
+        "id": 510,
+        "referenceId": null,
+        "slug": "espanyol-1759621065814",
+        "name": "Espanyol",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/f/fd/Rcd_espanyol_de_barcelona.gif",
+        "createdAt": "2025-10-05T06:37:45.816Z",
+        "updatedAt": "2025-10-05T06:37:45.816Z"
+      },
+      "time": "20h00",
+      "id": "5459"
+    },
+    {
+      "name": "[21h00] {'id': 504, 'referenceId': None, 'slug': 'strasbourg-1759620978940', 'name': 'Strasbourg', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png', 'createdAt': '2025-10-05T06:36:18.943Z', 'updatedAt': '2025-10-05T06:36:18.943Z'} vs {'id': 2508, 'referenceId': '114', 'slug': 'paris-fc.f5ug4z2uqK', 'name': 'Paris FC', 'logoUrl': 'https://media.api-sports.io/football/teams/114.png', 'createdAt': '2026-01-11T21:35:26.981Z', 'updatedAt': '2026-01-11T21:35:26.981Z'}",
+      "group": "Ligue 1",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 504,
+        "referenceId": null,
+        "slug": "strasbourg-1759620978940",
+        "name": "Strasbourg",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",
+        "createdAt": "2025-10-05T06:36:18.943Z",
+        "updatedAt": "2025-10-05T06:36:18.943Z"
+      },
+      "away": {
+        "id": 2508,
+        "referenceId": "114",
+        "slug": "paris-fc.f5ug4z2uqK",
+        "name": "Paris FC",
+        "logoUrl": "https://media.api-sports.io/football/teams/114.png",
+        "createdAt": "2026-01-11T21:35:26.981Z",
+        "updatedAt": "2026-01-11T21:35:26.981Z"
+      },
+      "time": "21h00",
+      "id": "5460"
+    },
+    {
+      "name": "[21h00] {'id': 353, 'referenceId': None, 'slug': 'sassuolo-1759460514758', 'name': 'Sassuolo', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg', 'createdAt': '2025-10-03T10:01:54.761Z', 'updatedAt': '2025-10-03T10:01:54.761Z'} vs {'id': 268, 'referenceId': None, 'slug': 'bologna-1759287346120', 'name': 'Bologna', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg', 'createdAt': '2025-10-01T09:55:46.123Z', 'updatedAt': '2025-10-01T09:55:46.123Z'}",
+      "group": "Serie A",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 353,
+        "referenceId": null,
+        "slug": "sassuolo-1759460514758",
+        "name": "Sassuolo",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/sco/1/1c/US_Sassuolo_Calcio_logo.svg",
+        "createdAt": "2025-10-03T10:01:54.761Z",
+        "updatedAt": "2025-10-03T10:01:54.761Z"
+      },
+      "away": {
+        "id": 268,
+        "referenceId": null,
+        "slug": "bologna-1759287346120",
+        "name": "Bologna",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bologna_F.C._1909_logo.svg",
+        "createdAt": "2025-10-01T09:55:46.123Z",
+        "updatedAt": "2025-10-01T09:55:46.123Z"
+      },
+      "time": "21h00",
+      "id": "5461"
+    },
+    {
+      "name": "[21h00] {'id': 280, 'referenceId': None, 'slug': 'crystal-palace-1759287759577', 'name': 'Crystal Palace', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png', 'createdAt': '2025-10-01T10:02:39.579Z', 'updatedAt': '2025-10-01T10:02:39.579Z'} vs {'id': 2593, 'referenceId': '63', 'slug': 'leeds.Rd1cDJCYnb', 'name': 'Leeds', 'logoUrl': 'https://media.api-sports.io/football/teams/63.png', 'createdAt': '2026-01-16T04:26:29.208Z', 'updatedAt': '2026-01-16T04:26:29.208Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 280,
+        "referenceId": null,
+        "slug": "crystal-palace-1759287759577",
+        "name": "Crystal Palace",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/a/a2/Crystal_Palace_FC_logo_%282022%29.svg.png",
+        "createdAt": "2025-10-01T10:02:39.579Z",
+        "updatedAt": "2025-10-01T10:02:39.579Z"
+      },
+      "away": {
+        "id": 2593,
+        "referenceId": "63",
+        "slug": "leeds.Rd1cDJCYnb",
+        "name": "Leeds",
+        "logoUrl": "https://media.api-sports.io/football/teams/63.png",
+        "createdAt": "2026-01-16T04:26:29.208Z",
+        "updatedAt": "2026-01-16T04:26:29.208Z"
+      },
+      "time": "21h00",
+      "id": "5462"
+    },
+    {
+      "name": "[21h00] {'id': 53, 'referenceId': None, 'slug': 'manchester-united-1758635758723', 'name': 'Manchester United', 'logoUrl': 'https://media.api-sports.io/football/teams/33.png', 'createdAt': '2025-09-23T20:55:58.725Z', 'updatedAt': '2025-09-23T20:55:58.725Z'} vs {'id': 292, 'referenceId': None, 'slug': 'aston-villa-1759309799084', 'name': 'Aston Villa', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png', 'createdAt': '2025-10-01T16:09:59.086Z', 'updatedAt': '2025-10-01T16:09:59.086Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 53,
+        "referenceId": null,
+        "slug": "manchester-united-1758635758723",
+        "name": "Manchester United",
+        "logoUrl": "https://media.api-sports.io/football/teams/33.png",
+        "createdAt": "2025-09-23T20:55:58.725Z",
+        "updatedAt": "2025-09-23T20:55:58.725Z"
+      },
+      "away": {
+        "id": 292,
+        "referenceId": null,
+        "slug": "aston-villa-1759309799084",
+        "name": "Aston Villa",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+        "createdAt": "2025-10-01T16:09:59.086Z",
+        "updatedAt": "2025-10-01T16:09:59.086Z"
+      },
+      "time": "21h00",
+      "id": "5463"
+    },
+    {
+      "name": "[21h00] {'id': 53, 'referenceId': None, 'slug': 'manchester-united-1758635758723', 'name': 'Manchester United', 'logoUrl': 'https://media.api-sports.io/football/teams/33.png', 'createdAt': '2025-09-23T20:55:58.725Z', 'updatedAt': '2025-09-23T20:55:58.725Z'} vs {'id': 292, 'referenceId': None, 'slug': 'aston-villa-1759309799084', 'name': 'Aston Villa', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png', 'createdAt': '2025-10-01T16:09:59.086Z', 'updatedAt': '2025-10-01T16:09:59.086Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 53,
+        "referenceId": null,
+        "slug": "manchester-united-1758635758723",
+        "name": "Manchester United",
+        "logoUrl": "https://media.api-sports.io/football/teams/33.png",
+        "createdAt": "2025-09-23T20:55:58.725Z",
+        "updatedAt": "2025-09-23T20:55:58.725Z"
+      },
+      "away": {
+        "id": 292,
+        "referenceId": null,
+        "slug": "aston-villa-1759309799084",
+        "name": "Aston Villa",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/uyNNelfnFvCEnsLrUL-j2Q_96x96.png",
+        "createdAt": "2025-10-01T16:09:59.086Z",
+        "updatedAt": "2025-10-01T16:09:59.086Z"
+      },
+      "time": "21h00",
+      "id": "5464"
+    },
+    {
+      "name": "[21h00] {'id': 290, 'referenceId': None, 'slug': 'nottingham-forest-1759309667734', 'name': 'Nottingham Forest', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png', 'createdAt': '2025-10-01T16:07:47.736Z', 'updatedAt': '2025-10-01T16:07:47.736Z'} vs {'id': 355, 'referenceId': None, 'slug': 'fulham-1759460590159', 'name': 'Fulham', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png', 'createdAt': '2025-10-03T10:03:10.160Z', 'updatedAt': '2025-10-03T10:03:10.160Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 290,
+        "referenceId": null,
+        "slug": "nottingham-forest-1759309667734",
+        "name": "Nottingham Forest",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png",
+        "createdAt": "2025-10-01T16:07:47.736Z",
+        "updatedAt": "2025-10-01T16:07:47.736Z"
+      },
+      "away": {
+        "id": 355,
+        "referenceId": null,
+        "slug": "fulham-1759460590159",
+        "name": "Fulham",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/8/8d/Fulham_FC.png",
+        "createdAt": "2025-10-03T10:03:10.160Z",
+        "updatedAt": "2025-10-03T10:03:10.160Z"
+      },
+      "time": "21h00",
+      "id": "5465"
+    },
+    {
+      "name": "[21h30] {'id': 1331, 'referenceId': None, 'slug': 'werder-bremen-1761273002191', 'name': 'Werder Bremen', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/960px-SV-Werder-Bremen-Logo.svg.png', 'createdAt': '2025-10-24T09:30:02.201Z', 'updatedAt': '2026-03-13T19:05:45.000Z'} vs {'id': 2672, 'referenceId': '164', 'slug': 'fsv-mainz-05.Ce26cuVarh', 'name': 'FSV Mainz 05', 'logoUrl': 'https://media.api-sports.io/football/teams/164.png', 'createdAt': '2026-01-22T08:46:37.428Z', 'updatedAt': '2026-01-22T08:46:37.428Z'}",
+      "group": "Bundesliga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1331,
+        "referenceId": null,
+        "slug": "werder-bremen-1761273002191",
+        "name": "Werder Bremen",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/960px-SV-Werder-Bremen-Logo.svg.png",
+        "createdAt": "2025-10-24T09:30:02.201Z",
+        "updatedAt": "2026-03-13T19:05:45.000Z"
+      },
+      "away": {
+        "id": 2672,
+        "referenceId": "164",
+        "slug": "fsv-mainz-05.Ce26cuVarh",
+        "name": "FSV Mainz 05",
+        "logoUrl": "https://media.api-sports.io/football/teams/164.png",
+        "createdAt": "2026-01-22T08:46:37.428Z",
+        "updatedAt": "2026-01-22T08:46:37.428Z"
+      },
+      "time": "21h30",
+      "id": "5466"
+    },
+    {
+      "name": "[22h15] {'id': 210, 'referenceId': None, 'slug': 'barcelona-1759216720999', 'name': 'Barcelona', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg', 'createdAt': '2025-09-30T14:18:41.002Z', 'updatedAt': '2025-09-30T14:18:41.002Z'} vs {'id': 501, 'referenceId': None, 'slug': 'sevilla-1759620932116', 'name': 'Sevilla', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png', 'createdAt': '2025-10-05T06:35:32.119Z', 'updatedAt': '2025-10-05T06:35:32.119Z'}",
+      "group": "La Liga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 210,
+        "referenceId": null,
+        "slug": "barcelona-1759216720999",
+        "name": "Barcelona",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg",
+        "createdAt": "2025-09-30T14:18:41.002Z",
+        "updatedAt": "2025-09-30T14:18:41.002Z"
+      },
+      "away": {
+        "id": 501,
+        "referenceId": null,
+        "slug": "sevilla-1759620932116",
+        "name": "Sevilla",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png",
+        "createdAt": "2025-10-05T06:35:32.119Z",
+        "updatedAt": "2025-10-05T06:35:32.119Z"
+      },
+      "time": "22h15",
+      "id": "5467"
+    },
+    {
+      "name": "[23h15] {'id': 514, 'referenceId': None, 'slug': 'le-havre-1759621668800', 'name': 'Le Havre', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/f/fc/Le_Havre_AC_logo.svg', 'createdAt': '2025-10-05T06:47:48.805Z', 'updatedAt': '2025-10-05T06:47:48.805Z'} vs {'id': 286, 'referenceId': None, 'slug': 'olympique-lyonnais-1759309350741', 'name': 'Lyon', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png', 'createdAt': '2025-10-01T16:02:30.744Z', 'updatedAt': '2025-10-22T11:12:30.000Z'}",
+      "group": "Ligue 1",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 514,
+        "referenceId": null,
+        "slug": "le-havre-1759621668800",
+        "name": "Le Havre",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/fc/Le_Havre_AC_logo.svg",
+        "createdAt": "2025-10-05T06:47:48.805Z",
+        "updatedAt": "2025-10-05T06:47:48.805Z"
+      },
+      "away": {
+        "id": 286,
+        "referenceId": null,
+        "slug": "olympique-lyonnais-1759309350741",
+        "name": "Lyon",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/9/93/Olympique_Lyonnais.png",
+        "createdAt": "2025-10-01T16:02:30.744Z",
+        "updatedAt": "2025-10-22T11:12:30.000Z"
+      },
+      "time": "23h15",
+      "id": "5468"
+    },
+    {
+      "name": "[23h30] {'id': 52, 'referenceId': None, 'slug': 'liverpool-1758635747749', 'name': 'Liverpool', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png', 'createdAt': '2025-09-23T20:55:47.751Z', 'updatedAt': '2025-09-23T20:55:47.751Z'} vs {'id': 2466, 'referenceId': '47', 'slug': 'tottenham.7WqabS00wP', 'name': 'Tottenham', 'logoUrl': 'https://media.api-sports.io/football/teams/47.png', 'createdAt': '2026-01-10T01:53:06.410Z', 'updatedAt': '2026-01-10T01:53:06.410Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 52,
+        "referenceId": null,
+        "slug": "liverpool-1758635747749",
+        "name": "Liverpool",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
+        "createdAt": "2025-09-23T20:55:47.751Z",
+        "updatedAt": "2025-09-23T20:55:47.751Z"
+      },
+      "away": {
+        "id": 2466,
+        "referenceId": "47",
+        "slug": "tottenham.7WqabS00wP",
+        "name": "Tottenham",
+        "logoUrl": "https://media.api-sports.io/football/teams/47.png",
+        "createdAt": "2026-01-10T01:53:06.410Z",
+        "updatedAt": "2026-01-10T01:53:06.410Z"
+      },
+      "time": "23h30",
+      "id": "5469"
+    },
+    {
+      "name": "[23h30] {'id': 52, 'referenceId': None, 'slug': 'liverpool-1758635747749', 'name': 'Liverpool', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png', 'createdAt': '2025-09-23T20:55:47.751Z', 'updatedAt': '2025-09-23T20:55:47.751Z'} vs {'id': 2466, 'referenceId': '47', 'slug': 'tottenham.7WqabS00wP', 'name': 'Tottenham', 'logoUrl': 'https://media.api-sports.io/football/teams/47.png', 'createdAt': '2026-01-10T01:53:06.410Z', 'updatedAt': '2026-01-10T01:53:06.410Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 52,
+        "referenceId": null,
+        "slug": "liverpool-1758635747749",
+        "name": "Liverpool",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png",
+        "createdAt": "2025-09-23T20:55:47.751Z",
+        "updatedAt": "2025-09-23T20:55:47.751Z"
+      },
+      "away": {
+        "id": 2466,
+        "referenceId": "47",
+        "slug": "tottenham.7WqabS00wP",
+        "name": "Tottenham",
+        "logoUrl": "https://media.api-sports.io/football/teams/47.png",
+        "createdAt": "2026-01-10T01:53:06.410Z",
+        "updatedAt": "2026-01-10T01:53:06.410Z"
+      },
+      "time": "23h30",
+      "id": "5470"
+    },
+    {
+      "name": "[23h30] {'id': 2245, 'referenceId': None, 'slug': 'sc-freiburg-1766116543541', 'name': 'SC Freiburg', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png', 'createdAt': '2025-12-19T10:55:43.544Z', 'updatedAt': '2025-12-19T10:55:43.544Z'} vs {'id': 409, 'referenceId': None, 'slug': 'union-berlin-1759483023008', 'name': 'Union Berlin', 'logoUrl': 'https://www.flagcolorcodes.com/data/flag-of-fc-union-berlin.png', 'createdAt': '2025-10-03T16:17:03.011Z', 'updatedAt': '2025-10-03T16:17:03.011Z'}",
+      "group": "Bundesliga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2245,
+        "referenceId": null,
+        "slug": "sc-freiburg-1766116543541",
+        "name": "SC Freiburg",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/3/3c/SC_Freiburg.jpg.png",
+        "createdAt": "2025-12-19T10:55:43.544Z",
+        "updatedAt": "2025-12-19T10:55:43.544Z"
+      },
+      "away": {
+        "id": 409,
+        "referenceId": null,
+        "slug": "union-berlin-1759483023008",
+        "name": "Union Berlin",
+        "logoUrl": "https://www.flagcolorcodes.com/data/flag-of-fc-union-berlin.png",
+        "createdAt": "2025-10-03T16:17:03.011Z",
+        "updatedAt": "2025-10-03T16:17:03.011Z"
+      },
+      "time": "23h30",
+      "id": "5471"
+    },
+    {
+      "name": "[00h00] {'id': 444, 'referenceId': None, 'slug': 'como-1759583856779', 'name': 'Como', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png', 'createdAt': '2025-10-04T20:17:36.789Z', 'updatedAt': '2025-10-04T20:17:36.789Z'} vs {'id': 1797, 'referenceId': None, 'slug': 'as-roma-1763692266695', 'name': 'AS Roma', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png', 'createdAt': '2025-11-21T09:31:06.700Z', 'updatedAt': '2026-03-11T18:44:22.000Z'}",
+      "group": "Serie A",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 444,
+        "referenceId": null,
+        "slug": "como-1759583856779",
+        "name": "Como",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/250px-Logo_Como_1907_2019.png",
+        "createdAt": "2025-10-04T20:17:36.789Z",
+        "updatedAt": "2025-10-04T20:17:36.789Z"
+      },
+      "away": {
+        "id": 1797,
+        "referenceId": null,
+        "slug": "as-roma-1763692266695",
+        "name": "AS Roma",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png",
+        "createdAt": "2025-11-21T09:31:06.700Z",
+        "updatedAt": "2026-03-11T18:44:22.000Z"
+      },
+      "time": "00h00",
+      "id": "5481"
+    },
+    {
+      "name": "[00h30] {'id': 276, 'referenceId': None, 'slug': 'real-betis-1759287622822', 'name': 'Real Betis', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg', 'createdAt': '2025-10-01T10:00:22.825Z', 'updatedAt': '2025-10-01T10:00:22.825Z'} vs {'id': 2507, 'referenceId': '538', 'slug': 'celta-vigo.gBqbMeS9B3', 'name': 'Celta Vigo', 'logoUrl': 'https://media.api-sports.io/football/teams/538.png', 'createdAt': '2026-01-11T21:35:10.598Z', 'updatedAt': '2026-01-11T21:35:10.598Z'}",
+      "group": "La Liga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 276,
+        "referenceId": null,
+        "slug": "real-betis-1759287622822",
+        "name": "Real Betis",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg",
+        "createdAt": "2025-10-01T10:00:22.825Z",
+        "updatedAt": "2025-10-01T10:00:22.825Z"
+      },
+      "away": {
+        "id": 2507,
+        "referenceId": "538",
+        "slug": "celta-vigo.gBqbMeS9B3",
+        "name": "Celta Vigo",
+        "logoUrl": "https://media.api-sports.io/football/teams/538.png",
+        "createdAt": "2026-01-11T21:35:10.598Z",
+        "updatedAt": "2026-01-11T21:35:10.598Z"
+      },
+      "time": "00h30",
+      "id": "5482"
+    },
+    {
+      "name": "[01h30] {'id': 2244, 'referenceId': None, 'slug': 'vfb-stuttgart-1766116521590', 'name': 'VfB Stuttgart ', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png', 'createdAt': '2025-12-19T10:55:21.594Z', 'updatedAt': '2026-03-11T18:44:59.000Z'} vs {'id': 379, 'referenceId': None, 'slug': 'rb-leipzig-1759462655859', 'name': 'RB Leipzig', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg', 'createdAt': '2025-10-03T10:37:35.861Z', 'updatedAt': '2025-10-03T10:37:35.861Z'}",
+      "group": "Bundesliga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2244,
+        "referenceId": null,
+        "slug": "vfb-stuttgart-1766116521590",
+        "name": "VfB Stuttgart ",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/960px-VfB_Stuttgart_1893_Logo.svg.png",
+        "createdAt": "2025-12-19T10:55:21.594Z",
+        "updatedAt": "2026-03-11T18:44:59.000Z"
+      },
+      "away": {
+        "id": 379,
+        "referenceId": null,
+        "slug": "rb-leipzig-1759462655859",
+        "name": "RB Leipzig",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg",
+        "createdAt": "2025-10-03T10:37:35.861Z",
+        "updatedAt": "2025-10-03T10:37:35.861Z"
+      },
+      "time": "01h30",
+      "id": "5483"
+    },
+    {
+      "name": "[02h45] {'id': 92, 'referenceId': None, 'slug': 'lazio-1759051263009', 'name': 'Lazio', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png', 'createdAt': '2025-09-28T16:21:03.012Z', 'updatedAt': '2025-09-28T16:21:03.012Z'} vs {'id': 54, 'referenceId': None, 'slug': 'ac-milan-1758635802539', 'name': 'AC Milan', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png', 'createdAt': '2025-09-23T20:56:42.541Z', 'updatedAt': '2025-09-23T20:56:42.541Z'}",
+      "group": "Serie A",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 92,
+        "referenceId": null,
+        "slug": "lazio-1759051263009",
+        "name": "Lazio",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png",
+        "createdAt": "2025-09-28T16:21:03.012Z",
+        "updatedAt": "2025-09-28T16:21:03.012Z"
+      },
+      "away": {
+        "id": 54,
+        "referenceId": null,
+        "slug": "ac-milan-1758635802539",
+        "name": "AC Milan",
+        "logoUrl": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png",
+        "createdAt": "2025-09-23T20:56:42.541Z",
+        "updatedAt": "2025-09-23T20:56:42.541Z"
+      },
+      "time": "02h45",
+      "id": "5484"
+    },
+    {
+      "name": "[02h45] {'id': 515, 'referenceId': None, 'slug': 'rennes-1759621684495', 'name': ' Rennes', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png', 'createdAt': '2025-10-05T06:48:04.498Z', 'updatedAt': '2025-10-05T06:48:04.498Z'} vs {'id': 269, 'referenceId': None, 'slug': 'lille-1759287378553', 'name': 'Lille', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg', 'createdAt': '2025-10-01T09:56:18.555Z', 'updatedAt': '2025-10-01T09:56:18.555Z'}",
+      "group": "Ligue 1",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 515,
+        "referenceId": null,
+        "slug": "rennes-1759621684495",
+        "name": " Rennes",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/a/ad/Stade_Rennais_FC.png",
+        "createdAt": "2025-10-05T06:48:04.498Z",
+        "updatedAt": "2025-10-05T06:48:04.498Z"
+      },
+      "away": {
+        "id": 269,
+        "referenceId": null,
+        "slug": "lille-1759287378553",
+        "name": "Lille",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3f/Lille_OSC_2018_logo.svg",
+        "createdAt": "2025-10-01T09:56:18.555Z",
+        "updatedAt": "2025-10-01T09:56:18.555Z"
+      },
+      "time": "02h45",
+      "id": "5485"
+    },
+    {
+      "name": "[03h00] {'id': 512, 'referenceId': None, 'slug': 'real-sociedad-1759621095263', 'name': 'Real Sociedad', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s', 'createdAt': '2025-10-05T06:38:15.265Z', 'updatedAt': '2025-10-05T06:38:15.265Z'} vs {'id': 357, 'referenceId': None, 'slug': 'osasuna-1759460677530', 'name': 'Osasuna', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/5/53/Ca_osasuna.png', 'createdAt': '2025-10-03T10:04:37.533Z', 'updatedAt': '2025-10-03T10:04:37.533Z'}",
+      "group": "La Liga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 512,
+        "referenceId": null,
+        "slug": "real-sociedad-1759621095263",
+        "name": "Real Sociedad",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s",
+        "createdAt": "2025-10-05T06:38:15.265Z",
+        "updatedAt": "2025-10-05T06:38:15.265Z"
+      },
+      "away": {
+        "id": 357,
+        "referenceId": null,
+        "slug": "osasuna-1759460677530",
+        "name": "Osasuna",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/5/53/Ca_osasuna.png",
+        "createdAt": "2025-10-03T10:04:37.533Z",
+        "updatedAt": "2025-10-03T10:04:37.533Z"
+      },
+      "time": "03h00",
+      "id": "5486"
+    },
+    {
+      "name": "[00h00] {'id': 1325, 'referenceId': None, 'slug': 'oklahoma-city-thunder-1761232475469', 'name': 'Oklahoma City Thunder', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png', 'createdAt': '2025-10-23T22:14:35.475Z', 'updatedAt': '2025-10-23T22:14:35.475Z'} vs {'id': 483, 'referenceId': None, 'slug': 'minnesota-timberwolves-1759601849761', 'name': 'Minnesota Timberwolves', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png', 'createdAt': '2025-10-05T01:17:29.768Z', 'updatedAt': '2026-01-20T04:14:16.000Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1325,
+        "referenceId": null,
+        "slug": "oklahoma-city-thunder-1761232475469",
+        "name": "Oklahoma City Thunder",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Oklahoma_City_Thunder.svg/1200px-Oklahoma_City_Thunder.svg.png",
+        "createdAt": "2025-10-23T22:14:35.475Z",
+        "updatedAt": "2025-10-23T22:14:35.475Z"
+      },
+      "away": {
+        "id": 483,
+        "referenceId": null,
+        "slug": "minnesota-timberwolves-1759601849761",
+        "name": "Minnesota Timberwolves",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Minnesota_Timberwolves_logo.svg/1200px-Minnesota_Timberwolves_logo.svg.png",
+        "createdAt": "2025-10-05T01:17:29.768Z",
+        "updatedAt": "2026-01-20T04:14:16.000Z"
+      },
+      "time": "00h00",
+      "id": "5488"
+    },
+    {
+      "name": "[02h30] {'id': 611, 'referenceId': None, 'slug': 'cleveland-cavaliers-1759751488502', 'name': 'Cleveland Cavaliers ', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s', 'createdAt': '2025-10-06T18:51:28.506Z', 'updatedAt': '2025-10-06T18:51:28.506Z'} vs {'id': 927, 'referenceId': None, 'slug': 'dallas-mavericks-1760173985064', 'name': 'Dallas Mavericks', 'logoUrl': 'https://static.flashscore.com/res/image/data/vB6XdCBr-CG2H5Lcq.png', 'createdAt': '2025-10-11T16:13:05.068Z', 'updatedAt': '2026-03-14T21:12:02.000Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 611,
+        "referenceId": null,
+        "slug": "cleveland-cavaliers-1759751488502",
+        "name": "Cleveland Cavaliers ",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSON_xAXqlmVA6CaABNgxtXMaVaFZIg65IPrg&s",
+        "createdAt": "2025-10-06T18:51:28.506Z",
+        "updatedAt": "2025-10-06T18:51:28.506Z"
+      },
+      "away": {
+        "id": 927,
+        "referenceId": null,
+        "slug": "dallas-mavericks-1760173985064",
+        "name": "Dallas Mavericks",
+        "logoUrl": "https://static.flashscore.com/res/image/data/vB6XdCBr-CG2H5Lcq.png",
+        "createdAt": "2025-10-11T16:13:05.068Z",
+        "updatedAt": "2026-03-14T21:12:02.000Z"
+      },
+      "time": "02h30",
+      "id": "5489"
+    },
+    {
+      "name": "[02h30] {'id': 982, 'referenceId': None, 'slug': 'milwaukee-bucks-1760287198805', 'name': 'Milwaukee Bucks', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png', 'createdAt': '2025-10-12T23:39:58.809Z', 'updatedAt': '2025-10-12T23:39:58.809Z'} vs {'id': 1324, 'referenceId': None, 'slug': 'indiana-pacers-1761232463340', 'name': 'Indiana Pacers', 'logoUrl': 'https://static.flashscore.com/res/image/data/YyvHJVCa-OGagz1v1.png', 'createdAt': '2025-10-23T22:14:23.347Z', 'updatedAt': '2026-03-01T08:12:30.000Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 982,
+        "referenceId": null,
+        "slug": "milwaukee-bucks-1760287198805",
+        "name": "Milwaukee Bucks",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/5/5d/Milwaukee_Bucks.png",
+        "createdAt": "2025-10-12T23:39:58.809Z",
+        "updatedAt": "2025-10-12T23:39:58.809Z"
+      },
+      "away": {
+        "id": 1324,
+        "referenceId": null,
+        "slug": "indiana-pacers-1761232463340",
+        "name": "Indiana Pacers",
+        "logoUrl": "https://static.flashscore.com/res/image/data/YyvHJVCa-OGagz1v1.png",
+        "createdAt": "2025-10-23T22:14:23.347Z",
+        "updatedAt": "2026-03-01T08:12:30.000Z"
+      },
+      "time": "02h30",
+      "id": "5490"
+    },
+    {
+      "name": "[05h00] {'id': 344, 'referenceId': None, 'slug': 'philadelphia-76ers-1759393814121', 'name': 'Philadelphia 76ers', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg', 'createdAt': '2025-10-02T15:30:14.125Z', 'updatedAt': '2025-10-02T15:30:14.125Z'} vs {'id': 743, 'referenceId': None, 'slug': 'portland-trail-blazers-1759933424342', 'name': 'Portland Trail Blazers', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg', 'createdAt': '2025-10-08T21:23:44.350Z', 'updatedAt': '2025-10-08T21:23:44.350Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 344,
+        "referenceId": null,
+        "slug": "philadelphia-76ers-1759393814121",
+        "name": "Philadelphia 76ers",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/Philadelphia_76ers_logo.svg",
+        "createdAt": "2025-10-02T15:30:14.125Z",
+        "updatedAt": "2025-10-02T15:30:14.125Z"
+      },
+      "away": {
+        "id": 743,
+        "referenceId": null,
+        "slug": "portland-trail-blazers-1759933424342",
+        "name": "Portland Trail Blazers",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/21/Portland_Trail_Blazers_logo.svg",
+        "createdAt": "2025-10-08T21:23:44.350Z",
+        "updatedAt": "2025-10-08T21:23:44.350Z"
+      },
+      "time": "05h00",
+      "id": "5491"
+    },
+    {
+      "name": "[07h00] {'id': 345, 'referenceId': None, 'slug': 'new-york-knicks-1759393844401', 'name': 'New York Knicks', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg', 'createdAt': '2025-10-02T15:30:44.404Z', 'updatedAt': '2025-10-02T15:30:44.404Z'} vs {'id': 553, 'referenceId': None, 'slug': 'golden-state-warriors-1759682116790', 'name': 'Golden State Warriors', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png', 'createdAt': '2025-10-05T23:35:16.794Z', 'updatedAt': '2025-10-05T23:35:16.794Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 345,
+        "referenceId": null,
+        "slug": "new-york-knicks-1759393844401",
+        "name": "New York Knicks",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
+        "createdAt": "2025-10-02T15:30:44.404Z",
+        "updatedAt": "2025-10-02T15:30:44.404Z"
+      },
+      "away": {
+        "id": 553,
+        "referenceId": null,
+        "slug": "golden-state-warriors-1759682116790",
+        "name": "Golden State Warriors",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",
+        "createdAt": "2025-10-05T23:35:16.794Z",
+        "updatedAt": "2025-10-05T23:35:16.794Z"
+      },
+      "time": "07h00",
+      "id": "5492"
+    },
+    {
+      "name": "[09h00] {'id': 870, 'referenceId': None, 'slug': 'sacramento-kings-1760097414149', 'name': 'Sacramento Kings', 'logoUrl': 'https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png', 'createdAt': '2025-10-10T18:56:54.157Z', 'updatedAt': '2026-03-14T21:12:41.000Z'} vs {'id': 1757, 'referenceId': None, 'slug': 'utah-jazz-1763464242356', 'name': 'Utah Jazz', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg', 'createdAt': '2025-11-18T18:10:42.359Z', 'updatedAt': '2025-11-18T18:10:42.359Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 870,
+        "referenceId": null,
+        "slug": "sacramento-kings-1760097414149",
+        "name": "Sacramento Kings",
+        "logoUrl": "https://static.flashscore.com/res/image/data/rNy30FAr-UPll9Lyj.png",
+        "createdAt": "2025-10-10T18:56:54.157Z",
+        "updatedAt": "2026-03-14T21:12:41.000Z"
+      },
+      "away": {
+        "id": 1757,
+        "referenceId": null,
+        "slug": "utah-jazz-1763464242356",
+        "name": "Utah Jazz",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg",
+        "createdAt": "2025-11-18T18:10:42.359Z",
+        "updatedAt": "2025-11-18T18:10:42.359Z"
+      },
+      "time": "09h00",
+      "id": "5493"
+    },
+    {
+      "name": "[17h00] {'id': 1467, 'referenceId': None, 'slug': 'kogas-1761813808934', 'name': 'KoGas', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1200px-Daegu_KOGAS_Pegasus.svg.png', 'createdAt': '2025-10-30T15:43:28.940Z', 'updatedAt': '2025-10-30T15:43:28.940Z'} vs {'id': 1184, 'referenceId': None, 'slug': 'anyang-jungkwanjang-1760831233014', 'name': 'Anyang JungKwanJang', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/3/36/Anyang_KGC_2011_Emblem.png', 'createdAt': '2025-10-19T06:47:13.019Z', 'updatedAt': '2025-10-19T06:47:13.019Z'}",
+      "group": "KBL",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1467,
+        "referenceId": null,
+        "slug": "kogas-1761813808934",
+        "name": "KoGas",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Daegu_KOGAS_Pegasus.svg/1200px-Daegu_KOGAS_Pegasus.svg.png",
+        "createdAt": "2025-10-30T15:43:28.940Z",
+        "updatedAt": "2025-10-30T15:43:28.940Z"
+      },
+      "away": {
+        "id": 1184,
+        "referenceId": null,
+        "slug": "anyang-jungkwanjang-1760831233014",
+        "name": "Anyang JungKwanJang",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Anyang_KGC_2011_Emblem.png",
+        "createdAt": "2025-10-19T06:47:13.019Z",
+        "updatedAt": "2025-10-19T06:47:13.019Z"
+      },
+      "time": "17h00",
+      "id": "5494"
+    },
+    {
+      "name": "[18h35] {'id': 2140, 'referenceId': None, 'slug': 'shanghai-1765697552741', 'name': 'Shanghai', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/3/38/Shanghai_Sharks_logo.png', 'createdAt': '2025-12-14T14:32:32.744Z', 'updatedAt': '2025-12-14T14:32:32.744Z'} vs {'id': 2128, 'referenceId': None, 'slug': 'qingdao-1765450050682', 'name': ' Qingdao', 'logoUrl': 'https://static.flashscore.com/res/image/data/x6CAcMHG-GC1TuDEA.png', 'createdAt': '2025-12-11T17:47:30.690Z', 'updatedAt': '2026-03-14T21:13:26.000Z'}",
+      "group": "CBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2140,
+        "referenceId": null,
+        "slug": "shanghai-1765697552741",
+        "name": "Shanghai",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Shanghai_Sharks_logo.png",
+        "createdAt": "2025-12-14T14:32:32.744Z",
+        "updatedAt": "2025-12-14T14:32:32.744Z"
+      },
+      "away": {
+        "id": 2128,
+        "referenceId": null,
+        "slug": "qingdao-1765450050682",
+        "name": " Qingdao",
+        "logoUrl": "https://static.flashscore.com/res/image/data/x6CAcMHG-GC1TuDEA.png",
+        "createdAt": "2025-12-11T17:47:30.690Z",
+        "updatedAt": "2026-03-14T21:13:26.000Z"
+      },
+      "time": "18h35",
+      "id": "5495"
+    },
+    {
+      "name": "[18h35] {'id': 2127, 'referenceId': None, 'slug': 'shenzhen-1765450038857', 'name': 'Shenzhen ', 'logoUrl': 'https://static.flashscore.com/res/image/data/KbyBL1Xg-8hRiTVXM.png', 'createdAt': '2025-12-11T17:47:18.860Z', 'updatedAt': '2026-03-14T21:14:10.000Z'} vs {'id': 2205, 'referenceId': None, 'slug': 'guangzhou-1765889529077', 'name': 'Guangzhou', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png', 'createdAt': '2025-12-16T19:52:09.079Z', 'updatedAt': '2025-12-16T19:52:09.079Z'}",
+      "group": "CBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2127,
+        "referenceId": null,
+        "slug": "shenzhen-1765450038857",
+        "name": "Shenzhen ",
+        "logoUrl": "https://static.flashscore.com/res/image/data/KbyBL1Xg-8hRiTVXM.png",
+        "createdAt": "2025-12-11T17:47:18.860Z",
+        "updatedAt": "2026-03-14T21:14:10.000Z"
+      },
+      "away": {
+        "id": 2205,
+        "referenceId": null,
+        "slug": "guangzhou-1765889529077",
+        "name": "Guangzhou",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/ro/3/33/Guangzhou_Evergrande_2012_Crest.png",
+        "createdAt": "2025-12-16T19:52:09.079Z",
+        "updatedAt": "2025-12-16T19:52:09.079Z"
+      },
+      "time": "18h35",
+      "id": "5496"
+    },
+    {
+      "name": "[06h00] {'id': 1363, 'referenceId': None, 'slug': 'atlanta-hawks-1761398634008', 'name': 'Atlanta Hawks ', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png', 'createdAt': '2025-10-25T20:23:54.020Z', 'updatedAt': '2025-10-25T20:23:54.020Z'} vs {'id': 868, 'referenceId': None, 'slug': 'orlando-magic-1760097387565', 'name': 'Orlando Magic', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png', 'createdAt': '2025-10-10T18:56:27.572Z', 'updatedAt': '2025-10-10T18:56:27.572Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1363,
+        "referenceId": null,
+        "slug": "atlanta-hawks-1761398634008",
+        "name": "Atlanta Hawks ",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Atlanta_Hawks_logo.svg/1200px-Atlanta_Hawks_logo.svg.png",
+        "createdAt": "2025-10-25T20:23:54.020Z",
+        "updatedAt": "2025-10-25T20:23:54.020Z"
+      },
+      "away": {
+        "id": 868,
+        "referenceId": null,
+        "slug": "orlando-magic-1760097387565",
+        "name": "Orlando Magic",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Orlando_Magic_logo.svg/1200px-Orlando_Magic_logo.svg.png",
+        "createdAt": "2025-10-10T18:56:27.572Z",
+        "updatedAt": "2025-10-10T18:56:27.572Z"
+      },
+      "time": "06h00",
+      "id": "5497"
+    },
+    {
+      "name": "[06h00] {'id': 1907, 'referenceId': None, 'slug': 'washington-wizards-1764443590013', 'name': 'Washington Wizards', 'logoUrl': 'https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png', 'createdAt': '2025-11-30T02:13:10.016Z', 'updatedAt': '2026-03-01T08:13:35.000Z'} vs {'id': 553, 'referenceId': None, 'slug': 'golden-state-warriors-1759682116790', 'name': 'Golden State Warriors', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png', 'createdAt': '2025-10-05T23:35:16.794Z', 'updatedAt': '2025-10-05T23:35:16.794Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1907,
+        "referenceId": null,
+        "slug": "washington-wizards-1764443590013",
+        "name": "Washington Wizards",
+        "logoUrl": "https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png",
+        "createdAt": "2025-11-30T02:13:10.016Z",
+        "updatedAt": "2026-03-01T08:13:35.000Z"
+      },
+      "away": {
+        "id": 553,
+        "referenceId": null,
+        "slug": "golden-state-warriors-1759682116790",
+        "name": "Golden State Warriors",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/0/0f/Golden_State_Warriors_logo.png",
+        "createdAt": "2025-10-05T23:35:16.794Z",
+        "updatedAt": "2025-10-05T23:35:16.794Z"
+      },
+      "time": "06h00",
+      "id": "5498"
+    },
+    {
+      "name": "[06h30] {'id': 1453, 'referenceId': None, 'slug': 'boston-celtics-1761732950711', 'name': 'Boston Celtics', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png', 'createdAt': '2025-10-29T17:15:50.716Z', 'updatedAt': '2025-10-29T17:15:50.716Z'} vs {'id': 432, 'referenceId': None, 'slug': 'phoenix-suns-1759500945263', 'name': 'Phoenix Suns', 'logoUrl': 'https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png', 'createdAt': '2025-10-03T21:15:45.266Z', 'updatedAt': '2025-10-03T21:15:45.266Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1453,
+        "referenceId": null,
+        "slug": "boston-celtics-1761732950711",
+        "name": "Boston Celtics",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/f/f5/Boston_Celtics.png",
+        "createdAt": "2025-10-29T17:15:50.716Z",
+        "updatedAt": "2025-10-29T17:15:50.716Z"
+      },
+      "away": {
+        "id": 432,
+        "referenceId": null,
+        "slug": "phoenix-suns-1759500945263",
+        "name": "Phoenix Suns",
+        "logoUrl": "https://logodetimes.com/times/phoenix-suns/logo-phoenix-suns-1536.png",
+        "createdAt": "2025-10-03T21:15:45.266Z",
+        "updatedAt": "2025-10-03T21:15:45.266Z"
+      },
+      "time": "06h30",
+      "id": "5499"
+    },
+    {
+      "name": "[07h00] {'id': 413, 'referenceId': None, 'slug': 'new-orleans-pelicans-1759483857579', 'name': 'New Orleans Pelicans', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg', 'createdAt': '2025-10-03T16:30:57.583Z', 'updatedAt': '2025-10-03T16:30:57.583Z'} vs {'id': 927, 'referenceId': None, 'slug': 'dallas-mavericks-1760173985064', 'name': 'Dallas Mavericks', 'logoUrl': 'https://static.flashscore.com/res/image/data/vB6XdCBr-CG2H5Lcq.png', 'createdAt': '2025-10-11T16:13:05.068Z', 'updatedAt': '2026-03-14T21:12:02.000Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 413,
+        "referenceId": null,
+        "slug": "new-orleans-pelicans-1759483857579",
+        "name": "New Orleans Pelicans",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0d/New_Orleans_Pelicans_logo.svg",
+        "createdAt": "2025-10-03T16:30:57.583Z",
+        "updatedAt": "2025-10-03T16:30:57.583Z"
+      },
+      "away": {
+        "id": 927,
+        "referenceId": null,
+        "slug": "dallas-mavericks-1760173985064",
+        "name": "Dallas Mavericks",
+        "logoUrl": "https://static.flashscore.com/res/image/data/vB6XdCBr-CG2H5Lcq.png",
+        "createdAt": "2025-10-11T16:13:05.068Z",
+        "updatedAt": "2026-03-14T21:12:02.000Z"
+      },
+      "time": "07h00",
+      "id": "5500"
+    },
+    {
+      "name": "[08h30] {'id': 1578, 'referenceId': None, 'slug': 'houston-rockets-1762518174953', 'name': 'Houston Rockets', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg', 'createdAt': '2025-11-07T19:22:54.957Z', 'updatedAt': '2025-11-07T19:22:54.957Z'} vs {'id': 431, 'referenceId': None, 'slug': 'los-angeles-lakers-1759500923465', 'name': 'Los Angeles Lakers', 'logoUrl': 'https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png', 'createdAt': '2025-10-03T21:15:23.467Z', 'updatedAt': '2025-10-03T21:15:23.467Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1578,
+        "referenceId": null,
+        "slug": "houston-rockets-1762518174953",
+        "name": "Houston Rockets",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/Houston_Rockets.svg",
+        "createdAt": "2025-11-07T19:22:54.957Z",
+        "updatedAt": "2025-11-07T19:22:54.957Z"
+      },
+      "away": {
+        "id": 431,
+        "referenceId": null,
+        "slug": "los-angeles-lakers-1759500923465",
+        "name": "Los Angeles Lakers",
+        "logoUrl": "https://www.freepnglogos.com/uploads/lakers-logo-png/los-angeles-lakers-wordmark-logo-png-4.png",
+        "createdAt": "2025-10-03T21:15:23.467Z",
+        "updatedAt": "2025-10-03T21:15:23.467Z"
+      },
+      "time": "08h30",
+      "id": "5501"
+    },
+    {
+      "name": "[09h00] {'id': 1635, 'referenceId': None, 'slug': 'los-angeles-clippers-1762827557739', 'name': 'Los angeles Clippers', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png', 'createdAt': '2025-11-11T09:19:17.743Z', 'updatedAt': '2025-11-11T09:19:17.743Z'} vs {'id': 741, 'referenceId': None, 'slug': 'san-antonio-spurs-1759933389871', 'name': 'San Antonio Spurs', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png', 'createdAt': '2025-10-08T21:23:09.880Z', 'updatedAt': '2025-10-08T21:23:09.880Z'}",
+      "group": "NBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1635,
+        "referenceId": null,
+        "slug": "los-angeles-clippers-1762827557739",
+        "name": "Los angeles Clippers",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Los_Angeles_Clippers_%282024%29.svg/1200px-Los_Angeles_Clippers_%282024%29.svg.png",
+        "createdAt": "2025-11-11T09:19:17.743Z",
+        "updatedAt": "2025-11-11T09:19:17.743Z"
+      },
+      "away": {
+        "id": 741,
+        "referenceId": null,
+        "slug": "san-antonio-spurs-1759933389871",
+        "name": "San Antonio Spurs",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/e/ec/San_Antonio_Spurs_logo.png",
+        "createdAt": "2025-10-08T21:23:09.880Z",
+        "updatedAt": "2025-10-08T21:23:09.880Z"
+      },
+      "time": "09h00",
+      "id": "5502"
+    },
+    {
+      "name": "[18h35] {'id': 2129, 'referenceId': None, 'slug': 'guangdong-1765450077667', 'name': 'Guangdong', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/1/15/Guangdong_Southern_Tigers.png', 'createdAt': '2025-12-11T17:47:57.673Z', 'updatedAt': '2025-12-11T17:47:57.673Z'} vs {'id': 2151, 'referenceId': None, 'slug': 'xinjiang-1765732302630', 'name': ' Xinjiang', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/4/44/Xinjiang_Flying_Tigers.png', 'createdAt': '2025-12-15T00:11:42.635Z', 'updatedAt': '2025-12-15T00:11:42.635Z'}",
+      "group": "CBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2129,
+        "referenceId": null,
+        "slug": "guangdong-1765450077667",
+        "name": "Guangdong",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Guangdong_Southern_Tigers.png",
+        "createdAt": "2025-12-11T17:47:57.673Z",
+        "updatedAt": "2025-12-11T17:47:57.673Z"
+      },
+      "away": {
+        "id": 2151,
+        "referenceId": null,
+        "slug": "xinjiang-1765732302630",
+        "name": " Xinjiang",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Xinjiang_Flying_Tigers.png",
+        "createdAt": "2025-12-15T00:11:42.635Z",
+        "updatedAt": "2025-12-15T00:11:42.635Z"
+      },
+      "time": "18h35",
+      "id": "5503"
+    },
+    {
+      "name": "[18h35] {'id': 2125, 'referenceId': None, 'slug': 'shanxi-zhongyu-1765449837055', 'name': ' Shanxi Zhongyu', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/5/55/Shanxi_Brave_Dragons_logo.jpg', 'createdAt': '2025-12-11T17:43:57.058Z', 'updatedAt': '2025-12-11T17:43:57.058Z'} vs {'id': 2637, 'referenceId': None, 'slug': 'beijing-royal-fighters.uNtxZmFQke', 'name': 'Beijing Royal Fighters', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/0/00/Beikong_Fly_Dragons.png', 'createdAt': '2026-01-20T04:10:36.270Z', 'updatedAt': '2026-01-20T04:10:36.270Z'}",
+      "group": "CBA",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2125,
+        "referenceId": null,
+        "slug": "shanxi-zhongyu-1765449837055",
+        "name": " Shanxi Zhongyu",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Shanxi_Brave_Dragons_logo.jpg",
+        "createdAt": "2025-12-11T17:43:57.058Z",
+        "updatedAt": "2025-12-11T17:43:57.058Z"
+      },
+      "away": {
+        "id": 2637,
+        "referenceId": null,
+        "slug": "beijing-royal-fighters.uNtxZmFQke",
+        "name": "Beijing Royal Fighters",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Beikong_Fly_Dragons.png",
+        "createdAt": "2026-01-20T04:10:36.270Z",
+        "updatedAt": "2026-01-20T04:10:36.270Z"
+      },
+      "time": "18h35",
+      "id": "5504"
+    },
+    {
+      "name": "[22h00] {'id': 212, 'referenceId': None, 'slug': 'hapoel-tel-aviv-1759216757378', 'name': 'Hapoel Tel-Aviv', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png', 'createdAt': '2025-09-30T14:19:17.380Z', 'updatedAt': '2025-09-30T14:19:17.380Z'} vs {'id': 1848, 'referenceId': None, 'slug': 'paris-1764033496892', 'name': 'Paris', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/1200px-Logo_Paris_Basketball.svg.png', 'createdAt': '2025-11-25T08:18:16.898Z', 'updatedAt': '2025-11-25T08:18:16.898Z'}",
+      "group": "EUROLEAGUE",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 212,
+        "referenceId": null,
+        "slug": "hapoel-tel-aviv-1759216757378",
+        "name": "Hapoel Tel-Aviv",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/5/52/Hapoel_Tel_Aviv_Logo.png",
+        "createdAt": "2025-09-30T14:19:17.380Z",
+        "updatedAt": "2025-09-30T14:19:17.380Z"
+      },
+      "away": {
+        "id": 1848,
+        "referenceId": null,
+        "slug": "paris-1764033496892",
+        "name": "Paris",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/1200px-Logo_Paris_Basketball.svg.png",
+        "createdAt": "2025-11-25T08:18:16.898Z",
+        "updatedAt": "2025-11-25T08:18:16.898Z"
+      },
+      "time": "22h00",
+      "id": "5505"
+    },
+    {
+      "name": "[15h30] {'id': 3158, 'referenceId': None, 'slug': 'adelaide-36ers.CqCEOuUQuU', 'name': 'Adelaide 36ers', 'logoUrl': 'https://static.flashscore.com/res/image/data/CYeDQAil-AuKTYK5s.png', 'createdAt': '2026-03-14T21:20:07.836Z', 'updatedAt': '2026-03-14T21:20:07.836Z'} vs {'id': 2969, 'referenceId': None, 'slug': 'south-east-melbourne.wkQvokH3dU', 'name': 'South East Melbourne ', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s', 'createdAt': '2026-03-01T07:51:10.649Z', 'updatedAt': '2026-03-01T07:51:10.649Z'}",
+      "group": "NBL",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3158,
+        "referenceId": null,
+        "slug": "adelaide-36ers.CqCEOuUQuU",
+        "name": "Adelaide 36ers",
+        "logoUrl": "https://static.flashscore.com/res/image/data/CYeDQAil-AuKTYK5s.png",
+        "createdAt": "2026-03-14T21:20:07.836Z",
+        "updatedAt": "2026-03-14T21:20:07.836Z"
+      },
+      "away": {
+        "id": 2969,
+        "referenceId": null,
+        "slug": "south-east-melbourne.wkQvokH3dU",
+        "name": "South East Melbourne ",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEPvX3567QSBgGrVOAjujMN_GzhX5pssXG0Q&s",
+        "createdAt": "2026-03-01T07:51:10.649Z",
+        "updatedAt": "2026-03-01T07:51:10.649Z"
+      },
+      "time": "15h30",
+      "id": "5506"
+    },
+    {
+      "name": "[17h30] {'id': 3137, 'referenceId': None, 'slug': 'tay-vot-1.-lHw4YndaP', 'name': 'Tay Vợt 1 ', 'logoUrl': 'https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg', 'createdAt': '2026-03-12T15:12:33.980Z', 'updatedAt': '2026-03-12T15:12:33.980Z'} vs {'id': 3138, 'referenceId': None, 'slug': 'tay-vot-2.FjMI7Mx0gD', 'name': 'Tay Vợt 2', 'logoUrl': 'https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg', 'createdAt': '2026-03-12T15:12:36.696Z', 'updatedAt': '2026-03-12T15:12:36.696Z'}",
+      "group": "WTT Champions Chongqing",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3137,
+        "referenceId": null,
+        "slug": "tay-vot-1.-lHw4YndaP",
+        "name": "Tay Vợt 1 ",
+        "logoUrl": "https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",
+        "createdAt": "2026-03-12T15:12:33.980Z",
+        "updatedAt": "2026-03-12T15:12:33.980Z"
+      },
+      "away": {
+        "id": 3138,
+        "referenceId": null,
+        "slug": "tay-vot-2.FjMI7Mx0gD",
+        "name": "Tay Vợt 2",
+        "logoUrl": "https://png.pngtree.com/png-clipart/20190904/original/pngtree-red-table-tennis-racket-illustration-png-image_4502882.jpg",
+        "createdAt": "2026-03-12T15:12:36.696Z",
+        "updatedAt": "2026-03-12T15:12:36.696Z"
+      },
+      "time": "17h30",
+      "id": "5507"
+    },
+    {
+      "name": "[00h00] {'id': 3161, 'referenceId': '997', 'slug': 'genclerbirligi-sk.xeLx23vxnF', 'name': 'Gençlerbirliği S.K.', 'logoUrl': 'https://media.api-sports.io/football/teams/997.png', 'createdAt': '2026-03-15T11:41:57.227Z', 'updatedAt': '2026-03-15T11:41:57.227Z'} vs {'id': 85, 'referenceId': None, 'slug': 'besiktas-1759051007596', 'name': 'Beşiktaş ', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg', 'createdAt': '2025-09-28T16:16:47.598Z', 'updatedAt': '2025-09-28T16:16:47.598Z'}",
+      "group": "Süper Lig",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3161,
+        "referenceId": "997",
+        "slug": "genclerbirligi-sk.xeLx23vxnF",
+        "name": "Gençlerbirliği S.K.",
+        "logoUrl": "https://media.api-sports.io/football/teams/997.png",
+        "createdAt": "2026-03-15T11:41:57.227Z",
+        "updatedAt": "2026-03-15T11:41:57.227Z"
+      },
+      "away": {
+        "id": 85,
+        "referenceId": null,
+        "slug": "besiktas-1759051007596",
+        "name": "Beşiktaş ",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/BesiktasJK-Logo.svg",
+        "createdAt": "2025-09-28T16:16:47.598Z",
+        "updatedAt": "2025-09-28T16:16:47.598Z"
+      },
+      "time": "00h00",
+      "id": "5509"
+    },
+    {
+      "name": "[03h30] {'id': 98, 'referenceId': None, 'slug': 'fc-porto-1759051357182', 'name': 'FC Porto', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/9/93/Fcporto.png', 'createdAt': '2025-09-28T16:22:37.186Z', 'updatedAt': '2025-09-28T16:22:37.186Z'} vs {'id': 2142, 'referenceId': None, 'slug': 'moreirense-1765730791537', 'name': 'Moreirense', 'logoUrl': 'https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw1jmoep/image/small', 'createdAt': '2025-12-14T23:46:31.542Z', 'updatedAt': '2025-12-14T23:46:31.542Z'}",
+      "group": "Primeira Liga",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phancao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 98,
+        "referenceId": null,
+        "slug": "fc-porto-1759051357182",
+        "name": "FC Porto",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/9/93/Fcporto.png",
+        "createdAt": "2025-09-28T16:22:37.186Z",
+        "updatedAt": "2025-09-28T16:22:37.186Z"
+      },
+      "away": {
+        "id": 2142,
+        "referenceId": null,
+        "slug": "moreirense-1765730791537",
+        "name": "Moreirense",
+        "logoUrl": "https://imgts.sportpulseapiz.com/football/team/9dn1m1ghw1jmoep/image/small",
+        "createdAt": "2025-12-14T23:46:31.542Z",
+        "updatedAt": "2025-12-14T23:46:31.542Z"
+      },
+      "time": "03h30",
+      "id": "5510"
+    },
+    {
+      "name": "[06h00] {'id': 450, 'referenceId': None, 'slug': 'tigres-uanl-1759584364472', 'name': 'Tigres UANL ', 'logoUrl': 'https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg', 'createdAt': '2025-10-04T20:26:04.479Z', 'updatedAt': '2025-10-04T20:26:04.479Z'} vs {'id': 2805, 'referenceId': '2290', 'slug': 'club-queretaro.nea6dTVJ_M', 'name': 'Club Queretaro', 'logoUrl': 'https://media.api-sports.io/football/teams/2290.png', 'createdAt': '2026-02-01T08:09:02.883Z', 'updatedAt': '2026-02-01T08:09:02.883Z'}",
+      "group": "Liga MX",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 450,
+        "referenceId": null,
+        "slug": "tigres-uanl-1759584364472",
+        "name": "Tigres UANL ",
+        "logoUrl": "https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg",
+        "createdAt": "2025-10-04T20:26:04.479Z",
+        "updatedAt": "2025-10-04T20:26:04.479Z"
+      },
+      "away": {
+        "id": 2805,
+        "referenceId": "2290",
+        "slug": "club-queretaro.nea6dTVJ_M",
+        "name": "Club Queretaro",
+        "logoUrl": "https://media.api-sports.io/football/teams/2290.png",
+        "createdAt": "2026-02-01T08:09:02.883Z",
+        "updatedAt": "2026-02-01T08:09:02.883Z"
+      },
+      "time": "06h00",
+      "id": "5511"
+    },
+    {
+      "name": "[08h00] {'id': 3162, 'referenceId': '441', 'slug': 'union-santa-fe.jryplW0o3d', 'name': 'Union Santa Fe', 'logoUrl': 'https://media.api-sports.io/football/teams/441.png', 'createdAt': '2026-03-15T11:42:41.819Z', 'updatedAt': '2026-03-15T11:42:41.819Z'} vs {'id': 528, 'referenceId': None, 'slug': 'boca-juniors-1759657692528', 'name': 'Boca Juniors', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg', 'createdAt': '2025-10-05T16:48:12.534Z', 'updatedAt': '2025-10-05T16:48:12.534Z'}",
+      "group": "Liga Profesional Argentina",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3162,
+        "referenceId": "441",
+        "slug": "union-santa-fe.jryplW0o3d",
+        "name": "Union Santa Fe",
+        "logoUrl": "https://media.api-sports.io/football/teams/441.png",
+        "createdAt": "2026-03-15T11:42:41.819Z",
+        "updatedAt": "2026-03-15T11:42:41.819Z"
+      },
+      "away": {
+        "id": 528,
+        "referenceId": null,
+        "slug": "boca-juniors-1759657692528",
+        "name": "Boca Juniors",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Escudo_del_Club_Atl%C3%A9tico_Boca_Juniors_2012.svg",
+        "createdAt": "2025-10-05T16:48:12.534Z",
+        "updatedAt": "2025-10-05T16:48:12.534Z"
+      },
+      "time": "08h00",
+      "id": "5512"
+    },
+    {
+      "name": "[08h00] {'id': 452, 'referenceId': None, 'slug': 'club-america-1759584411813', 'name': 'Club America', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png', 'createdAt': '2025-10-04T20:26:51.826Z', 'updatedAt': '2025-10-04T20:26:51.826Z'} vs {'id': 2583, 'referenceId': '14002', 'slug': 'mazatlan.NHPFumyo6T', 'name': 'Mazatlán', 'logoUrl': 'https://media.api-sports.io/football/teams/14002.png', 'createdAt': '2026-01-16T04:11:45.281Z', 'updatedAt': '2026-01-16T04:11:45.281Z'}",
+      "group": "Liga MX",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 452,
+        "referenceId": null,
+        "slug": "club-america-1759584411813",
+        "name": "Club America",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Club_Am%C3%A9rica_crest.svg/1200px-Club_Am%C3%A9rica_crest.svg.png",
+        "createdAt": "2025-10-04T20:26:51.826Z",
+        "updatedAt": "2025-10-04T20:26:51.826Z"
+      },
+      "away": {
+        "id": 2583,
+        "referenceId": "14002",
+        "slug": "mazatlan.NHPFumyo6T",
+        "name": "Mazatlán",
+        "logoUrl": "https://media.api-sports.io/football/teams/14002.png",
+        "createdAt": "2026-01-16T04:11:45.281Z",
+        "updatedAt": "2026-01-16T04:11:45.281Z"
+      },
+      "time": "08h00",
+      "id": "5513"
+    },
+    {
+      "name": "[19h30] {'id': 2491, 'referenceId': '10077', 'slug': 'tanjong-pagar.tKOVurLAoH', 'name': 'Tanjong Pagar', 'logoUrl': 'https://media.api-sports.io/football/teams/10077.png', 'createdAt': '2026-01-11T01:42:49.489Z', 'updatedAt': '2026-01-11T01:42:49.489Z'} vs {'id': 2569, 'referenceId': '4206', 'slug': 'tampines-rovers.voTaxQIV5M', 'name': 'Tampines Rovers', 'logoUrl': 'https://media.api-sports.io/football/teams/4206.png', 'createdAt': '2026-01-15T02:13:46.858Z', 'updatedAt': '2026-01-15T02:13:46.858Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2491,
+        "referenceId": "10077",
+        "slug": "tanjong-pagar.tKOVurLAoH",
+        "name": "Tanjong Pagar",
+        "logoUrl": "https://media.api-sports.io/football/teams/10077.png",
+        "createdAt": "2026-01-11T01:42:49.489Z",
+        "updatedAt": "2026-01-11T01:42:49.489Z"
+      },
+      "away": {
+        "id": 2569,
+        "referenceId": "4206",
+        "slug": "tampines-rovers.voTaxQIV5M",
+        "name": "Tampines Rovers",
+        "logoUrl": "https://media.api-sports.io/football/teams/4206.png",
+        "createdAt": "2026-01-15T02:13:46.858Z",
+        "updatedAt": "2026-01-15T02:13:46.858Z"
+      },
+      "time": "19h30",
+      "id": "5514"
+    },
+    {
+      "name": "[21h00] {'id': 3110, 'referenceId': '3466', 'slug': 'minerva-punjab.pCA71cGeJZ', 'name': 'Minerva Punjab', 'logoUrl': 'https://media.api-sports.io/football/teams/3466.png', 'createdAt': '2026-03-07T20:01:12.103Z', 'updatedAt': '2026-03-07T20:01:12.103Z'} vs {'id': 1260, 'referenceId': None, 'slug': 'goa-1761019864379', 'name': 'Goa', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/pt/7/72/FC_Goa.png', 'createdAt': '2025-10-21T11:11:04.388Z', 'updatedAt': '2025-10-21T11:11:04.388Z'}",
+      "group": "Indian Super League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3110,
+        "referenceId": "3466",
+        "slug": "minerva-punjab.pCA71cGeJZ",
+        "name": "Minerva Punjab",
+        "logoUrl": "https://media.api-sports.io/football/teams/3466.png",
+        "createdAt": "2026-03-07T20:01:12.103Z",
+        "updatedAt": "2026-03-07T20:01:12.103Z"
+      },
+      "away": {
+        "id": 1260,
+        "referenceId": null,
+        "slug": "goa-1761019864379",
+        "name": "Goa",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/7/72/FC_Goa.png",
+        "createdAt": "2025-10-21T11:11:04.388Z",
+        "updatedAt": "2025-10-21T11:11:04.388Z"
+      },
+      "time": "21h00",
+      "id": "5515"
+    },
+    {
+      "name": "[22h00] {'id': 3165, 'referenceId': '16611', 'slug': 'zhenys.T_W69Y0KyQ', 'name': 'Zhenys', 'logoUrl': 'https://media.api-sports.io/football/teams/16611.png', 'createdAt': '2026-03-15T11:44:24.945Z', 'updatedAt': '2026-03-15T11:44:24.945Z'} vs {'id': 3166, 'referenceId': '692', 'slug': 'ordabasy.YFQlKCgKH3', 'name': 'Ordabasy', 'logoUrl': 'https://media.api-sports.io/football/teams/692.png', 'createdAt': '2026-03-15T11:44:25.039Z', 'updatedAt': '2026-03-15T11:44:25.039Z'}",
+      "group": "Premier League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3165,
+        "referenceId": "16611",
+        "slug": "zhenys.T_W69Y0KyQ",
+        "name": "Zhenys",
+        "logoUrl": "https://media.api-sports.io/football/teams/16611.png",
+        "createdAt": "2026-03-15T11:44:24.945Z",
+        "updatedAt": "2026-03-15T11:44:24.945Z"
+      },
+      "away": {
+        "id": 3166,
+        "referenceId": "692",
+        "slug": "ordabasy.YFQlKCgKH3",
+        "name": "Ordabasy",
+        "logoUrl": "https://media.api-sports.io/football/teams/692.png",
+        "createdAt": "2026-03-15T11:44:25.039Z",
+        "updatedAt": "2026-03-15T11:44:25.039Z"
+      },
+      "time": "22h00",
+      "id": "5516"
+    },
+    {
+      "name": "[22h30] {'id': 2808, 'referenceId': '2581', 'slug': 'fc-botosani.r5MovUcHGI', 'name': 'FC Botosani', 'logoUrl': 'https://media.api-sports.io/football/teams/2581.png', 'createdAt': '2026-02-01T08:10:34.427Z', 'updatedAt': '2026-02-01T08:10:34.427Z'} vs {'id': 2988, 'referenceId': '6916', 'slug': 'unirea-slobozia.W6fDtNg07g', 'name': 'Unirea Slobozia', 'logoUrl': 'https://media.api-sports.io/football/teams/6916.png', 'createdAt': '2026-03-02T07:51:28.410Z', 'updatedAt': '2026-03-02T07:51:28.410Z'}",
+      "group": "Liga I",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2808,
+        "referenceId": "2581",
+        "slug": "fc-botosani.r5MovUcHGI",
+        "name": "FC Botosani",
+        "logoUrl": "https://media.api-sports.io/football/teams/2581.png",
+        "createdAt": "2026-02-01T08:10:34.427Z",
+        "updatedAt": "2026-02-01T08:10:34.427Z"
+      },
+      "away": {
+        "id": 2988,
+        "referenceId": "6916",
+        "slug": "unirea-slobozia.W6fDtNg07g",
+        "name": "Unirea Slobozia",
+        "logoUrl": "https://media.api-sports.io/football/teams/6916.png",
+        "createdAt": "2026-03-02T07:51:28.410Z",
+        "updatedAt": "2026-03-02T07:51:28.410Z"
+      },
+      "time": "22h30",
+      "id": "5517"
+    },
+    {
+      "name": "[23h00] {'id': 1205, 'referenceId': None, 'slug': 'arda-kardzhali-1760835670494', 'name': 'Arda Kardzhali', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/7/79/FC_Arda_logo_2018.png', 'createdAt': '2025-10-19T08:01:10.497Z', 'updatedAt': '2025-10-19T08:01:10.497Z'} vs {'id': 3072, 'referenceId': '1427', 'slug': 'dobrudzha.OCSARYnxeE', 'name': 'Dobrudzha', 'logoUrl': 'https://media.api-sports.io/football/teams/1427.png', 'createdAt': '2026-03-04T06:25:48.278Z', 'updatedAt': '2026-03-04T06:25:48.278Z'}",
+      "group": "First League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1205,
+        "referenceId": null,
+        "slug": "arda-kardzhali-1760835670494",
+        "name": "Arda Kardzhali",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Arda_logo_2018.png",
+        "createdAt": "2025-10-19T08:01:10.497Z",
+        "updatedAt": "2025-10-19T08:01:10.497Z"
+      },
+      "away": {
+        "id": 3072,
+        "referenceId": "1427",
+        "slug": "dobrudzha.OCSARYnxeE",
+        "name": "Dobrudzha",
+        "logoUrl": "https://media.api-sports.io/football/teams/1427.png",
+        "createdAt": "2026-03-04T06:25:48.278Z",
+        "updatedAt": "2026-03-04T06:25:48.278Z"
+      },
+      "time": "23h00",
+      "id": "5518"
+    },
+    {
+      "name": "[23h30] {'id': 1444, 'referenceId': None, 'slug': 'torpedo-moskva-1761707037488', 'name': 'Torpedo Moskva', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png', 'createdAt': '2025-10-29T10:03:57.495Z', 'updatedAt': '2025-10-29T10:03:57.495Z'} vs {'id': 3169, 'referenceId': '2001', 'slug': 'fk-neftekhimik.BCtbt29ePK', 'name': 'FK Neftekhimik', 'logoUrl': 'https://media.api-sports.io/football/teams/2001.png', 'createdAt': '2026-03-15T11:46:42.944Z', 'updatedAt': '2026-03-15T11:46:42.944Z'}",
+      "group": "First League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://tldm0825.edgemaxcdn.org/hqtv_blv_alexphan/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1444,
+        "referenceId": null,
+        "slug": "torpedo-moskva-1761707037488",
+        "name": "Torpedo Moskva",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png",
+        "createdAt": "2025-10-29T10:03:57.495Z",
+        "updatedAt": "2025-10-29T10:03:57.495Z"
+      },
+      "away": {
+        "id": 3169,
+        "referenceId": "2001",
+        "slug": "fk-neftekhimik.BCtbt29ePK",
+        "name": "FK Neftekhimik",
+        "logoUrl": "https://media.api-sports.io/football/teams/2001.png",
+        "createdAt": "2026-03-15T11:46:42.944Z",
+        "updatedAt": "2026-03-15T11:46:42.944Z"
+      },
+      "time": "23h30",
+      "id": "5520"
+    },
+    {
+      "name": "[01h00] {'id': 3144, 'referenceId': None, 'slug': 'aryna-sabalenka.5-onP07DeG', 'name': 'Aryna Sabalenka', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/b/b8/Sabalenka_WM18_%283%29_%2830063199288%29.jpg', 'createdAt': '2026-03-13T14:18:55.417Z', 'updatedAt': '2026-03-13T14:18:55.417Z'} vs {'id': 3146, 'referenceId': None, 'slug': 'elena-rybakina.zsEz-LKWd2', 'name': 'Elena Rybakina', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgbcQTwQftJppnCiKC9Wed1i6puDevH9m5Q&s', 'createdAt': '2026-03-13T14:21:03.323Z', 'updatedAt': '2026-03-13T14:21:03.323Z'}",
+      "group": "Indian Wells ",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbao/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3144,
+        "referenceId": null,
+        "slug": "aryna-sabalenka.5-onP07DeG",
+        "name": "Aryna Sabalenka",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sabalenka_WM18_%283%29_%2830063199288%29.jpg",
+        "createdAt": "2026-03-13T14:18:55.417Z",
+        "updatedAt": "2026-03-13T14:18:55.417Z"
+      },
+      "away": {
+        "id": 3146,
+        "referenceId": null,
+        "slug": "elena-rybakina.zsEz-LKWd2",
+        "name": "Elena Rybakina",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgbcQTwQftJppnCiKC9Wed1i6puDevH9m5Q&s",
+        "createdAt": "2026-03-13T14:21:03.323Z",
+        "updatedAt": "2026-03-13T14:21:03.323Z"
+      },
+      "time": "01h00",
+      "id": "5521"
+    },
+    {
+      "name": "[04h00] {'id': 148, 'referenceId': None, 'slug': 'daniil-medvedev-1759134106132', 'name': 'Daniil Medvedev ', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-ThUSVRA1sgqwj_Qe4f22lmchMKp66MuBg&s', 'createdAt': '2025-09-29T15:21:46.139Z', 'updatedAt': '2025-09-29T15:21:46.139Z'} vs {'id': 158, 'referenceId': None, 'slug': 'jannik-sinner-1759161674347', 'name': 'Jannik Sinner', 'logoUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s', 'createdAt': '2025-09-29T23:01:14.351Z', 'updatedAt': '2026-03-12T16:08:30.000Z'}",
+      "group": "Indian Wells ",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanson/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 148,
+        "referenceId": null,
+        "slug": "daniil-medvedev-1759134106132",
+        "name": "Daniil Medvedev ",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-ThUSVRA1sgqwj_Qe4f22lmchMKp66MuBg&s",
+        "createdAt": "2025-09-29T15:21:46.139Z",
+        "updatedAt": "2025-09-29T15:21:46.139Z"
+      },
+      "away": {
+        "id": 158,
+        "referenceId": null,
+        "slug": "jannik-sinner-1759161674347",
+        "name": "Jannik Sinner",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkuD4iDpTTtrKYv1EJ3LPjU01T_fPpfF-hg&s",
+        "createdAt": "2025-09-29T23:01:14.351Z",
+        "updatedAt": "2026-03-12T16:08:30.000Z"
+      },
+      "time": "04h00",
+      "id": "5522"
+    }
+  ]
+}
