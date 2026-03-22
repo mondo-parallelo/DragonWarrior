@@ -1,0 +1,66 @@
+name: Scrape All & Deploy
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      scraper:
+        description: 'Ten scraper (de trong = tat ca): chuoichien / hoiquan / quechoa/ hoadao'
+        required: false
+        default: ''
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install curl_cffi python-dateutil Pillow playwright beautifulsoup4 lxml
+          playwright install chromium --with-deps
+
+      - name: Run
+        run: |
+          FILTER="${{ github.event.inputs.scraper }}"
+          if [ -n "$FILTER" ]; then
+            python run_all.py "$FILTER"
+          else
+            python run_all.py
+          fi
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Show Results
+        run: |
+          echo "=== output_m3u/ ==="
+          find output_m3u -name "*.m3u" 2>/dev/null | while read f; do
+            echo "  $f: $(grep -c '#EXTINF' $f 2>/dev/null || echo 0) kenh"
+          done
+          echo ""
+          echo "=== docs/ ==="
+          grep -c '#EXTINF' docs/all.m3u 2>/dev/null && echo " kenh tong" || echo "0 kenh"
+
+      - name: Commit & Push (1 commit)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A output_m3u/ docs/ thumbs/
+          git checkout --orphan temp_branch
+          git add -A
+          git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git branch -D main
+          git branch -m main
+          git push --force origin main

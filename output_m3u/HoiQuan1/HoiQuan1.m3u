@@ -1,0 +1,351 @@
+#EXTM3U
+# Source  : https://sv2.hoiquan1.live/
+# Updated : 2026-03-22 18:32 UTC
+# Matches : 23 tran
+# Streams : 69 kenh
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="League Cup",[23h30] {'id': 238, 'referenceId': None, 'slug': 'arsenal-1759285836721', 'name': 'Arsenal', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg', 'createdAt': '2025-10-01T09:30:36.724Z', 'updatedAt': '2025-10-01T09:30:36.724Z'} vs {'id': 235, 'referenceId': None, 'slug': 'manchester-city-1759285741128', 'name': 'Manchester City', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg', 'createdAt': '2025-10-01T09:29:01.131Z', 'updatedAt': '2025-10-01T09:29:01.131Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="League Cup",[23h30] {'id': 238, 'referenceId': None, 'slug': 'arsenal-1759285836721', 'name': 'Arsenal', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg', 'createdAt': '2025-10-01T09:30:36.724Z', 'updatedAt': '2025-10-01T09:30:36.724Z'} vs {'id': 235, 'referenceId': None, 'slug': 'manchester-city-1759285741128', 'name': 'Manchester City', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg', 'createdAt': '2025-10-01T09:29:01.131Z', 'updatedAt': '2025-10-01T09:29:01.131Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="League Cup",[23h30] {'id': 238, 'referenceId': None, 'slug': 'arsenal-1759285836721', 'name': 'Arsenal', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg', 'createdAt': '2025-10-01T09:30:36.724Z', 'updatedAt': '2025-10-01T09:30:36.724Z'} vs {'id': 235, 'referenceId': None, 'slug': 'manchester-city-1759285741128', 'name': 'Manchester City', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg', 'createdAt': '2025-10-01T09:29:01.131Z', 'updatedAt': '2025-10-01T09:29:01.131Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[06h00] {'id': 361, 'referenceId': None, 'slug': 'pachuca-1759460848345', 'name': 'Pachuca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/93/Pachuca_Tuzos_logo.svg', 'createdAt': '2025-10-03T10:07:28.347Z', 'updatedAt': '2025-10-03T10:07:28.347Z'} vs {'id': 247, 'referenceId': None, 'slug': 'toluca-1759286286669', 'name': 'Toluca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg', 'createdAt': '2025-10-01T09:38:06.672Z', 'updatedAt': '2025-10-01T09:38:06.672Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[06h00] {'id': 361, 'referenceId': None, 'slug': 'pachuca-1759460848345', 'name': 'Pachuca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/93/Pachuca_Tuzos_logo.svg', 'createdAt': '2025-10-03T10:07:28.347Z', 'updatedAt': '2025-10-03T10:07:28.347Z'} vs {'id': 247, 'referenceId': None, 'slug': 'toluca-1759286286669', 'name': 'Toluca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg', 'createdAt': '2025-10-01T09:38:06.672Z', 'updatedAt': '2025-10-01T09:38:06.672Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[06h00] {'id': 361, 'referenceId': None, 'slug': 'pachuca-1759460848345', 'name': 'Pachuca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/93/Pachuca_Tuzos_logo.svg', 'createdAt': '2025-10-03T10:07:28.347Z', 'updatedAt': '2025-10-03T10:07:28.347Z'} vs {'id': 247, 'referenceId': None, 'slug': 'toluca-1759286286669', 'name': 'Toluca', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Club_Toluca_Logo.svg', 'createdAt': '2025-10-01T09:38:06.672Z', 'updatedAt': '2025-10-01T09:38:06.672Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[08h06] {'id': 363, 'referenceId': None, 'slug': 'fc-juarez-1759460907493', 'name': 'FC Juarez', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/pt/2/24/FC_Ju%C3%A1rez_logo.png', 'createdAt': '2025-10-03T10:08:27.496Z', 'updatedAt': '2025-10-03T10:08:27.496Z'} vs {'id': 450, 'referenceId': None, 'slug': 'tigres-uanl-1759584364472', 'name': 'Tigres UANL ', 'logoUrl': 'https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg', 'createdAt': '2025-10-04T20:26:04.479Z', 'updatedAt': '2025-10-04T20:26:04.479Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[08h06] {'id': 363, 'referenceId': None, 'slug': 'fc-juarez-1759460907493', 'name': 'FC Juarez', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/pt/2/24/FC_Ju%C3%A1rez_logo.png', 'createdAt': '2025-10-03T10:08:27.496Z', 'updatedAt': '2025-10-03T10:08:27.496Z'} vs {'id': 450, 'referenceId': None, 'slug': 'tigres-uanl-1759584364472', 'name': 'Tigres UANL ', 'logoUrl': 'https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg', 'createdAt': '2025-10-04T20:26:04.479Z', 'updatedAt': '2025-10-04T20:26:04.479Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga MX",[08h06] {'id': 363, 'referenceId': None, 'slug': 'fc-juarez-1759460907493', 'name': 'FC Juarez', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/pt/2/24/FC_Ju%C3%A1rez_logo.png', 'createdAt': '2025-10-03T10:08:27.496Z', 'updatedAt': '2025-10-03T10:08:27.496Z'} vs {'id': 450, 'referenceId': None, 'slug': 'tigres-uanl-1759584364472', 'name': 'Tigres UANL ', 'logoUrl': 'https://i.pinimg.com/736x/25/76/86/257686e35e7375f804611f90b6d65e68.jpg', 'createdAt': '2025-10-04T20:26:04.479Z', 'updatedAt': '2025-10-04T20:26:04.479Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 3215, 'referenceId': None, 'slug': 'bhutan-u20.WFHnstLXsR', 'name': 'Bhutan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Bhutan_FF_logo.svg/250px-Bhutan_FF_logo.svg.png', 'createdAt': '2026-03-21T17:55:49.950Z', 'updatedAt': '2026-03-21T17:55:49.950Z'} vs {'id': 3217, 'referenceId': None, 'slug': 'nepal-u20.IVcRV-RnDo', 'name': 'Nepal U20', 'logoUrl': 'https://cocacnuoc.com/wp-content/uploads/2024/10/co-Nepal.jpg', 'createdAt': '2026-03-21T17:56:19.956Z', 'updatedAt': '2026-03-21T17:56:19.956Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 3215, 'referenceId': None, 'slug': 'bhutan-u20.WFHnstLXsR', 'name': 'Bhutan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Bhutan_FF_logo.svg/250px-Bhutan_FF_logo.svg.png', 'createdAt': '2026-03-21T17:55:49.950Z', 'updatedAt': '2026-03-21T17:55:49.950Z'} vs {'id': 3217, 'referenceId': None, 'slug': 'nepal-u20.IVcRV-RnDo', 'name': 'Nepal U20', 'logoUrl': 'https://cocacnuoc.com/wp-content/uploads/2024/10/co-Nepal.jpg', 'createdAt': '2026-03-21T17:56:19.956Z', 'updatedAt': '2026-03-21T17:56:19.956Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 3215, 'referenceId': None, 'slug': 'bhutan-u20.WFHnstLXsR', 'name': 'Bhutan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Bhutan_FF_logo.svg/250px-Bhutan_FF_logo.svg.png', 'createdAt': '2026-03-21T17:55:49.950Z', 'updatedAt': '2026-03-21T17:55:49.950Z'} vs {'id': 3217, 'referenceId': None, 'slug': 'nepal-u20.IVcRV-RnDo', 'name': 'Nepal U20', 'logoUrl': 'https://cocacnuoc.com/wp-content/uploads/2024/10/co-Nepal.jpg', 'createdAt': '2026-03-21T17:56:19.956Z', 'updatedAt': '2026-03-21T17:56:19.956Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h45] {'id': 3218, 'referenceId': '2948', 'slug': 'hajer.OwDd8PIOQZ', 'name': 'Hajer', 'logoUrl': 'https://media.api-sports.io/football/teams/2948.png', 'createdAt': '2026-03-21T17:57:21.390Z', 'updatedAt': '2026-03-21T17:57:21.390Z'} vs {'id': 3219, 'referenceId': '2943', 'slug': 'ohod.dLQ8kZep5s', 'name': 'Ohod', 'logoUrl': 'https://media.api-sports.io/football/teams/2943.png', 'createdAt': '2026-03-21T17:57:21.470Z', 'updatedAt': '2026-03-21T17:57:21.470Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h45] {'id': 3218, 'referenceId': '2948', 'slug': 'hajer.OwDd8PIOQZ', 'name': 'Hajer', 'logoUrl': 'https://media.api-sports.io/football/teams/2948.png', 'createdAt': '2026-03-21T17:57:21.390Z', 'updatedAt': '2026-03-21T17:57:21.390Z'} vs {'id': 3219, 'referenceId': '2943', 'slug': 'ohod.dLQ8kZep5s', 'name': 'Ohod', 'logoUrl': 'https://media.api-sports.io/football/teams/2943.png', 'createdAt': '2026-03-21T17:57:21.470Z', 'updatedAt': '2026-03-21T17:57:21.470Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h45] {'id': 3218, 'referenceId': '2948', 'slug': 'hajer.OwDd8PIOQZ', 'name': 'Hajer', 'logoUrl': 'https://media.api-sports.io/football/teams/2948.png', 'createdAt': '2026-03-21T17:57:21.390Z', 'updatedAt': '2026-03-21T17:57:21.390Z'} vs {'id': 3219, 'referenceId': '2943', 'slug': 'ohod.dLQ8kZep5s', 'name': 'Ohod', 'logoUrl': 'https://media.api-sports.io/football/teams/2943.png', 'createdAt': '2026-03-21T17:57:21.470Z', 'updatedAt': '2026-03-21T17:57:21.470Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Indian Super League",[21h00] {'id': 2933, 'referenceId': '21137', 'slug': 'east-bengal-ii.PCA8sn-zQv', 'name': 'East Bengal II', 'logoUrl': 'https://media.api-sports.io/football/teams/21137.png', 'createdAt': '2026-02-25T17:22:55.953Z', 'updatedAt': '2026-02-25T17:22:55.953Z'} vs {'id': 3220, 'referenceId': '15585', 'slug': 'mohammedan.A0Y-htLdJL', 'name': 'Mohammedan', 'logoUrl': 'https://media.api-sports.io/football/teams/15585.png', 'createdAt': '2026-03-21T17:57:35.917Z', 'updatedAt': '2026-03-21T17:57:35.917Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Indian Super League",[21h00] {'id': 2933, 'referenceId': '21137', 'slug': 'east-bengal-ii.PCA8sn-zQv', 'name': 'East Bengal II', 'logoUrl': 'https://media.api-sports.io/football/teams/21137.png', 'createdAt': '2026-02-25T17:22:55.953Z', 'updatedAt': '2026-02-25T17:22:55.953Z'} vs {'id': 3220, 'referenceId': '15585', 'slug': 'mohammedan.A0Y-htLdJL', 'name': 'Mohammedan', 'logoUrl': 'https://media.api-sports.io/football/teams/15585.png', 'createdAt': '2026-03-21T17:57:35.917Z', 'updatedAt': '2026-03-21T17:57:35.917Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Indian Super League",[21h00] {'id': 2933, 'referenceId': '21137', 'slug': 'east-bengal-ii.PCA8sn-zQv', 'name': 'East Bengal II', 'logoUrl': 'https://media.api-sports.io/football/teams/21137.png', 'createdAt': '2026-02-25T17:22:55.953Z', 'updatedAt': '2026-02-25T17:22:55.953Z'} vs {'id': 3220, 'referenceId': '15585', 'slug': 'mohammedan.A0Y-htLdJL', 'name': 'Mohammedan', 'logoUrl': 'https://media.api-sports.io/football/teams/15585.png', 'createdAt': '2026-03-21T17:57:35.917Z', 'updatedAt': '2026-03-21T17:57:35.917Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[21h30] {'id': 1033, 'referenceId': None, 'slug': 'chelyabinsk-1760410975764', 'name': 'Chelyabinsk', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png', 'createdAt': '2025-10-14T10:02:55.768Z', 'updatedAt': '2025-10-14T10:02:55.768Z'} vs {'id': 1444, 'referenceId': None, 'slug': 'torpedo-moskva-1761707037488', 'name': 'Torpedo Moskva', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png', 'createdAt': '2025-10-29T10:03:57.495Z', 'updatedAt': '2025-10-29T10:03:57.495Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[21h30] {'id': 1033, 'referenceId': None, 'slug': 'chelyabinsk-1760410975764', 'name': 'Chelyabinsk', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png', 'createdAt': '2025-10-14T10:02:55.768Z', 'updatedAt': '2025-10-14T10:02:55.768Z'} vs {'id': 1444, 'referenceId': None, 'slug': 'torpedo-moskva-1761707037488', 'name': 'Torpedo Moskva', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png', 'createdAt': '2025-10-29T10:03:57.495Z', 'updatedAt': '2025-10-29T10:03:57.495Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[21h30] {'id': 1033, 'referenceId': None, 'slug': 'chelyabinsk-1760410975764', 'name': 'Chelyabinsk', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CoA_of_Chelyabinsk_%282000%29.svg/250px-CoA_of_Chelyabinsk_%282000%29.svg.png', 'createdAt': '2025-10-14T10:02:55.768Z', 'updatedAt': '2025-10-14T10:02:55.768Z'} vs {'id': 1444, 'referenceId': None, 'slug': 'torpedo-moskva-1761707037488', 'name': 'Torpedo Moskva', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png', 'createdAt': '2025-10-29T10:03:57.495Z', 'updatedAt': '2025-10-29T10:03:57.495Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[23h00] {'id': 3221, 'referenceId': '6822', 'slug': 'rodina-moskva.FLH2HpuvNK', 'name': 'Rodina Moskva', 'logoUrl': 'https://media.api-sports.io/football/teams/6822.png', 'createdAt': '2026-03-21T17:58:32.973Z', 'updatedAt': '2026-03-21T17:58:32.973Z'} vs {'id': 3222, 'referenceId': '3983', 'slug': 'chayka.FMUZgmbiRg', 'name': 'Chayka', 'logoUrl': 'https://media.api-sports.io/football/teams/3983.png', 'createdAt': '2026-03-21T17:58:33.070Z', 'updatedAt': '2026-03-21T17:58:33.070Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[23h00] {'id': 3221, 'referenceId': '6822', 'slug': 'rodina-moskva.FLH2HpuvNK', 'name': 'Rodina Moskva', 'logoUrl': 'https://media.api-sports.io/football/teams/6822.png', 'createdAt': '2026-03-21T17:58:32.973Z', 'updatedAt': '2026-03-21T17:58:32.973Z'} vs {'id': 3222, 'referenceId': '3983', 'slug': 'chayka.FMUZgmbiRg', 'name': 'Chayka', 'logoUrl': 'https://media.api-sports.io/football/teams/3983.png', 'createdAt': '2026-03-21T17:58:33.070Z', 'updatedAt': '2026-03-21T17:58:33.070Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="First League",[23h00] {'id': 3221, 'referenceId': '6822', 'slug': 'rodina-moskva.FLH2HpuvNK', 'name': 'Rodina Moskva', 'logoUrl': 'https://media.api-sports.io/football/teams/6822.png', 'createdAt': '2026-03-21T17:58:32.973Z', 'updatedAt': '2026-03-21T17:58:32.973Z'} vs {'id': 3222, 'referenceId': '3983', 'slug': 'chayka.FMUZgmbiRg', 'name': 'Chayka', 'logoUrl': 'https://media.api-sports.io/football/teams/3983.png', 'createdAt': '2026-03-21T17:58:33.070Z', 'updatedAt': '2026-03-21T17:58:33.070Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[00h00] {'id': 1797, 'referenceId': None, 'slug': 'as-roma-1763692266695', 'name': 'AS Roma', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png', 'createdAt': '2025-11-21T09:31:06.700Z', 'updatedAt': '2026-03-11T18:44:22.000Z'} vs {'id': 423, 'referenceId': None, 'slug': 'lecce-1759499814839', 'name': 'Lecce', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/0/05/Us_lecce.png/250px-Us_lecce.png', 'createdAt': '2025-10-03T20:56:54.841Z', 'updatedAt': '2025-10-25T17:42:13.000Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[00h00] {'id': 1797, 'referenceId': None, 'slug': 'as-roma-1763692266695', 'name': 'AS Roma', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png', 'createdAt': '2025-11-21T09:31:06.700Z', 'updatedAt': '2026-03-11T18:44:22.000Z'} vs {'id': 423, 'referenceId': None, 'slug': 'lecce-1759499814839', 'name': 'Lecce', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/0/05/Us_lecce.png/250px-Us_lecce.png', 'createdAt': '2025-10-03T20:56:54.841Z', 'updatedAt': '2025-10-25T17:42:13.000Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[00h00] {'id': 1797, 'referenceId': None, 'slug': 'as-roma-1763692266695', 'name': 'AS Roma', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/f/f7/AS_Roma_logo_%282017%29.svg/250px-AS_Roma_logo_%282017%29.svg.png', 'createdAt': '2025-11-21T09:31:06.700Z', 'updatedAt': '2026-03-11T18:44:22.000Z'} vs {'id': 423, 'referenceId': None, 'slug': 'lecce-1759499814839', 'name': 'Lecce', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/vi/thumb/0/05/Us_lecce.png/250px-Us_lecce.png', 'createdAt': '2025-10-03T20:56:54.841Z', 'updatedAt': '2025-10-25T17:42:13.000Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Major League Soccer",[00h00] {'id': 1810, 'referenceId': None, 'slug': 'new-york-city-fc-1763803764589', 'name': 'New York City FC', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1200px-Logo_New_York_City_FC_2025.svg.png', 'createdAt': '2025-11-22T16:29:24.591Z', 'updatedAt': '2025-11-22T16:29:24.591Z'} vs {'id': 2688, 'referenceId': '9568', 'slug': 'inter-miami.XHJf3H-_Jo', 'name': 'Inter Miami', 'logoUrl': 'https://media.api-sports.io/football/teams/9568.png', 'createdAt': '2026-01-24T16:13:19.339Z', 'updatedAt': '2026-01-24T16:13:19.339Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Major League Soccer",[00h00] {'id': 1810, 'referenceId': None, 'slug': 'new-york-city-fc-1763803764589', 'name': 'New York City FC', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1200px-Logo_New_York_City_FC_2025.svg.png', 'createdAt': '2025-11-22T16:29:24.591Z', 'updatedAt': '2025-11-22T16:29:24.591Z'} vs {'id': 2688, 'referenceId': '9568', 'slug': 'inter-miami.XHJf3H-_Jo', 'name': 'Inter Miami', 'logoUrl': 'https://media.api-sports.io/football/teams/9568.png', 'createdAt': '2026-01-24T16:13:19.339Z', 'updatedAt': '2026-01-24T16:13:19.339Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Major League Soccer",[00h00] {'id': 1810, 'referenceId': None, 'slug': 'new-york-city-fc-1763803764589', 'name': 'New York City FC', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/1200px-Logo_New_York_City_FC_2025.svg.png', 'createdAt': '2025-11-22T16:29:24.591Z', 'updatedAt': '2025-11-22T16:29:24.591Z'} vs {'id': 2688, 'referenceId': '9568', 'slug': 'inter-miami.XHJf3H-_Jo', 'name': 'Inter Miami', 'logoUrl': 'https://media.api-sports.io/football/teams/9568.png', 'createdAt': '2026-01-24T16:13:19.339Z', 'updatedAt': '2026-01-24T16:13:19.339Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[00h30] {'id': 233, 'referenceId': None, 'slug': 'athletic-club-1759285547738', 'name': 'Athletic Club', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg', 'createdAt': '2025-10-01T09:25:47.741Z', 'updatedAt': '2025-10-01T09:25:47.741Z'} vs {'id': 276, 'referenceId': None, 'slug': 'real-betis-1759287622822', 'name': 'Real Betis', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg', 'createdAt': '2025-10-01T10:00:22.825Z', 'updatedAt': '2025-10-01T10:00:22.825Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[00h30] {'id': 233, 'referenceId': None, 'slug': 'athletic-club-1759285547738', 'name': 'Athletic Club', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg', 'createdAt': '2025-10-01T09:25:47.741Z', 'updatedAt': '2025-10-01T09:25:47.741Z'} vs {'id': 276, 'referenceId': None, 'slug': 'real-betis-1759287622822', 'name': 'Real Betis', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg', 'createdAt': '2025-10-01T10:00:22.825Z', 'updatedAt': '2025-10-01T10:00:22.825Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[00h30] {'id': 233, 'referenceId': None, 'slug': 'athletic-club-1759285547738', 'name': 'Athletic Club', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/9/98/Club_Athletic_Bilbao_logo.svg', 'createdAt': '2025-10-01T09:25:47.741Z', 'updatedAt': '2025-10-01T09:25:47.741Z'} vs {'id': 276, 'referenceId': None, 'slug': 'real-betis-1759287622822', 'name': 'Real Betis', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg', 'createdAt': '2025-10-01T10:00:22.825Z', 'updatedAt': '2025-10-01T10:00:22.825Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanhalinh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h00] {'id': 322, 'referenceId': None, 'slug': 'cruzeiro-1759388251845', 'name': 'Cruzeiro', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg', 'createdAt': '2025-10-02T13:57:31.847Z', 'updatedAt': '2025-10-02T13:57:31.847Z'} vs {'id': 2925, 'referenceId': '128', 'slug': 'santos.EHMcR0LbhO', 'name': 'Santos', 'logoUrl': 'https://media.api-sports.io/football/teams/128.png', 'createdAt': '2026-02-25T17:16:29.912Z', 'updatedAt': '2026-02-25T17:16:29.912Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h00] {'id': 322, 'referenceId': None, 'slug': 'cruzeiro-1759388251845', 'name': 'Cruzeiro', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg', 'createdAt': '2025-10-02T13:57:31.847Z', 'updatedAt': '2025-10-02T13:57:31.847Z'} vs {'id': 2925, 'referenceId': '128', 'slug': 'santos.EHMcR0LbhO', 'name': 'Santos', 'logoUrl': 'https://media.api-sports.io/football/teams/128.png', 'createdAt': '2026-02-25T17:16:29.912Z', 'updatedAt': '2026-02-25T17:16:29.912Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h00] {'id': 322, 'referenceId': None, 'slug': 'cruzeiro-1759388251845', 'name': 'Cruzeiro', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg', 'createdAt': '2025-10-02T13:57:31.847Z', 'updatedAt': '2025-10-02T13:57:31.847Z'} vs {'id': 2925, 'referenceId': '128', 'slug': 'santos.EHMcR0LbhO', 'name': 'Santos', 'logoUrl': 'https://media.api-sports.io/football/teams/128.png', 'createdAt': '2026-02-25T17:16:29.912Z', 'updatedAt': '2026-02-25T17:16:29.912Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h45] {'id': 55, 'referenceId': None, 'slug': 'fiorentina-1758635815512', 'name': 'Fiorentina', 'logoUrl': 'https://media.api-sports.io/football/teams/502.png', 'createdAt': '2025-09-23T20:56:55.515Z', 'updatedAt': '2025-09-23T20:56:55.515Z'} vs {'id': 2460, 'referenceId': '505', 'slug': 'inter.-h1bKdRWf7', 'name': 'Inter', 'logoUrl': 'https://media.api-sports.io/football/teams/505.png', 'createdAt': '2026-01-09T06:13:16.127Z', 'updatedAt': '2026-01-09T06:13:16.127Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h45] {'id': 55, 'referenceId': None, 'slug': 'fiorentina-1758635815512', 'name': 'Fiorentina', 'logoUrl': 'https://media.api-sports.io/football/teams/502.png', 'createdAt': '2025-09-23T20:56:55.515Z', 'updatedAt': '2025-09-23T20:56:55.515Z'} vs {'id': 2460, 'referenceId': '505', 'slug': 'inter.-h1bKdRWf7', 'name': 'Inter', 'logoUrl': 'https://media.api-sports.io/football/teams/505.png', 'createdAt': '2026-01-09T06:13:16.127Z', 'updatedAt': '2026-01-09T06:13:16.127Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Serie A",[02h45] {'id': 55, 'referenceId': None, 'slug': 'fiorentina-1758635815512', 'name': 'Fiorentina', 'logoUrl': 'https://media.api-sports.io/football/teams/502.png', 'createdAt': '2025-09-23T20:56:55.515Z', 'updatedAt': '2025-09-23T20:56:55.515Z'} vs {'id': 2460, 'referenceId': '505', 'slug': 'inter.-h1bKdRWf7', 'name': 'Inter', 'logoUrl': 'https://media.api-sports.io/football/teams/505.png', 'createdAt': '2026-01-09T06:13:16.127Z', 'updatedAt': '2026-01-09T06:13:16.127Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[03h00] {'id': 10, 'referenceId': None, 'slug': 'real-madrid-1758635102762', 'name': 'Real Madrid', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png', 'createdAt': '2025-09-23T20:45:02.763Z', 'updatedAt': '2025-09-23T20:45:02.763Z'} vs {'id': 209, 'referenceId': None, 'slug': 'atletico-madrid-1759201298638', 'name': 'Atletico Madrid', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg', 'createdAt': '2025-09-30T10:01:38.640Z', 'updatedAt': '2026-03-02T16:36:36.000Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[03h00] {'id': 10, 'referenceId': None, 'slug': 'real-madrid-1758635102762', 'name': 'Real Madrid', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png', 'createdAt': '2025-09-23T20:45:02.763Z', 'updatedAt': '2025-09-23T20:45:02.763Z'} vs {'id': 209, 'referenceId': None, 'slug': 'atletico-madrid-1759201298638', 'name': 'Atletico Madrid', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg', 'createdAt': '2025-09-30T10:01:38.640Z', 'updatedAt': '2026-03-02T16:36:36.000Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="La Liga",[03h00] {'id': 10, 'referenceId': None, 'slug': 'real-madrid-1758635102762', 'name': 'Real Madrid', 'logoUrl': 'https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png', 'createdAt': '2025-09-23T20:45:02.763Z', 'updatedAt': '2025-09-23T20:45:02.763Z'} vs {'id': 209, 'referenceId': None, 'slug': 'atletico-madrid-1759201298638', 'name': 'Atletico Madrid', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg', 'createdAt': '2025-09-30T10:01:38.640Z', 'updatedAt': '2026-03-02T16:36:36.000Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Frauen Bundesliga",[00h00] {'id': 3223, 'referenceId': '24133', 'slug': 'union-berlin-w.INs3iyLa3r', 'name': 'Union Berlin W', 'logoUrl': 'https://media.api-sports.io/football/teams/24133.png', 'createdAt': '2026-03-22T15:55:10.736Z', 'updatedAt': '2026-03-22T15:55:10.736Z'} vs {'id': 3224, 'referenceId': '1870', 'slug': 'werder-bremen-w.mc88VXe_w0', 'name': 'Werder Bremen W', 'logoUrl': 'https://media.api-sports.io/football/teams/1870.png', 'createdAt': '2026-03-22T15:55:10.811Z', 'updatedAt': '2026-03-22T15:55:10.811Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Frauen Bundesliga",[00h00] {'id': 3223, 'referenceId': '24133', 'slug': 'union-berlin-w.INs3iyLa3r', 'name': 'Union Berlin W', 'logoUrl': 'https://media.api-sports.io/football/teams/24133.png', 'createdAt': '2026-03-22T15:55:10.736Z', 'updatedAt': '2026-03-22T15:55:10.736Z'} vs {'id': 3224, 'referenceId': '1870', 'slug': 'werder-bremen-w.mc88VXe_w0', 'name': 'Werder Bremen W', 'logoUrl': 'https://media.api-sports.io/football/teams/1870.png', 'createdAt': '2026-03-22T15:55:10.811Z', 'updatedAt': '2026-03-22T15:55:10.811Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Frauen Bundesliga",[00h00] {'id': 3223, 'referenceId': '24133', 'slug': 'union-berlin-w.INs3iyLa3r', 'name': 'Union Berlin W', 'logoUrl': 'https://media.api-sports.io/football/teams/24133.png', 'createdAt': '2026-03-22T15:55:10.736Z', 'updatedAt': '2026-03-22T15:55:10.736Z'} vs {'id': 3224, 'referenceId': '1870', 'slug': 'werder-bremen-w.mc88VXe_w0', 'name': 'Werder Bremen W', 'logoUrl': 'https://media.api-sports.io/football/teams/1870.png', 'createdAt': '2026-03-22T15:55:10.811Z', 'updatedAt': '2026-03-22T15:55:10.811Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga I",[01h30] {'id': 2988, 'referenceId': '6916', 'slug': 'unirea-slobozia.W6fDtNg07g', 'name': 'Unirea Slobozia', 'logoUrl': 'https://media.api-sports.io/football/teams/6916.png', 'createdAt': '2026-03-02T07:51:28.410Z', 'updatedAt': '2026-03-02T07:51:28.410Z'} vs {'id': 2809, 'referenceId': '6886', 'slug': 'otelul.EbfKS-lYXE', 'name': 'Oţelul', 'logoUrl': 'https://media.api-sports.io/football/teams/6886.png', 'createdAt': '2026-02-01T08:10:34.516Z', 'updatedAt': '2026-02-01T08:10:34.516Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga I",[01h30] {'id': 2988, 'referenceId': '6916', 'slug': 'unirea-slobozia.W6fDtNg07g', 'name': 'Unirea Slobozia', 'logoUrl': 'https://media.api-sports.io/football/teams/6916.png', 'createdAt': '2026-03-02T07:51:28.410Z', 'updatedAt': '2026-03-02T07:51:28.410Z'} vs {'id': 2809, 'referenceId': '6886', 'slug': 'otelul.EbfKS-lYXE', 'name': 'Oţelul', 'logoUrl': 'https://media.api-sports.io/football/teams/6886.png', 'createdAt': '2026-02-01T08:10:34.516Z', 'updatedAt': '2026-02-01T08:10:34.516Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga I",[01h30] {'id': 2988, 'referenceId': '6916', 'slug': 'unirea-slobozia.W6fDtNg07g', 'name': 'Unirea Slobozia', 'logoUrl': 'https://media.api-sports.io/football/teams/6916.png', 'createdAt': '2026-03-02T07:51:28.410Z', 'updatedAt': '2026-03-02T07:51:28.410Z'} vs {'id': 2809, 'referenceId': '6886', 'slug': 'otelul.EbfKS-lYXE', 'name': 'Oţelul', 'logoUrl': 'https://media.api-sports.io/football/teams/6886.png', 'createdAt': '2026-02-01T08:10:34.516Z', 'updatedAt': '2026-02-01T08:10:34.516Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Premier League 2 Division One",[02h00] {'id': 3225, 'referenceId': '11915', 'slug': 'sunderland-u21.33OrmRcQzz', 'name': 'Sunderland U21', 'logoUrl': 'https://media.api-sports.io/football/teams/11915.png', 'createdAt': '2026-03-22T15:55:33.975Z', 'updatedAt': '2026-03-22T15:55:33.975Z'} vs {'id': 3226, 'referenceId': '7189', 'slug': 'arsenal-u21.VNxJxV9gTf', 'name': 'Arsenal U21', 'logoUrl': 'https://media.api-sports.io/football/teams/7189.png', 'createdAt': '2026-03-22T15:55:34.052Z', 'updatedAt': '2026-03-22T15:55:34.052Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Premier League 2 Division One",[02h00] {'id': 3225, 'referenceId': '11915', 'slug': 'sunderland-u21.33OrmRcQzz', 'name': 'Sunderland U21', 'logoUrl': 'https://media.api-sports.io/football/teams/11915.png', 'createdAt': '2026-03-22T15:55:33.975Z', 'updatedAt': '2026-03-22T15:55:33.975Z'} vs {'id': 3226, 'referenceId': '7189', 'slug': 'arsenal-u21.VNxJxV9gTf', 'name': 'Arsenal U21', 'logoUrl': 'https://media.api-sports.io/football/teams/7189.png', 'createdAt': '2026-03-22T15:55:34.052Z', 'updatedAt': '2026-03-22T15:55:34.052Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Premier League 2 Division One",[02h00] {'id': 3225, 'referenceId': '11915', 'slug': 'sunderland-u21.33OrmRcQzz', 'name': 'Sunderland U21', 'logoUrl': 'https://media.api-sports.io/football/teams/11915.png', 'createdAt': '2026-03-22T15:55:33.975Z', 'updatedAt': '2026-03-22T15:55:33.975Z'} vs {'id': 3226, 'referenceId': '7189', 'slug': 'arsenal-u21.VNxJxV9gTf', 'name': 'Arsenal U21', 'logoUrl': 'https://media.api-sports.io/football/teams/7189.png', 'createdAt': '2026-03-22T15:55:34.052Z', 'updatedAt': '2026-03-22T15:55:34.052Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Hạng 2 Tây Ban Nha ",[02h30] {'id': 90, 'referenceId': None, 'slug': 'castellon-1759051223708', 'name': 'Castellon', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png', 'createdAt': '2025-09-28T16:20:23.710Z', 'updatedAt': '2026-03-22T16:02:05.000Z'} vs {'id': 565, 'referenceId': None, 'slug': 'leonesa-1759747988536', 'name': 'Leonesa', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Logo_of_Cultural_y_Deportiva_Leonesa.svg/960px-Logo_of_Cultural_y_Deportiva_Leonesa.svg.png', 'createdAt': '2025-10-06T17:53:08.539Z', 'updatedAt': '2026-03-22T16:01:31.000Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Hạng 2 Tây Ban Nha ",[02h30] {'id': 90, 'referenceId': None, 'slug': 'castellon-1759051223708', 'name': 'Castellon', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png', 'createdAt': '2025-09-28T16:20:23.710Z', 'updatedAt': '2026-03-22T16:02:05.000Z'} vs {'id': 565, 'referenceId': None, 'slug': 'leonesa-1759747988536', 'name': 'Leonesa', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Logo_of_Cultural_y_Deportiva_Leonesa.svg/960px-Logo_of_Cultural_y_Deportiva_Leonesa.svg.png', 'createdAt': '2025-10-06T17:53:08.539Z', 'updatedAt': '2026-03-22T16:01:31.000Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Hạng 2 Tây Ban Nha ",[02h30] {'id': 90, 'referenceId': None, 'slug': 'castellon-1759051223708', 'name': 'Castellon', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/960px-Logo_of_CD_Castell%C3%B3n.svg.png', 'createdAt': '2025-09-28T16:20:23.710Z', 'updatedAt': '2026-03-22T16:02:05.000Z'} vs {'id': 565, 'referenceId': None, 'slug': 'leonesa-1759747988536', 'name': 'Leonesa', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Logo_of_Cultural_y_Deportiva_Leonesa.svg/960px-Logo_of_Cultural_y_Deportiva_Leonesa.svg.png', 'createdAt': '2025-10-06T17:53:08.539Z', 'updatedAt': '2026-03-22T16:01:31.000Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga Nacional",[09h00] {'id': 3069, 'referenceId': '3656', 'slug': 'antigua-gfc.mWQaa9RiRH', 'name': 'Antigua GFC', 'logoUrl': 'https://media.api-sports.io/football/teams/3656.png', 'createdAt': '2026-03-04T06:23:50.678Z', 'updatedAt': '2026-03-04T06:23:50.678Z'} vs {'id': 3228, 'referenceId': '3643', 'slug': 'marquense.E7ROeltvwb', 'name': 'Marquense', 'logoUrl': 'https://media.api-sports.io/football/teams/3643.png', 'createdAt': '2026-03-22T15:56:48.537Z', 'updatedAt': '2026-03-22T15:56:48.537Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga Nacional",[09h00] {'id': 3069, 'referenceId': '3656', 'slug': 'antigua-gfc.mWQaa9RiRH', 'name': 'Antigua GFC', 'logoUrl': 'https://media.api-sports.io/football/teams/3656.png', 'createdAt': '2026-03-04T06:23:50.678Z', 'updatedAt': '2026-03-04T06:23:50.678Z'} vs {'id': 3228, 'referenceId': '3643', 'slug': 'marquense.E7ROeltvwb', 'name': 'Marquense', 'logoUrl': 'https://media.api-sports.io/football/teams/3643.png', 'createdAt': '2026-03-22T15:56:48.537Z', 'updatedAt': '2026-03-22T15:56:48.537Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Liga Nacional",[09h00] {'id': 3069, 'referenceId': '3656', 'slug': 'antigua-gfc.mWQaa9RiRH', 'name': 'Antigua GFC', 'logoUrl': 'https://media.api-sports.io/football/teams/3656.png', 'createdAt': '2026-03-04T06:23:50.678Z', 'updatedAt': '2026-03-04T06:23:50.678Z'} vs {'id': 3228, 'referenceId': '3643', 'slug': 'marquense.E7ROeltvwb', 'name': 'Marquense', 'logoUrl': 'https://media.api-sports.io/football/teams/3643.png', 'createdAt': '2026-03-22T15:56:48.537Z', 'updatedAt': '2026-03-22T15:56:48.537Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h35] {'id': 3229, 'referenceId': '15362', 'slug': 'al-sahel.awIG90HaHw', 'name': 'Al Sahel', 'logoUrl': 'https://media.api-sports.io/football/teams/15362.png', 'createdAt': '2026-03-22T15:57:19.149Z', 'updatedAt': '2026-03-22T15:57:19.149Z'} vs {'id': 3230, 'referenceId': '27481', 'slug': 'jubbah.zKxEibaZnJ', 'name': 'Jubbah', 'logoUrl': 'https://media.api-sports.io/football/teams/27481.png', 'createdAt': '2026-03-22T15:57:19.236Z', 'updatedAt': '2026-03-22T15:57:19.236Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h35] {'id': 3229, 'referenceId': '15362', 'slug': 'al-sahel.awIG90HaHw', 'name': 'Al Sahel', 'logoUrl': 'https://media.api-sports.io/football/teams/15362.png', 'createdAt': '2026-03-22T15:57:19.149Z', 'updatedAt': '2026-03-22T15:57:19.149Z'} vs {'id': 3230, 'referenceId': '27481', 'slug': 'jubbah.zKxEibaZnJ', 'name': 'Jubbah', 'logoUrl': 'https://media.api-sports.io/football/teams/27481.png', 'createdAt': '2026-03-22T15:57:19.236Z', 'updatedAt': '2026-03-22T15:57:19.236Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Division 2",[19h35] {'id': 3229, 'referenceId': '15362', 'slug': 'al-sahel.awIG90HaHw', 'name': 'Al Sahel', 'logoUrl': 'https://media.api-sports.io/football/teams/15362.png', 'createdAt': '2026-03-22T15:57:19.149Z', 'updatedAt': '2026-03-22T15:57:19.149Z'} vs {'id': 3230, 'referenceId': '27481', 'slug': 'jubbah.zKxEibaZnJ', 'name': 'Jubbah', 'logoUrl': 'https://media.api-sports.io/football/teams/27481.png', 'createdAt': '2026-03-22T15:57:19.236Z', 'updatedAt': '2026-03-22T15:57:19.236Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Regionalliga - West",[21h00] {'id': 3231, 'referenceId': '12827', 'slug': 'paderborn-ii.Lk0sSjttGb', 'name': 'Paderborn II', 'logoUrl': 'https://media.api-sports.io/football/teams/12827.png', 'createdAt': '2026-03-22T15:57:36.842Z', 'updatedAt': '2026-03-22T15:57:36.842Z'} vs {'id': 3232, 'referenceId': '9373', 'slug': 'schalke-04-ii.BHHw9Vf1r-', 'name': 'Schalke 04 II', 'logoUrl': 'https://media.api-sports.io/football/teams/9373.png', 'createdAt': '2026-03-22T15:57:36.916Z', 'updatedAt': '2026-03-22T15:57:36.916Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Regionalliga - West",[21h00] {'id': 3231, 'referenceId': '12827', 'slug': 'paderborn-ii.Lk0sSjttGb', 'name': 'Paderborn II', 'logoUrl': 'https://media.api-sports.io/football/teams/12827.png', 'createdAt': '2026-03-22T15:57:36.842Z', 'updatedAt': '2026-03-22T15:57:36.842Z'} vs {'id': 3232, 'referenceId': '9373', 'slug': 'schalke-04-ii.BHHw9Vf1r-', 'name': 'Schalke 04 II', 'logoUrl': 'https://media.api-sports.io/football/teams/9373.png', 'createdAt': '2026-03-22T15:57:36.916Z', 'updatedAt': '2026-03-22T15:57:36.916Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Regionalliga - West",[21h00] {'id': 3231, 'referenceId': '12827', 'slug': 'paderborn-ii.Lk0sSjttGb', 'name': 'Paderborn II', 'logoUrl': 'https://media.api-sports.io/football/teams/12827.png', 'createdAt': '2026-03-22T15:57:36.842Z', 'updatedAt': '2026-03-22T15:57:36.842Z'} vs {'id': 3232, 'referenceId': '9373', 'slug': 'schalke-04-ii.BHHw9Vf1r-', 'name': 'Schalke 04 II', 'logoUrl': 'https://media.api-sports.io/football/teams/9373.png', 'createdAt': '2026-03-22T15:57:36.916Z', 'updatedAt': '2026-03-22T15:57:36.916Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Friendlies Clubs",[22h00] {'id': 3233, 'referenceId': '9173', 'slug': 'japs.ZK9G_O_wxH', 'name': 'JäPS', 'logoUrl': 'https://media.api-sports.io/football/teams/9173.png', 'createdAt': '2026-03-22T15:57:47.874Z', 'updatedAt': '2026-03-22T15:57:47.874Z'} vs {'id': 3234, 'referenceId': '1169', 'slug': 'honka.EgEoQNjbyQ', 'name': 'Honka', 'logoUrl': 'https://media.api-sports.io/football/teams/1169.png', 'createdAt': '2026-03-22T15:57:47.952Z', 'updatedAt': '2026-03-22T15:57:47.952Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Friendlies Clubs",[22h00] {'id': 3233, 'referenceId': '9173', 'slug': 'japs.ZK9G_O_wxH', 'name': 'JäPS', 'logoUrl': 'https://media.api-sports.io/football/teams/9173.png', 'createdAt': '2026-03-22T15:57:47.874Z', 'updatedAt': '2026-03-22T15:57:47.874Z'} vs {'id': 3234, 'referenceId': '1169', 'slug': 'honka.EgEoQNjbyQ', 'name': 'Honka', 'logoUrl': 'https://media.api-sports.io/football/teams/1169.png', 'createdAt': '2026-03-22T15:57:47.952Z', 'updatedAt': '2026-03-22T15:57:47.952Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="Friendlies Clubs",[22h00] {'id': 3233, 'referenceId': '9173', 'slug': 'japs.ZK9G_O_wxH', 'name': 'JäPS', 'logoUrl': 'https://media.api-sports.io/football/teams/9173.png', 'createdAt': '2026-03-22T15:57:47.874Z', 'updatedAt': '2026-03-22T15:57:47.874Z'} vs {'id': 3234, 'referenceId': '1169', 'slug': 'honka.EgEoQNjbyQ', 'name': 'Honka', 'logoUrl': 'https://media.api-sports.io/football/teams/1169.png', 'createdAt': '2026-03-22T15:57:47.952Z', 'updatedAt': '2026-03-22T15:57:47.952Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 710, 'referenceId': None, 'slug': 'bangladesh-1759896064602', 'name': 'Bangladesh U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1280px-Flag_of_Bangladesh.svg.png', 'createdAt': '2025-10-08T11:01:04.604Z', 'updatedAt': '2026-03-22T15:58:31.000Z'} vs {'id': 698, 'referenceId': None, 'slug': 'pakistan-1759895741775', 'name': 'Pakistan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png', 'createdAt': '2025-10-08T10:55:41.778Z', 'updatedAt': '2026-03-22T15:58:46.000Z'} [Stream 1]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 710, 'referenceId': None, 'slug': 'bangladesh-1759896064602', 'name': 'Bangladesh U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1280px-Flag_of_Bangladesh.svg.png', 'createdAt': '2025-10-08T11:01:04.604Z', 'updatedAt': '2026-03-22T15:58:31.000Z'} vs {'id': 698, 'referenceId': None, 'slug': 'pakistan-1759895741775', 'name': 'Pakistan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png', 'createdAt': '2025-10-08T10:55:41.778Z', 'updatedAt': '2026-03-22T15:58:46.000Z'} [Stream 2]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png" group-title="SAFF Championship U20",[17h45] {'id': 710, 'referenceId': None, 'slug': 'bangladesh-1759896064602', 'name': 'Bangladesh U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1280px-Flag_of_Bangladesh.svg.png', 'createdAt': '2025-10-08T11:01:04.604Z', 'updatedAt': '2026-03-22T15:58:31.000Z'} vs {'id': 698, 'referenceId': None, 'slug': 'pakistan-1759895741775', 'name': 'Pakistan U20', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png', 'createdAt': '2025-10-08T10:55:41.778Z', 'updatedAt': '2026-03-22T15:58:46.000Z'} [Stream 3]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
