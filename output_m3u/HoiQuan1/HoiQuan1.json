@@ -1,0 +1,477 @@
+{
+  "site": "HoiQuan1",
+  "source": "https://sv2.hoiquan1.live/",
+  "updated": "2026-03-30 02:06 UTC",
+  "matches": 12,
+  "total_streams": 36,
+  "data": [
+    {
+      "name": "[21h00] {'id': 3275, 'referenceId': '1568', 'slug': 'uzbekistan.U8GlyCN49Z', 'name': 'Uzbekistan', 'logoUrl': 'https://media.api-sports.io/football/teams/1568.png', 'createdAt': '2026-03-25T16:27:55.816Z', 'updatedAt': '2026-03-25T16:27:55.816Z'} vs {'id': 835, 'referenceId': None, 'slug': 'venezuela-1760062776605', 'name': 'Venezuela', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png', 'createdAt': '2025-10-10T09:19:36.608Z', 'updatedAt': '2025-10-10T09:19:36.608Z'}",
+      "group": "FIFA Series",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_thienloi/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3275,
+        "referenceId": "1568",
+        "slug": "uzbekistan.U8GlyCN49Z",
+        "name": "Uzbekistan",
+        "logoUrl": "https://media.api-sports.io/football/teams/1568.png",
+        "createdAt": "2026-03-25T16:27:55.816Z",
+        "updatedAt": "2026-03-25T16:27:55.816Z"
+      },
+      "away": {
+        "id": 835,
+        "referenceId": null,
+        "slug": "venezuela-1760062776605",
+        "name": "Venezuela",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/250px-Flag_of_Venezuela.svg.png",
+        "createdAt": "2025-10-10T09:19:36.608Z",
+        "updatedAt": "2025-10-10T09:19:36.608Z"
+      },
+      "time": "21h00",
+      "id": "5837"
+    },
+    {
+      "name": "[07h30] {'id': 3320, 'referenceId': None, 'slug': 'bonaire.kD9oUzEtRP', 'name': 'Bonaire ', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/1280px-Flag_of_Bonaire.svg.png', 'createdAt': '2026-03-29T06:59:11.458Z', 'updatedAt': '2026-03-29T06:59:11.458Z'} vs {'id': 3321, 'referenceId': '10984', 'slug': 'saint-martin.HfUmDM6zax', 'name': 'Saint Martin', 'logoUrl': 'https://media.api-sports.io/football/teams/10984.png', 'createdAt': '2026-03-29T07:00:11.677Z', 'updatedAt': '2026-03-29T07:00:11.677Z'}",
+      "group": "CONCACAF Series",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3320,
+        "referenceId": null,
+        "slug": "bonaire.kD9oUzEtRP",
+        "name": "Bonaire ",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/1280px-Flag_of_Bonaire.svg.png",
+        "createdAt": "2026-03-29T06:59:11.458Z",
+        "updatedAt": "2026-03-29T06:59:11.458Z"
+      },
+      "away": {
+        "id": 3321,
+        "referenceId": "10984",
+        "slug": "saint-martin.HfUmDM6zax",
+        "name": "Saint Martin",
+        "logoUrl": "https://media.api-sports.io/football/teams/10984.png",
+        "createdAt": "2026-03-29T07:00:11.677Z",
+        "updatedAt": "2026-03-29T07:00:11.677Z"
+      },
+      "time": "07h30",
+      "id": "5841"
+    },
+    {
+      "name": "[10h00] {'id': 1005, 'referenceId': None, 'slug': 'cape-verde-islands-1760369701943', 'name': 'Cape Verde Islands', 'logoUrl': 'https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small', 'createdAt': '2025-10-13T22:35:01.953Z', 'updatedAt': '2025-10-13T22:56:49.000Z'} vs {'id': 3274, 'referenceId': '1099', 'slug': 'finland._3ZaZkaFoh', 'name': 'Finland', 'logoUrl': 'https://media.api-sports.io/football/teams/1099.png', 'createdAt': '2026-03-25T16:27:05.411Z', 'updatedAt': '2026-03-25T16:27:05.411Z'}",
+      "group": "Friendlies",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1005,
+        "referenceId": null,
+        "slug": "cape-verde-islands-1760369701943",
+        "name": "Cape Verde Islands",
+        "logoUrl": "https://imgts.sportpulseapiz.com/football/team/9vjxm8ghdpdr6od/image/small",
+        "createdAt": "2025-10-13T22:35:01.953Z",
+        "updatedAt": "2025-10-13T22:56:49.000Z"
+      },
+      "away": {
+        "id": 3274,
+        "referenceId": "1099",
+        "slug": "finland._3ZaZkaFoh",
+        "name": "Finland",
+        "logoUrl": "https://media.api-sports.io/football/teams/1099.png",
+        "createdAt": "2026-03-25T16:27:05.411Z",
+        "updatedAt": "2026-03-25T16:27:05.411Z"
+      },
+      "time": "10h00",
+      "id": "5842"
+    },
+    {
+      "name": "[13h00] {'id': 994, 'referenceId': None, 'slug': 'new-zealand-1760321338740', 'name': 'New Zealand', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg', 'createdAt': '2025-10-13T09:08:58.744Z', 'updatedAt': '2025-10-13T09:08:58.744Z'} vs {'id': 1689, 'referenceId': None, 'slug': 'chile-1763087701310', 'name': 'Chile', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png', 'createdAt': '2025-11-14T09:35:01.315Z', 'updatedAt': '2025-11-14T09:35:01.315Z'}",
+      "group": "Friendlies",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 994,
+        "referenceId": null,
+        "slug": "new-zealand-1760321338740",
+        "name": "New Zealand",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+        "createdAt": "2025-10-13T09:08:58.744Z",
+        "updatedAt": "2025-10-13T09:08:58.744Z"
+      },
+      "away": {
+        "id": 1689,
+        "referenceId": null,
+        "slug": "chile-1763087701310",
+        "name": "Chile",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png",
+        "createdAt": "2025-11-14T09:35:01.315Z",
+        "updatedAt": "2025-11-14T09:35:01.315Z"
+      },
+      "time": "13h00",
+      "id": "5843"
+    },
+    {
+      "name": "[14h00] {'id': 2518, 'referenceId': '10177', 'slug': 'korea-republic-u23.rbKaU4bgWi', 'name': 'Korea Republic U23', 'logoUrl': 'https://media.api-sports.io/football/teams/10177.png', 'createdAt': '2026-01-11T21:37:06.014Z', 'updatedAt': '2026-01-11T21:37:06.014Z'} vs {'id': 3322, 'referenceId': '23539', 'slug': 'japan-u21.x5n5EP8ggr', 'name': 'Japan U21', 'logoUrl': 'https://media.api-sports.io/football/teams/23539.png', 'createdAt': '2026-03-29T07:00:55.186Z', 'updatedAt': '2026-03-29T07:00:55.186Z'}",
+      "group": "Friendlies",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 2518,
+        "referenceId": "10177",
+        "slug": "korea-republic-u23.rbKaU4bgWi",
+        "name": "Korea Republic U23",
+        "logoUrl": "https://media.api-sports.io/football/teams/10177.png",
+        "createdAt": "2026-01-11T21:37:06.014Z",
+        "updatedAt": "2026-01-11T21:37:06.014Z"
+      },
+      "away": {
+        "id": 3322,
+        "referenceId": "23539",
+        "slug": "japan-u21.x5n5EP8ggr",
+        "name": "Japan U21",
+        "logoUrl": "https://media.api-sports.io/football/teams/23539.png",
+        "createdAt": "2026-03-29T07:00:55.186Z",
+        "updatedAt": "2026-03-29T07:00:55.186Z"
+      },
+      "time": "14h00",
+      "id": "5844"
+    },
+    {
+      "name": "[16h30] {'id': 3323, 'referenceId': '22823', 'slug': 'melbourne-victory-ii.Jp2kHSSi_3', 'name': 'Melbourne Victory II', 'logoUrl': 'https://media.api-sports.io/football/teams/22823.png', 'createdAt': '2026-03-29T07:01:09.810Z', 'updatedAt': '2026-03-29T07:01:09.810Z'} vs {'id': 3324, 'referenceId': '16783', 'slug': 'langwarrin.L-ylLZ0lpX', 'name': 'Langwarrin', 'logoUrl': 'https://media.api-sports.io/football/teams/16783.png', 'createdAt': '2026-03-29T07:01:09.857Z', 'updatedAt': '2026-03-29T07:01:09.857Z'}",
+      "group": "Victoria NPL 2",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3323,
+        "referenceId": "22823",
+        "slug": "melbourne-victory-ii.Jp2kHSSi_3",
+        "name": "Melbourne Victory II",
+        "logoUrl": "https://media.api-sports.io/football/teams/22823.png",
+        "createdAt": "2026-03-29T07:01:09.810Z",
+        "updatedAt": "2026-03-29T07:01:09.810Z"
+      },
+      "away": {
+        "id": 3324,
+        "referenceId": "16783",
+        "slug": "langwarrin.L-ylLZ0lpX",
+        "name": "Langwarrin",
+        "logoUrl": "https://media.api-sports.io/football/teams/16783.png",
+        "createdAt": "2026-03-29T07:01:09.857Z",
+        "updatedAt": "2026-03-29T07:01:09.857Z"
+      },
+      "time": "16h30",
+      "id": "5845"
+    },
+    {
+      "name": "[17h00] {'id': 1654, 'referenceId': None, 'slug': 'trinidad-and-tobago-1762914439859', 'name': 'Trinidad and Tobago', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png', 'createdAt': '2025-11-12T09:27:19.863Z', 'updatedAt': '2025-11-12T09:27:19.863Z'} vs {'id': 1651, 'referenceId': None, 'slug': 'gabon-1762840213388', 'name': 'Gabon', 'logoUrl': 'https://footballlogosandkits.com/images_esc3/CAF/GAB%D3N/escudos_min/MIN_ESC_SELECCI%D3N%20DE%20GABON.png', 'createdAt': '2025-11-11T12:50:13.390Z', 'updatedAt': '2025-11-11T12:50:13.390Z'}",
+      "group": "FIFA Series",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1654,
+        "referenceId": null,
+        "slug": "trinidad-and-tobago-1762914439859",
+        "name": "Trinidad and Tobago",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png",
+        "createdAt": "2025-11-12T09:27:19.863Z",
+        "updatedAt": "2025-11-12T09:27:19.863Z"
+      },
+      "away": {
+        "id": 1651,
+        "referenceId": null,
+        "slug": "gabon-1762840213388",
+        "name": "Gabon",
+        "logoUrl": "https://footballlogosandkits.com/images_esc3/CAF/GAB%D3N/escudos_min/MIN_ESC_SELECCI%D3N%20DE%20GABON.png",
+        "createdAt": "2025-11-11T12:50:13.390Z",
+        "updatedAt": "2025-11-11T12:50:13.390Z"
+      },
+      "time": "17h00",
+      "id": "5846"
+    },
+    {
+      "name": "[22h00] {'id': 3259, 'referenceId': '1031', 'slug': 'al-masry.CX28LcYZZe', 'name': 'AL Masry', 'logoUrl': 'https://media.api-sports.io/football/teams/1031.png', 'createdAt': '2026-03-23T18:10:24.602Z', 'updatedAt': '2026-03-23T18:10:24.602Z'} vs {'id': 3258, 'referenceId': '1574', 'slug': 'el-gouna-fc.wwTEE1haVr', 'name': 'El Gouna FC', 'logoUrl': 'https://media.api-sports.io/football/teams/1574.png', 'createdAt': '2026-03-23T18:10:24.527Z', 'updatedAt': '2026-03-23T18:10:24.527Z'}",
+      "group": "League Cup",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanchanh/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3259,
+        "referenceId": "1031",
+        "slug": "al-masry.CX28LcYZZe",
+        "name": "AL Masry",
+        "logoUrl": "https://media.api-sports.io/football/teams/1031.png",
+        "createdAt": "2026-03-23T18:10:24.602Z",
+        "updatedAt": "2026-03-23T18:10:24.602Z"
+      },
+      "away": {
+        "id": 3258,
+        "referenceId": "1574",
+        "slug": "el-gouna-fc.wwTEE1haVr",
+        "name": "El Gouna FC",
+        "logoUrl": "https://media.api-sports.io/football/teams/1574.png",
+        "createdAt": "2026-03-23T18:10:24.527Z",
+        "updatedAt": "2026-03-23T18:10:24.527Z"
+      },
+      "time": "22h00",
+      "id": "5847"
+    },
+    {
+      "name": "[22h00] {'id': 831, 'referenceId': None, 'slug': 'azerbaijan-1760062694305', 'name': 'Azerbaijan', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png', 'createdAt': '2025-10-10T09:18:14.310Z', 'updatedAt': '2025-10-10T09:18:14.310Z'} vs {'id': 3325, 'referenceId': '1499', 'slug': 'sierra-leone.Z4Lg8XUUot', 'name': 'Sierra Leone', 'logoUrl': 'https://media.api-sports.io/football/teams/1499.png', 'createdAt': '2026-03-29T07:02:56.101Z', 'updatedAt': '2026-03-29T07:02:56.101Z'}",
+      "group": "FIFA Series",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanma/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 831,
+        "referenceId": null,
+        "slug": "azerbaijan-1760062694305",
+        "name": "Azerbaijan",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/250px-Flag_of_Azerbaijan.svg.png",
+        "createdAt": "2025-10-10T09:18:14.310Z",
+        "updatedAt": "2025-10-10T09:18:14.310Z"
+      },
+      "away": {
+        "id": 3325,
+        "referenceId": "1499",
+        "slug": "sierra-leone.Z4Lg8XUUot",
+        "name": "Sierra Leone",
+        "logoUrl": "https://media.api-sports.io/football/teams/1499.png",
+        "createdAt": "2026-03-29T07:02:56.101Z",
+        "updatedAt": "2026-03-29T07:02:56.101Z"
+      },
+      "time": "22h00",
+      "id": "5848"
+    },
+    {
+      "name": "[23h00] {'id': 1707, 'referenceId': None, 'slug': 'cyprus-1763180695036', 'name': 'Cyprus', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png', 'createdAt': '2025-11-15T11:24:55.041Z', 'updatedAt': '2025-11-15T11:24:55.041Z'} vs {'id': 996, 'referenceId': None, 'slug': 'moldova-1760321390507', 'name': 'Moldova', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png', 'createdAt': '2025-10-13T09:09:50.510Z', 'updatedAt': '2025-10-13T09:09:50.510Z'}",
+      "group": "Friendlies",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1707,
+        "referenceId": null,
+        "slug": "cyprus-1763180695036",
+        "name": "Cyprus",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png",
+        "createdAt": "2025-11-15T11:24:55.041Z",
+        "updatedAt": "2025-11-15T11:24:55.041Z"
+      },
+      "away": {
+        "id": 996,
+        "referenceId": null,
+        "slug": "moldova-1760321390507",
+        "name": "Moldova",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/330px-Flag_of_Moldova.svg.png",
+        "createdAt": "2025-10-13T09:09:50.510Z",
+        "updatedAt": "2025-10-13T09:09:50.510Z"
+      },
+      "time": "23h00",
+      "id": "5849"
+    },
+    {
+      "name": "[23h30] {'id': 1444, 'referenceId': None, 'slug': 'torpedo-moskva-1761707037488', 'name': 'Torpedo Moskva', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png', 'createdAt': '2025-10-29T10:03:57.495Z', 'updatedAt': '2025-10-29T10:03:57.495Z'} vs {'id': 3326, 'referenceId': '1087', 'slug': 'ska-khabarovsk.4WNGkEJqe_', 'name': 'Ska-khabarovsk', 'logoUrl': 'https://media.api-sports.io/football/teams/1087.png', 'createdAt': '2026-03-29T07:03:39.621Z', 'updatedAt': '2026-03-29T07:03:39.621Z'}",
+      "group": "First League",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phando/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 1444,
+        "referenceId": null,
+        "slug": "torpedo-moskva-1761707037488",
+        "name": "Torpedo Moskva",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FC_Torpedo_Moscow_Logotype_2023.png/600px-FC_Torpedo_Moscow_Logotype_2023.png",
+        "createdAt": "2025-10-29T10:03:57.495Z",
+        "updatedAt": "2025-10-29T10:03:57.495Z"
+      },
+      "away": {
+        "id": 3326,
+        "referenceId": "1087",
+        "slug": "ska-khabarovsk.4WNGkEJqe_",
+        "name": "Ska-khabarovsk",
+        "logoUrl": "https://media.api-sports.io/football/teams/1087.png",
+        "createdAt": "2026-03-29T07:03:39.621Z",
+        "updatedAt": "2026-03-29T07:03:39.621Z"
+      },
+      "time": "23h30",
+      "id": "5850"
+    },
+    {
+      "name": "[19h00] {'id': 3327, 'referenceId': None, 'slug': 'kosovo-u19.YLrUmZOH9k', 'name': 'Kosovo U19', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png', 'createdAt': '2026-03-29T07:04:50.928Z', 'updatedAt': '2026-03-29T07:04:50.928Z'} vs {'id': 3328, 'referenceId': None, 'slug': 'tho-nhi-ky-u19.NGX1i_AUKG', 'name': ' Thổ Nhĩ Kỳ U19', 'logoUrl': 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg', 'createdAt': '2026-03-29T07:05:05.451Z', 'updatedAt': '2026-03-29T07:05:05.451Z'}",
+      "group": " U19 Euro",
+      "thumb": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/nguonphat5.png",
+      "streams": [
+        {
+          "name": "Stream 1",
+          "url": "https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8"
+        },
+        {
+          "name": "Stream 2",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v2a1/mono.m3u8"
+        },
+        {
+          "name": "Stream 3",
+          "url": "https://alive.zlylive.com/hqtv_blv_phanbo/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "home": {
+        "id": 3327,
+        "referenceId": null,
+        "slug": "kosovo-u19.YLrUmZOH9k",
+        "name": "Kosovo U19",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png",
+        "createdAt": "2026-03-29T07:04:50.928Z",
+        "updatedAt": "2026-03-29T07:04:50.928Z"
+      },
+      "away": {
+        "id": 3328,
+        "referenceId": null,
+        "slug": "tho-nhi-ky-u19.NGX1i_AUKG",
+        "name": " Thổ Nhĩ Kỳ U19",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "createdAt": "2026-03-29T07:05:05.451Z",
+        "updatedAt": "2026-03-29T07:05:05.451Z"
+      },
+      "time": "19h00",
+      "id": "5851"
+    }
+  ]
+}

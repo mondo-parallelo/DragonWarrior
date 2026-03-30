@@ -1,0 +1,770 @@
+#EXTM3U
+# Source  : https://hoadaotv.info
+# Updated : 2026-03-30 02:12 UTC
+# Total   : 153 kenh
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124" group-title="FIFA Series",Cape Verde Vs Finland [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124" group-title="FIFA Series",Cape Verde Vs Finland [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124" group-title="FIFA Series",Cape Verde Vs Finland [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124" group-title="FIFA Series",Cape Verde Vs Finland [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124" group-title="FIFA Series",Cape Verde Vs Finland [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",New Zealand Vs Chile [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",New Zealand Vs Chile [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",New Zealand Vs Chile [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",New Zealand Vs Chile [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",New Zealand Vs Chile [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",South Korea U23 Vs Japan U21 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",South Korea U23 Vs Japan U21 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",South Korea U23 Vs Japan U21 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",South Korea U23 Vs Japan U21 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",South Korea U23 Vs Japan U21 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124" group-title="FIFA Series",Saint Kitts And Nevis Vs Solomon Islands [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124" group-title="FIFA Series",Saint Kitts And Nevis Vs Solomon Islands [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124" group-title="FIFA Series",Saint Kitts And Nevis Vs Solomon Islands [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124" group-title="FIFA Series",Saint Kitts And Nevis Vs Solomon Islands [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124" group-title="FIFA Series",Saint Kitts And Nevis Vs Solomon Islands [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124" group-title="FIFA Series",Trinidad And Tobago Vs Gabon [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124" group-title="FIFA Series",Trinidad And Tobago Vs Gabon [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124" group-title="FIFA Series",Trinidad And Tobago Vs Gabon [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124" group-title="FIFA Series",Trinidad And Tobago Vs Gabon [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124" group-title="FIFA Series",Trinidad And Tobago Vs Gabon [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124" group-title="International Friendly",Russia U21 Vs Jordan U23 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124" group-title="International Friendly",Russia U21 Vs Jordan U23 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124" group-title="International Friendly",Russia U21 Vs Jordan U23 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124" group-title="International Friendly",Russia U21 Vs Jordan U23 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124" group-title="International Friendly",Russia U21 Vs Jordan U23 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124" group-title="UEFA European U19 Football Championship",Kosovo U19 Vs Turkiye U19 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124" group-title="UEFA European U19 Football Championship",Kosovo U19 Vs Turkiye U19 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124" group-title="UEFA European U19 Football Championship",Kosovo U19 Vs Turkiye U19 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124" group-title="UEFA European U19 Football Championship",Kosovo U19 Vs Turkiye U19 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124" group-title="UEFA European U19 Football Championship",Kosovo U19 Vs Turkiye U19 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Indonesia Vs Bulgaria [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Indonesia Vs Bulgaria [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Indonesia Vs Bulgaria [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Indonesia Vs Bulgaria [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Indonesia Vs Bulgaria [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Uzbekistan Vs Venezuela [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Uzbekistan Vs Venezuela [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Uzbekistan Vs Venezuela [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Uzbekistan Vs Venezuela [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Uzbekistan Vs Venezuela [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124" group-title="FIFA Series",Azerbaijan Vs Sierra Leone [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124" group-title="FIFA Series",Azerbaijan Vs Sierra Leone [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124" group-title="FIFA Series",Azerbaijan Vs Sierra Leone [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124" group-title="FIFA Series",Azerbaijan Vs Sierra Leone [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124" group-title="FIFA Series",Azerbaijan Vs Sierra Leone [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124" group-title="International Friendly",Cyprus Vs Moldova [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124" group-title="International Friendly",Cyprus Vs Moldova [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124" group-title="International Friendly",Cyprus Vs Moldova [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124" group-title="International Friendly",Cyprus Vs Moldova [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124" group-title="International Friendly",Cyprus Vs Moldova [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124" group-title="UEFA European U21 Championship qualification",France U21 Vs Iceland U21 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124" group-title="UEFA European U21 Championship qualification",France U21 Vs Iceland U21 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124" group-title="UEFA European U21 Championship qualification",France U21 Vs Iceland U21 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124" group-title="UEFA European U21 Championship qualification",France U21 Vs Iceland U21 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124" group-title="UEFA European U21 Championship qualification",France U21 Vs Iceland U21 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124" group-title="Iraq Stars League",Amanat Baghdad Vs Al Karma [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124" group-title="Iraq Stars League",Amanat Baghdad Vs Al Karma [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124" group-title="Iraq Stars League",Amanat Baghdad Vs Al Karma [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124" group-title="Iraq Stars League",Amanat Baghdad Vs Al Karma [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124" group-title="Iraq Stars League",Amanat Baghdad Vs Al Karma [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124" group-title="International Friendly",Germany Vs Ghana [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124" group-title="International Friendly",Germany Vs Ghana [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124" group-title="International Friendly",Germany Vs Ghana [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124" group-title="International Friendly",Germany Vs Ghana [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124" group-title="International Friendly",Germany Vs Ghana [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124" group-title="Categoría Primera A",Depindependiente Medellin Vs America De Cali [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124" group-title="Categoría Primera A",Depindependiente Medellin Vs America De Cali [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124" group-title="Categoría Primera A",Depindependiente Medellin Vs America De Cali [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124" group-title="Categoría Primera A",Depindependiente Medellin Vs America De Cali [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124" group-title="Categoría Primera A",Depindependiente Medellin Vs America De Cali [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124" group-title="FIFA Series",Cameroon Vs China [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124" group-title="FIFA Series",Cameroon Vs China [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124" group-title="FIFA Series",Cameroon Vs China [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124" group-title="FIFA Series",Cameroon Vs China [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124" group-title="FIFA Series",Cameroon Vs China [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",North Korea U23 Vs Thailand U23 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",North Korea U23 Vs Thailand U23 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",North Korea U23 Vs Thailand U23 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",North Korea U23 Vs Thailand U23 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Friendly International",North Korea U23 Vs Thailand U23 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Pakistan Vs Myanmar [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Pakistan Vs Myanmar [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Pakistan Vs Myanmar [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Pakistan Vs Myanmar [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Pakistan Vs Myanmar [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Australia Vs Curacao [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Australia Vs Curacao [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Australia Vs Curacao [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Australia Vs Curacao [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FIFA Series",Australia Vs Curacao [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Chinese Taipei Vs Sri Lanka [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Chinese Taipei Vs Sri Lanka [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Chinese Taipei Vs Sri Lanka [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Chinese Taipei Vs Sri Lanka [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Chinese Taipei Vs Sri Lanka [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Luồng Chuyên Môn",China U23 Vs Vietnam U23 Dylan [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Luồng Chuyên Môn",China U23 Vs Vietnam U23 Dylan [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Luồng Chuyên Môn",China U23 Vs Vietnam U23 Dylan [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Luồng Chuyên Môn",China U23 Vs Vietnam U23 Dylan [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Luồng Chuyên Môn",China U23 Vs Vietnam U23 Dylan [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Giao Hữu",China U23 Vs Vietnam U23 [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Giao Hữu",China U23 Vs Vietnam U23 [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Giao Hữu",China U23 Vs Vietnam U23 [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Giao Hữu",China U23 Vs Vietnam U23 [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124" group-title="Giao Hữu",China U23 Vs Vietnam U23 [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-04/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Vietnam Vs Malaysia Thayma [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Vietnam Vs Malaysia Thayma [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Vietnam Vs Malaysia Thayma [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Vietnam Vs Malaysia Thayma [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Vietnam Vs Malaysia Thayma [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Vietnam Vs Malaysia [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Vietnam Vs Malaysia [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Vietnam Vs Malaysia [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Vietnam Vs Malaysia [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Vietnam Vs Malaysia [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Thailand Vs Turkmenistan [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Thailand Vs Turkmenistan [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Thailand Vs Turkmenistan [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Thailand Vs Turkmenistan [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Thailand Vs Turkmenistan [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-03/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Tajikistan Vs Philippines [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Tajikistan Vs Philippines [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Tajikistan Vs Philippines [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Tajikistan Vs Philippines [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AFC Asian Cup",Tajikistan Vs Philippines [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124" group-title="CAF Africa Cup of Nations",Mauritius Vs Somalia [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124" group-title="CAF Africa Cup of Nations",Mauritius Vs Somalia [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124" group-title="CAF Africa Cup of Nations",Mauritius Vs Somalia [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124" group-title="CAF Africa Cup of Nations",Mauritius Vs Somalia [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124" group-title="CAF Africa Cup of Nations",Mauritius Vs Somalia [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Norway Vs Switzerland Thayma [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Norway Vs Switzerland Thayma [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Norway Vs Switzerland Thayma [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Norway Vs Switzerland Thayma [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Luồng Hài Hước",Norway Vs Switzerland Thayma [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-14/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="International Friendly",Norway Vs Switzerland [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="International Friendly",Norway Vs Switzerland [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="International Friendly",Norway Vs Switzerland [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="International Friendly",Norway Vs Switzerland [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="International Friendly",Norway Vs Switzerland [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-07/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124" group-title="UEFA Nations League",Luxembourg Vs Malta [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124" group-title="UEFA Nations League",Luxembourg Vs Malta [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124" group-title="UEFA Nations League",Luxembourg Vs Malta [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124" group-title="UEFA Nations League",Luxembourg Vs Malta [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124" group-title="UEFA Nations League",Luxembourg Vs Malta [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.cauthuvideocdn.com/live/link-08/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="07:30",Bonaire vs French Saint-Martin [Nhà đài SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/4627f8b7c86564332c7a542518a6a552/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="08:00",Club Deportivo Guadalajara vs Atlas [Nhà đài SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/d9c55db953632eba852b2297929a6010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="08:00",Marquense vs C.S.D. Comunicaciones [Nhà đài SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/0d3408f469ea80e2e9bfa4c9eb6918f5/playlist.m3u8
+

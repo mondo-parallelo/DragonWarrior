@@ -1,0 +1,1538 @@
+{
+  "site": "HoaDaoTV",
+  "source": "https://hoadaotv.info",
+  "updated": "2026-03-30 02:12 UTC",
+  "total": 153,
+  "channels": [
+    {
+      "name": "Cape Verde Vs Finland [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cape-verde-vs-finland-2416747",
+      "logo": "https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124"
+    },
+    {
+      "name": "Cape Verde Vs Finland [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cape-verde-vs-finland-2416747",
+      "logo": "https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124"
+    },
+    {
+      "name": "Cape Verde Vs Finland [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cape-verde-vs-finland-2416747",
+      "logo": "https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124"
+    },
+    {
+      "name": "Cape Verde Vs Finland [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cape-verde-vs-finland-2416747",
+      "logo": "https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124"
+    },
+    {
+      "name": "Cape Verde Vs Finland [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cape-verde-vs-finland-2416747",
+      "logo": "https://img.rapid-api.icu/football/team/5dd5ad7aef33123a4cbebbe080fa6c19/image/small?v=1768601124"
+    },
+    {
+      "name": "New Zealand Vs Chile [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/new-zealand-vs-chile-2416748",
+      "logo": ""
+    },
+    {
+      "name": "New Zealand Vs Chile [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/new-zealand-vs-chile-2416748",
+      "logo": ""
+    },
+    {
+      "name": "New Zealand Vs Chile [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/new-zealand-vs-chile-2416748",
+      "logo": ""
+    },
+    {
+      "name": "New Zealand Vs Chile [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/new-zealand-vs-chile-2416748",
+      "logo": ""
+    },
+    {
+      "name": "New Zealand Vs Chile [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/new-zealand-vs-chile-2416748",
+      "logo": ""
+    },
+    {
+      "name": "South Korea U23 Vs Japan U21 [SD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/south-korea-u23-vs-japan-u21-2420743",
+      "logo": ""
+    },
+    {
+      "name": "South Korea U23 Vs Japan U21 [HD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/south-korea-u23-vs-japan-u21-2420743",
+      "logo": ""
+    },
+    {
+      "name": "South Korea U23 Vs Japan U21 [FullHD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/south-korea-u23-vs-japan-u21-2420743",
+      "logo": ""
+    },
+    {
+      "name": "South Korea U23 Vs Japan U21 [SD Nhanh]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/south-korea-u23-vs-japan-u21-2420743",
+      "logo": ""
+    },
+    {
+      "name": "South Korea U23 Vs Japan U21 [HD Nhanh]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/south-korea-u23-vs-japan-u21-2420743",
+      "logo": ""
+    },
+    {
+      "name": "Saint Kitts And Nevis Vs Solomon Islands [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/saint-kitts-and-nevis-vs-solomon-islands-2418588",
+      "logo": "https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124"
+    },
+    {
+      "name": "Saint Kitts And Nevis Vs Solomon Islands [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/saint-kitts-and-nevis-vs-solomon-islands-2418588",
+      "logo": "https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124"
+    },
+    {
+      "name": "Saint Kitts And Nevis Vs Solomon Islands [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/saint-kitts-and-nevis-vs-solomon-islands-2418588",
+      "logo": "https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124"
+    },
+    {
+      "name": "Saint Kitts And Nevis Vs Solomon Islands [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/saint-kitts-and-nevis-vs-solomon-islands-2418588",
+      "logo": "https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124"
+    },
+    {
+      "name": "Saint Kitts And Nevis Vs Solomon Islands [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/saint-kitts-and-nevis-vs-solomon-islands-2418588",
+      "logo": "https://img.rapid-api.icu/football/team/4573a0835852c0a1212385b867ae6ca9/image/small?v=1768601124"
+    },
+    {
+      "name": "Trinidad And Tobago Vs Gabon [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/trinidad-and-tobago-vs-gabon-2416753",
+      "logo": "https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124"
+    },
+    {
+      "name": "Trinidad And Tobago Vs Gabon [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/trinidad-and-tobago-vs-gabon-2416753",
+      "logo": "https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124"
+    },
+    {
+      "name": "Trinidad And Tobago Vs Gabon [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/trinidad-and-tobago-vs-gabon-2416753",
+      "logo": "https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124"
+    },
+    {
+      "name": "Trinidad And Tobago Vs Gabon [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/trinidad-and-tobago-vs-gabon-2416753",
+      "logo": "https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124"
+    },
+    {
+      "name": "Trinidad And Tobago Vs Gabon [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/trinidad-and-tobago-vs-gabon-2416753",
+      "logo": "https://img.rapid-api.icu/football/team/991e8efd23c33b5c16a66d8755121402/image/small?v=1768601124"
+    },
+    {
+      "name": "Russia U21 Vs Jordan U23 [SD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/russia-u21-vs-jordan-u23-2417476",
+      "logo": "https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124"
+    },
+    {
+      "name": "Russia U21 Vs Jordan U23 [HD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/russia-u21-vs-jordan-u23-2417476",
+      "logo": "https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124"
+    },
+    {
+      "name": "Russia U21 Vs Jordan U23 [FullHD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/russia-u21-vs-jordan-u23-2417476",
+      "logo": "https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124"
+    },
+    {
+      "name": "Russia U21 Vs Jordan U23 [SD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/russia-u21-vs-jordan-u23-2417476",
+      "logo": "https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124"
+    },
+    {
+      "name": "Russia U21 Vs Jordan U23 [HD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/russia-u21-vs-jordan-u23-2417476",
+      "logo": "https://img.rapid-api.icu/football/team/371694df92ec559a414cad9abd7551a4/image/small?v=1768601124"
+    },
+    {
+      "name": "Kosovo U19 Vs Turkiye U19 [SD]",
+      "league": "UEFA European U19 Football Championship",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/kosovo-u19-vs-turkiye-u19-2416756",
+      "logo": "https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124"
+    },
+    {
+      "name": "Kosovo U19 Vs Turkiye U19 [HD]",
+      "league": "UEFA European U19 Football Championship",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/kosovo-u19-vs-turkiye-u19-2416756",
+      "logo": "https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124"
+    },
+    {
+      "name": "Kosovo U19 Vs Turkiye U19 [FullHD]",
+      "league": "UEFA European U19 Football Championship",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/kosovo-u19-vs-turkiye-u19-2416756",
+      "logo": "https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124"
+    },
+    {
+      "name": "Kosovo U19 Vs Turkiye U19 [SD Nhanh]",
+      "league": "UEFA European U19 Football Championship",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/kosovo-u19-vs-turkiye-u19-2416756",
+      "logo": "https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124"
+    },
+    {
+      "name": "Kosovo U19 Vs Turkiye U19 [HD Nhanh]",
+      "league": "UEFA European U19 Football Championship",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/kosovo-u19-vs-turkiye-u19-2416756",
+      "logo": "https://img.rapid-api.icu/football/team/34637b716f3b0e9a6c5c833e91848348/image/small?v=1768601124"
+    },
+    {
+      "name": "Indonesia Vs Bulgaria [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/indonesia-vs-bulgaria-2418589",
+      "logo": ""
+    },
+    {
+      "name": "Indonesia Vs Bulgaria [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/indonesia-vs-bulgaria-2418589",
+      "logo": ""
+    },
+    {
+      "name": "Indonesia Vs Bulgaria [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/indonesia-vs-bulgaria-2418589",
+      "logo": ""
+    },
+    {
+      "name": "Indonesia Vs Bulgaria [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/indonesia-vs-bulgaria-2418589",
+      "logo": ""
+    },
+    {
+      "name": "Indonesia Vs Bulgaria [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/indonesia-vs-bulgaria-2418589",
+      "logo": ""
+    },
+    {
+      "name": "Uzbekistan Vs Venezuela [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/uzbekistan-vs-venezuela-2416772",
+      "logo": ""
+    },
+    {
+      "name": "Uzbekistan Vs Venezuela [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/uzbekistan-vs-venezuela-2416772",
+      "logo": ""
+    },
+    {
+      "name": "Uzbekistan Vs Venezuela [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/uzbekistan-vs-venezuela-2416772",
+      "logo": ""
+    },
+    {
+      "name": "Uzbekistan Vs Venezuela [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/uzbekistan-vs-venezuela-2416772",
+      "logo": ""
+    },
+    {
+      "name": "Uzbekistan Vs Venezuela [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/uzbekistan-vs-venezuela-2416772",
+      "logo": ""
+    },
+    {
+      "name": "Azerbaijan Vs Sierra Leone [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/azerbaijan-vs-sierra-leone-2417070",
+      "logo": "https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124"
+    },
+    {
+      "name": "Azerbaijan Vs Sierra Leone [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/azerbaijan-vs-sierra-leone-2417070",
+      "logo": "https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124"
+    },
+    {
+      "name": "Azerbaijan Vs Sierra Leone [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/azerbaijan-vs-sierra-leone-2417070",
+      "logo": "https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124"
+    },
+    {
+      "name": "Azerbaijan Vs Sierra Leone [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/azerbaijan-vs-sierra-leone-2417070",
+      "logo": "https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124"
+    },
+    {
+      "name": "Azerbaijan Vs Sierra Leone [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/azerbaijan-vs-sierra-leone-2417070",
+      "logo": "https://img.rapid-api.icu/football/team/73bebc2e7de1960c601ac3545d77e3c6/image/small?v=1768601124"
+    },
+    {
+      "name": "Cyprus Vs Moldova [SD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cyprus-vs-moldova-2417480",
+      "logo": "https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124"
+    },
+    {
+      "name": "Cyprus Vs Moldova [HD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cyprus-vs-moldova-2417480",
+      "logo": "https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124"
+    },
+    {
+      "name": "Cyprus Vs Moldova [FullHD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cyprus-vs-moldova-2417480",
+      "logo": "https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124"
+    },
+    {
+      "name": "Cyprus Vs Moldova [SD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cyprus-vs-moldova-2417480",
+      "logo": "https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124"
+    },
+    {
+      "name": "Cyprus Vs Moldova [HD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cyprus-vs-moldova-2417480",
+      "logo": "https://img.rapid-api.icu/football/team/f51d0a43e570acba54845ff8563c99d5/image/small?v=1768601124"
+    },
+    {
+      "name": "France U21 Vs Iceland U21 [SD]",
+      "league": "UEFA European U21 Championship qualification",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/france-u21-vs-iceland-u21-2417202",
+      "logo": "https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124"
+    },
+    {
+      "name": "France U21 Vs Iceland U21 [HD]",
+      "league": "UEFA European U21 Championship qualification",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/france-u21-vs-iceland-u21-2417202",
+      "logo": "https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124"
+    },
+    {
+      "name": "France U21 Vs Iceland U21 [FullHD]",
+      "league": "UEFA European U21 Championship qualification",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/france-u21-vs-iceland-u21-2417202",
+      "logo": "https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124"
+    },
+    {
+      "name": "France U21 Vs Iceland U21 [SD Nhanh]",
+      "league": "UEFA European U21 Championship qualification",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/france-u21-vs-iceland-u21-2417202",
+      "logo": "https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124"
+    },
+    {
+      "name": "France U21 Vs Iceland U21 [HD Nhanh]",
+      "league": "UEFA European U21 Championship qualification",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/france-u21-vs-iceland-u21-2417202",
+      "logo": "https://img.rapid-api.icu/football/team/6aca30f59d7c37718596088f65c03bef/image/small?v=1768601124"
+    },
+    {
+      "name": "Amanat Baghdad Vs Al Karma [SD]",
+      "league": "Iraq Stars League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/amanat-baghdad-vs-al-karma-2417857",
+      "logo": "https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124"
+    },
+    {
+      "name": "Amanat Baghdad Vs Al Karma [HD]",
+      "league": "Iraq Stars League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/amanat-baghdad-vs-al-karma-2417857",
+      "logo": "https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124"
+    },
+    {
+      "name": "Amanat Baghdad Vs Al Karma [FullHD]",
+      "league": "Iraq Stars League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/amanat-baghdad-vs-al-karma-2417857",
+      "logo": "https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124"
+    },
+    {
+      "name": "Amanat Baghdad Vs Al Karma [SD Nhanh]",
+      "league": "Iraq Stars League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/amanat-baghdad-vs-al-karma-2417857",
+      "logo": "https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124"
+    },
+    {
+      "name": "Amanat Baghdad Vs Al Karma [HD Nhanh]",
+      "league": "Iraq Stars League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/amanat-baghdad-vs-al-karma-2417857",
+      "logo": "https://img.rapid-api.icu/football/team/e868bfbe0c12f92f36de19d9d665c3f9/image/small?v=1768601124"
+    },
+    {
+      "name": "Germany Vs Ghana [SD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/germany-vs-ghana-2417207",
+      "logo": "https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124"
+    },
+    {
+      "name": "Germany Vs Ghana [HD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/germany-vs-ghana-2417207",
+      "logo": "https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124"
+    },
+    {
+      "name": "Germany Vs Ghana [FullHD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/germany-vs-ghana-2417207",
+      "logo": "https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124"
+    },
+    {
+      "name": "Germany Vs Ghana [SD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/germany-vs-ghana-2417207",
+      "logo": "https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124"
+    },
+    {
+      "name": "Germany Vs Ghana [HD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/germany-vs-ghana-2417207",
+      "logo": "https://img.rapid-api.icu/football/team/22b6e049ca95d513b185eb0de626eb5c/image/small?v=1768601124"
+    },
+    {
+      "name": "Depindependiente Medellin Vs America De Cali [SD]",
+      "league": "Categoría Primera A",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/depindependiente-medellin-vs-america-de-cali-2417218",
+      "logo": "https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124"
+    },
+    {
+      "name": "Depindependiente Medellin Vs America De Cali [HD]",
+      "league": "Categoría Primera A",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/depindependiente-medellin-vs-america-de-cali-2417218",
+      "logo": "https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124"
+    },
+    {
+      "name": "Depindependiente Medellin Vs America De Cali [FullHD]",
+      "league": "Categoría Primera A",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/depindependiente-medellin-vs-america-de-cali-2417218",
+      "logo": "https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124"
+    },
+    {
+      "name": "Depindependiente Medellin Vs America De Cali [SD Nhanh]",
+      "league": "Categoría Primera A",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/depindependiente-medellin-vs-america-de-cali-2417218",
+      "logo": "https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124"
+    },
+    {
+      "name": "Depindependiente Medellin Vs America De Cali [HD Nhanh]",
+      "league": "Categoría Primera A",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/depindependiente-medellin-vs-america-de-cali-2417218",
+      "logo": "https://img.rapid-api.icu/football/team/54a4776a631c1b9e18269a965ebb8d7b/image/small?v=1768601124"
+    },
+    {
+      "name": "Cameroon Vs China [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cameroon-vs-china-2417229",
+      "logo": "https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124"
+    },
+    {
+      "name": "Cameroon Vs China [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cameroon-vs-china-2417229",
+      "logo": "https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124"
+    },
+    {
+      "name": "Cameroon Vs China [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cameroon-vs-china-2417229",
+      "logo": "https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124"
+    },
+    {
+      "name": "Cameroon Vs China [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cameroon-vs-china-2417229",
+      "logo": "https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124"
+    },
+    {
+      "name": "Cameroon Vs China [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/cameroon-vs-china-2417229",
+      "logo": "https://img.rapid-api.icu/football/team/38c72e5319973c79e44df60e57082334/image/small?v=1768601124"
+    },
+    {
+      "name": "North Korea U23 Vs Thailand U23 [SD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/north-korea-u23-vs-thailand-u23-2417230",
+      "logo": ""
+    },
+    {
+      "name": "North Korea U23 Vs Thailand U23 [HD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/north-korea-u23-vs-thailand-u23-2417230",
+      "logo": ""
+    },
+    {
+      "name": "North Korea U23 Vs Thailand U23 [FullHD]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/north-korea-u23-vs-thailand-u23-2417230",
+      "logo": ""
+    },
+    {
+      "name": "North Korea U23 Vs Thailand U23 [SD Nhanh]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/north-korea-u23-vs-thailand-u23-2417230",
+      "logo": ""
+    },
+    {
+      "name": "North Korea U23 Vs Thailand U23 [HD Nhanh]",
+      "league": "Friendly International",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/north-korea-u23-vs-thailand-u23-2417230",
+      "logo": ""
+    },
+    {
+      "name": "Pakistan Vs Myanmar [SD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/pakistan-vs-myanmar-2417232",
+      "logo": ""
+    },
+    {
+      "name": "Pakistan Vs Myanmar [HD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/pakistan-vs-myanmar-2417232",
+      "logo": ""
+    },
+    {
+      "name": "Pakistan Vs Myanmar [FullHD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/pakistan-vs-myanmar-2417232",
+      "logo": ""
+    },
+    {
+      "name": "Pakistan Vs Myanmar [SD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/pakistan-vs-myanmar-2417232",
+      "logo": ""
+    },
+    {
+      "name": "Pakistan Vs Myanmar [HD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/pakistan-vs-myanmar-2417232",
+      "logo": ""
+    },
+    {
+      "name": "Australia Vs Curacao [SD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/australia-vs-curacao-2417233",
+      "logo": ""
+    },
+    {
+      "name": "Australia Vs Curacao [HD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/australia-vs-curacao-2417233",
+      "logo": ""
+    },
+    {
+      "name": "Australia Vs Curacao [FullHD]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/australia-vs-curacao-2417233",
+      "logo": ""
+    },
+    {
+      "name": "Australia Vs Curacao [SD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/australia-vs-curacao-2417233",
+      "logo": ""
+    },
+    {
+      "name": "Australia Vs Curacao [HD Nhanh]",
+      "league": "FIFA Series",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-02/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/australia-vs-curacao-2417233",
+      "logo": ""
+    },
+    {
+      "name": "Chinese Taipei Vs Sri Lanka [SD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/chinese-taipei-vs-sri-lanka-2417241",
+      "logo": ""
+    },
+    {
+      "name": "Chinese Taipei Vs Sri Lanka [HD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/chinese-taipei-vs-sri-lanka-2417241",
+      "logo": ""
+    },
+    {
+      "name": "Chinese Taipei Vs Sri Lanka [FullHD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/chinese-taipei-vs-sri-lanka-2417241",
+      "logo": ""
+    },
+    {
+      "name": "Chinese Taipei Vs Sri Lanka [SD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/chinese-taipei-vs-sri-lanka-2417241",
+      "logo": ""
+    },
+    {
+      "name": "Chinese Taipei Vs Sri Lanka [HD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-10/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/chinese-taipei-vs-sri-lanka-2417241",
+      "logo": ""
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 Dylan [SD]",
+      "league": "Luồng Chuyên Môn",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-dylan-2420784",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 Dylan [HD]",
+      "league": "Luồng Chuyên Môn",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-dylan-2420784",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 Dylan [FullHD]",
+      "league": "Luồng Chuyên Môn",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-dylan-2420784",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 Dylan [SD Nhanh]",
+      "league": "Luồng Chuyên Môn",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-dylan-2420784",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 Dylan [HD Nhanh]",
+      "league": "Luồng Chuyên Môn",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-dylan-2420784",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 [SD]",
+      "league": "Giao Hữu",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-2417245",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 [HD]",
+      "league": "Giao Hữu",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-2417245",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 [FullHD]",
+      "league": "Giao Hữu",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-2417245",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 [SD Nhanh]",
+      "league": "Giao Hữu",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-2417245",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "China U23 Vs Vietnam U23 [HD Nhanh]",
+      "league": "Giao Hữu",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-04/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/china-u23-vs-vietnam-u23-2417245",
+      "logo": "https://img.rapid-api.icu/football/team/8e231fecfd41b89d6bd5eb7bf1e09d0e/image/small?v=1768601124"
+    },
+    {
+      "name": "Vietnam Vs Malaysia Thayma [SD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-thayma-2420785",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia Thayma [HD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-thayma-2420785",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia Thayma [FullHD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-thayma-2420785",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia Thayma [SD Nhanh]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-thayma-2420785",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia Thayma [HD Nhanh]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-thayma-2420785",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia [SD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-2417256",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia [HD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-2417256",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia [FullHD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-2417256",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia [SD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-2417256",
+      "logo": ""
+    },
+    {
+      "name": "Vietnam Vs Malaysia [HD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/vietnam-vs-malaysia-2417256",
+      "logo": ""
+    },
+    {
+      "name": "Thailand Vs Turkmenistan [SD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/thailand-vs-turkmenistan-2417260",
+      "logo": ""
+    },
+    {
+      "name": "Thailand Vs Turkmenistan [HD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/thailand-vs-turkmenistan-2417260",
+      "logo": ""
+    },
+    {
+      "name": "Thailand Vs Turkmenistan [FullHD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/thailand-vs-turkmenistan-2417260",
+      "logo": ""
+    },
+    {
+      "name": "Thailand Vs Turkmenistan [SD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/thailand-vs-turkmenistan-2417260",
+      "logo": ""
+    },
+    {
+      "name": "Thailand Vs Turkmenistan [HD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-03/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/thailand-vs-turkmenistan-2417260",
+      "logo": ""
+    },
+    {
+      "name": "Tajikistan Vs Philippines [SD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/tajikistan-vs-philippines-2417285",
+      "logo": ""
+    },
+    {
+      "name": "Tajikistan Vs Philippines [HD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/tajikistan-vs-philippines-2417285",
+      "logo": ""
+    },
+    {
+      "name": "Tajikistan Vs Philippines [FullHD]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/tajikistan-vs-philippines-2417285",
+      "logo": ""
+    },
+    {
+      "name": "Tajikistan Vs Philippines [SD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/tajikistan-vs-philippines-2417285",
+      "logo": ""
+    },
+    {
+      "name": "Tajikistan Vs Philippines [HD Nhanh]",
+      "league": "AFC Asian Cup",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-09/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/tajikistan-vs-philippines-2417285",
+      "logo": ""
+    },
+    {
+      "name": "Mauritius Vs Somalia [SD]",
+      "league": "CAF Africa Cup of Nations",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/mauritius-vs-somalia-2417305",
+      "logo": "https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124"
+    },
+    {
+      "name": "Mauritius Vs Somalia [HD]",
+      "league": "CAF Africa Cup of Nations",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/mauritius-vs-somalia-2417305",
+      "logo": "https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124"
+    },
+    {
+      "name": "Mauritius Vs Somalia [FullHD]",
+      "league": "CAF Africa Cup of Nations",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/mauritius-vs-somalia-2417305",
+      "logo": "https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124"
+    },
+    {
+      "name": "Mauritius Vs Somalia [SD Nhanh]",
+      "league": "CAF Africa Cup of Nations",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/mauritius-vs-somalia-2417305",
+      "logo": "https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124"
+    },
+    {
+      "name": "Mauritius Vs Somalia [HD Nhanh]",
+      "league": "CAF Africa Cup of Nations",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-11/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/mauritius-vs-somalia-2417305",
+      "logo": "https://img.rapid-api.icu/football/team/e4a6e2da86219faadb9721d9dd18b982/image/small?v=1768601124"
+    },
+    {
+      "name": "Norway Vs Switzerland Thayma [SD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-thayma-2420787",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland Thayma [HD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-thayma-2420787",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland Thayma [FullHD]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-thayma-2420787",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland Thayma [SD Nhanh]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-thayma-2420787",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland Thayma [HD Nhanh]",
+      "league": "Luồng Hài Hước",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-14/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-thayma-2420787",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland [SD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-2417596",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland [HD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-2417596",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland [FullHD]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-2417596",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland [SD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-2417596",
+      "logo": ""
+    },
+    {
+      "name": "Norway Vs Switzerland [HD Nhanh]",
+      "league": "International Friendly",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-07/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/norway-vs-switzerland-2417596",
+      "logo": ""
+    },
+    {
+      "name": "Luxembourg Vs Malta [SD]",
+      "league": "UEFA Nations League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/luxembourg-vs-malta-2417604",
+      "logo": "https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124"
+    },
+    {
+      "name": "Luxembourg Vs Malta [HD]",
+      "league": "UEFA Nations League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/luxembourg-vs-malta-2417604",
+      "logo": "https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124"
+    },
+    {
+      "name": "Luxembourg Vs Malta [FullHD]",
+      "league": "UEFA Nations League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/luxembourg-vs-malta-2417604",
+      "logo": "https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124"
+    },
+    {
+      "name": "Luxembourg Vs Malta [SD Nhanh]",
+      "league": "UEFA Nations League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/luxembourg-vs-malta-2417604",
+      "logo": "https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124"
+    },
+    {
+      "name": "Luxembourg Vs Malta [HD Nhanh]",
+      "league": "UEFA Nations League",
+      "stream_url": "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8",
+      "streams": [
+        "https://hls.cauthuvideocdn.com/live/link-08/index.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/luxembourg-vs-malta-2417604",
+      "logo": "https://img.rapid-api.icu/football/team/be1b60be98917476ae96dd4414010ef3/image/small?v=1768601124"
+    },
+    {
+      "name": "Bonaire vs French Saint-Martin [Nhà đài SD]",
+      "league": "07:30",
+      "stream_url": "https://live.alilicloud.com/live/4627f8b7c86564332c7a542518a6a552/playlist.m3u8",
+      "streams": [
+        "https://live.alilicloud.com/live/4627f8b7c86564332c7a542518a6a552/playlist.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/bonaire-vs-french-saint-martin-2417584",
+      "logo": ""
+    },
+    {
+      "name": "Club Deportivo Guadalajara vs Atlas [Nhà đài SD]",
+      "league": "08:00",
+      "stream_url": "https://live.alilicloud.com/live/d9c55db953632eba852b2297929a6010/playlist.m3u8",
+      "streams": [
+        "https://live.alilicloud.com/live/d9c55db953632eba852b2297929a6010/playlist.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/club-deportivo-guadalajara-vs-atlas-2419536",
+      "logo": ""
+    },
+    {
+      "name": "Marquense vs C.S.D. Comunicaciones [Nhà đài SD]",
+      "league": "08:00",
+      "stream_url": "https://live.alilicloud.com/live/0d3408f469ea80e2e9bfa4c9eb6918f5/playlist.m3u8",
+      "streams": [
+        "https://live.alilicloud.com/live/0d3408f469ea80e2e9bfa4c9eb6918f5/playlist.m3u8"
+      ],
+      "page_url": "https://hoadaotv.info/marquense-vs-csd-comunicaciones-2416743",
+      "logo": ""
+    }
+  ]
+}
