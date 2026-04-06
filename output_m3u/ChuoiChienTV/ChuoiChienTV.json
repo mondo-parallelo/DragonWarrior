@@ -1,0 +1,133 @@
+{
+  "site": "ChuoiChienTV",
+  "source": "https://live18.chuoichientv.com",
+  "updated": "2026-03-20 12:52 UTC",
+  "total": 9,
+  "channels": [
+    {
+      "name": "[18h00] Dalian Zhixing vs SHANGHAI SIPG",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_133510_2c132dec.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoihot.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[19h15] Công An TP. Hồ Chí Minh vs Trường Tươi Đồng Nai",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/20250921_103707_aead777a.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivang.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivanghd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[21h00] FC Astana vs FK Tobol Kostanay",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_132450_60b4c9f6.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[23h00] Slavia Sofia vs Botev Plovdiv",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_134217_77a1ae5a.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinuong.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinuonghd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinuonghd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[00h30] Cagliari vs Napoli",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_125600_1f684e4e.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/atich.flv",
+        "https://gckc0525.edgemaxcdn.org/live/atichhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/atichhd.flv",
+        "https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/quanvu.flv",
+        "https://gckc0525.edgemaxcdn.org/live/quanvuhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/quanvuhd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[02h30] RB Leipzig vs 1899 Hoffenheim",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_125557_d38d0dff.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivang.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivanghd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoivanghd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[03h00] Bournemouth vs Manchester United",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_125545_e668d998.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+        "https://gckc0525.edgemaxcdn.org/live/anhquat/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/anhquat.flv",
+        "https://gckc0525.edgemaxcdn.org/live/anhquathd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/anhquathd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[09h00] Auckland vs Macarthur",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/uploads/20250623_130443_a516ed27.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitieuhd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    },
+    {
+      "name": "[12h05] Hisamitsu Springs W vs Gunma Bank Green Wings W",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.com/media/20251107_144450_2fc776cf.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/manze.flv",
+        "https://gckc0525.edgemaxcdn.org/live/manzehd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/manzehd.flv"
+      ],
+      "page_url": "https://live18.chuoichientv.com/"
+    }
+  ]
+}

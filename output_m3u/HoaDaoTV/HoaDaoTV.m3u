@@ -1,0 +1,715 @@
+#EXTM3U
+# Source  : https://hoadaotv.info
+# Updated : 2026-04-06 02:11 UTC
+# Total   : 142 kenh
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124" group-title="Italian Serie A",Udinese Vs Como [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124" group-title="Italian Serie A",Udinese Vs Como [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124" group-title="Italian Serie A",Udinese Vs Como [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124" group-title="Italian Serie A",Udinese Vs Como [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c26824a53e791f4fcafc7b5405a9a458/image/small?v=1768601124" group-title="Italian Serie A",Udinese Vs Como [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png" group-title="NBA",Dallas Mavericks Vs Los Angeles Lakers Vanchuan [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png" group-title="NBA",Dallas Mavericks Vs Los Angeles Lakers Vanchuan [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png" group-title="NBA",Dallas Mavericks Vs Los Angeles Lakers Vanchuan [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png" group-title="NBA",Dallas Mavericks Vs Los Angeles Lakers Vanchuan [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png" group-title="NBA",Dallas Mavericks Vs Los Angeles Lakers Vanchuan [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png" group-title="NBA",Sacramento Kings Vs Los Angeles Clippers Duahau [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png" group-title="NBA",Sacramento Kings Vs Los Angeles Clippers Duahau [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png" group-title="NBA",Sacramento Kings Vs Los Angeles Clippers Duahau [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png" group-title="NBA",Sacramento Kings Vs Los Angeles Clippers Duahau [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/riqrdljl-dhz9Qt1I.png" group-title="NBA",Sacramento Kings Vs Los Angeles Clippers Duahau [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",H Ni N Vs Bc Thng Tin N [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",H Ni N Vs Bc Thng Tin N [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",H Ni N Vs Bc Thng Tin N [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",H Ni N Vs Bc Thng Tin N [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",H Ni N Vs Bc Thng Tin N [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Th Cng Tn Cng Vs Ninh Bnh [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Th Cng Tn Cng Vs Ninh Bnh [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Th Cng Tn Cng Vs Ninh Bnh [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Th Cng Tn Cng Vs Ninh Bnh [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Th Cng Tn Cng Vs Ninh Bnh [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Hng Yn N Vs Lo Cai N [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Hng Yn N Vs Lo Cai N [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Hng Yn N Vs Lo Cai N [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Hng Yn N Vs Lo Cai N [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Hng Yn N Vs Lo Cai N [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/9a6b1e2ef0b23d2d36e0621de0b075d7/image/small?v=1768601124" group-title="Sweden Allsvenskan",Elfsborg Vs Ifk Goteborg [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/9a6b1e2ef0b23d2d36e0621de0b075d7/image/small?v=1768601124" group-title="Sweden Allsvenskan",Elfsborg Vs Ifk Goteborg [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/9a6b1e2ef0b23d2d36e0621de0b075d7/image/small?v=1768601124" group-title="Sweden Allsvenskan",Elfsborg Vs Ifk Goteborg [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/9a6b1e2ef0b23d2d36e0621de0b075d7/image/small?v=1768601124" group-title="Sweden Allsvenskan",Elfsborg Vs Ifk Goteborg [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/9a6b1e2ef0b23d2d36e0621de0b075d7/image/small?v=1768601124" group-title="Sweden Allsvenskan",Elfsborg Vs Ifk Goteborg [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small?v=1768601124" group-title="Italian Serie A",Lecce Vs Atalanta [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small?v=1768601124" group-title="Italian Serie A",Lecce Vs Atalanta [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small?v=1768601124" group-title="Italian Serie A",Lecce Vs Atalanta [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small?v=1768601124" group-title="Italian Serie A",Lecce Vs Atalanta [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/c2930493e7827c949bb1e2bd5a253c09/image/small?v=1768601124" group-title="Italian Serie A",Lecce Vs Atalanta [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Khnh Ha Vs H Ni [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Khnh Ha Vs H Ni [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Khnh Ha Vs H Ni [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Khnh Ha Vs H Ni [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Khnh Ha Vs H Ni [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124" group-title="Netherlands Eerste Divisie",Vitesse Arnhem Vs Jong Ajax Youth [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124" group-title="Netherlands Eerste Divisie",Vitesse Arnhem Vs Jong Ajax Youth [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124" group-title="Netherlands Eerste Divisie",Vitesse Arnhem Vs Jong Ajax Youth [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124" group-title="Netherlands Eerste Divisie",Vitesse Arnhem Vs Jong Ajax Youth [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/45303e6ad8d38fc4dc5891c33fee1c58/image/small?v=1768601124" group-title="Netherlands Eerste Divisie",Vitesse Arnhem Vs Jong Ajax Youth [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/52f738c7dbcac126a88b4e0b20f736b8/image/small?v=1768601124" group-title="Italian Serie A",Juventus Vs Genoa [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/52f738c7dbcac126a88b4e0b20f736b8/image/small?v=1768601124" group-title="Italian Serie A",Juventus Vs Genoa [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/52f738c7dbcac126a88b4e0b20f736b8/image/small?v=1768601124" group-title="Italian Serie A",Juventus Vs Genoa [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/52f738c7dbcac126a88b4e0b20f736b8/image/small?v=1768601124" group-title="Italian Serie A",Juventus Vs Genoa [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/52f738c7dbcac126a88b4e0b20f736b8/image/small?v=1768601124" group-title="Italian Serie A",Juventus Vs Genoa [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124" group-title="Belgian Pro League",Kaa Gent Vs Kv Mechelen [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124" group-title="Belgian Pro League",Kaa Gent Vs Kv Mechelen [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124" group-title="Belgian Pro League",Kaa Gent Vs Kv Mechelen [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124" group-title="Belgian Pro League",Kaa Gent Vs Kv Mechelen [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/dee87d8e5cc382d41d4adae46084961b/image/small?v=1768601124" group-title="Belgian Pro League",Kaa Gent Vs Kv Mechelen [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8194f82f73cca704a707558f67b205b7/image/small?v=1768601124" group-title="Israel Premier League",Hapoel Tel Aviv Vs Maccabi Haifa [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8194f82f73cca704a707558f67b205b7/image/small?v=1768601124" group-title="Israel Premier League",Hapoel Tel Aviv Vs Maccabi Haifa [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8194f82f73cca704a707558f67b205b7/image/small?v=1768601124" group-title="Israel Premier League",Hapoel Tel Aviv Vs Maccabi Haifa [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8194f82f73cca704a707558f67b205b7/image/small?v=1768601124" group-title="Israel Premier League",Hapoel Tel Aviv Vs Maccabi Haifa [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/8194f82f73cca704a707558f67b205b7/image/small?v=1768601124" group-title="Israel Premier League",Hapoel Tel Aviv Vs Maccabi Haifa [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/637370e8ba6654405b204565eb5aa5e7/image/small?v=1768601124" group-title="Portuguese Primera Liga",Fc Arouca Vs Estoril [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/637370e8ba6654405b204565eb5aa5e7/image/small?v=1768601124" group-title="Portuguese Primera Liga",Fc Arouca Vs Estoril [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/637370e8ba6654405b204565eb5aa5e7/image/small?v=1768601124" group-title="Portuguese Primera Liga",Fc Arouca Vs Estoril [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/637370e8ba6654405b204565eb5aa5e7/image/small?v=1768601124" group-title="Portuguese Primera Liga",Fc Arouca Vs Estoril [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/637370e8ba6654405b204565eb5aa5e7/image/small?v=1768601124" group-title="Portuguese Primera Liga",Fc Arouca Vs Estoril [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="Italian Serie A",Napoli Vs Ac Milan [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="Italian Serie A",Napoli Vs Ac Milan [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="Italian Serie A",Napoli Vs Ac Milan [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="Italian Serie A",Napoli Vs Ac Milan [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/3966d3256ecd330b5ab8ffd366b08039/image/small?v=1768601124" group-title="Italian Serie A",Napoli Vs Ac Milan [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small?v=1768601124" group-title="Spanish La Liga",Girona Fc Vs Villarreal Cf [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small?v=1768601124" group-title="Spanish La Liga",Girona Fc Vs Villarreal Cf [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small?v=1768601124" group-title="Spanish La Liga",Girona Fc Vs Villarreal Cf [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small?v=1768601124" group-title="Spanish La Liga",Girona Fc Vs Villarreal Cf [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/d908ae191b9b955e5c37ac9c5c1a4778/image/small?v=1768601124" group-title="Spanish La Liga",Girona Fc Vs Villarreal Cf [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124" group-title="Portuguese Primera Liga",Casa Pia Ac Vs Benfica [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124" group-title="Portuguese Primera Liga",Casa Pia Ac Vs Benfica [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124" group-title="Portuguese Primera Liga",Casa Pia Ac Vs Benfica [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124" group-title="Portuguese Primera Liga",Casa Pia Ac Vs Benfica [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/98ac4ed1b2aa672d5d126051266e71dc/image/small?v=1768601124" group-title="Portuguese Primera Liga",Casa Pia Ac Vs Benfica [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/UBTxFpcM-I30Q0K9l.png" group-title="NBA",Atlanta Hawks Vs New York Knicks [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/UBTxFpcM-I30Q0K9l.png" group-title="NBA",Atlanta Hawks Vs New York Knicks [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/UBTxFpcM-I30Q0K9l.png" group-title="NBA",Atlanta Hawks Vs New York Knicks [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/UBTxFpcM-I30Q0K9l.png" group-title="NBA",Atlanta Hawks Vs New York Knicks [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/UBTxFpcM-I30Q0K9l.png" group-title="NBA",Atlanta Hawks Vs New York Knicks [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zBmCc7Wg-Sz1MOtvA.png" group-title="NBA",Denver Nuggets Vs Portland Trail Blazers [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zBmCc7Wg-Sz1MOtvA.png" group-title="NBA",Denver Nuggets Vs Portland Trail Blazers [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zBmCc7Wg-Sz1MOtvA.png" group-title="NBA",Denver Nuggets Vs Portland Trail Blazers [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zBmCc7Wg-Sz1MOtvA.png" group-title="NBA",Denver Nuggets Vs Portland Trail Blazers [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/zBmCc7Wg-Sz1MOtvA.png" group-title="NBA",Denver Nuggets Vs Portland Trail Blazers [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Long An N Vs Viettinbank N [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Long An N Vs Viettinbank N [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Long An N Vs Viettinbank N [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Long An N Vs Viettinbank N [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Long An N Vs Viettinbank N [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Bin Phng Vs Nng [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Bin Phng Vs Nng [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Bin Phng Vs Nng [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Bin Phng Vs Nng [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Bin Phng Vs Nng [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124" group-title="Australia A-League",Melbourne City Vs Central Coast Mariners [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124" group-title="Australia A-League",Melbourne City Vs Central Coast Mariners [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124" group-title="Australia A-League",Melbourne City Vs Central Coast Mariners [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124" group-title="Australia A-League",Melbourne City Vs Central Coast Mariners [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/de628156072aa894a36291cada5396af/image/small?v=1768601124" group-title="Australia A-League",Melbourne City Vs Central Coast Mariners [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Thanh Ha N Vs Ninh Bnh N [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Thanh Ha N Vs Ninh Bnh N [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Thanh Ha N Vs Ninh Bnh N [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Thanh Ha N Vs Ninh Bnh N [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Thanh Ha N Vs Ninh Bnh N [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5512f28c62a4adb08835403bb853589e/image/small?v=1768601124" group-title="Turkish First League",Bandirmaspor Vs Sariyer [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5512f28c62a4adb08835403bb853589e/image/small?v=1768601124" group-title="Turkish First League",Bandirmaspor Vs Sariyer [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5512f28c62a4adb08835403bb853589e/image/small?v=1768601124" group-title="Turkish First League",Bandirmaspor Vs Sariyer [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5512f28c62a4adb08835403bb853589e/image/small?v=1768601124" group-title="Turkish First League",Bandirmaspor Vs Sariyer [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/5512f28c62a4adb08835403bb853589e/image/small?v=1768601124" group-title="Turkish First League",Bandirmaspor Vs Sariyer [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Tp H Ch Minh Vs Cng An Tp Hcm [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Tp H Ch Minh Vs Cng An Tp Hcm [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Tp H Ch Minh Vs Cng An Tp Hcm [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Tp H Ch Minh Vs Cng An Tp Hcm [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Tp H Ch Minh Vs Cng An Tp Hcm [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Fenerbahce W Vs Vakifbank W [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Fenerbahce W Vs Vakifbank W [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Fenerbahce W Vs Vakifbank W [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Fenerbahce W Vs Vakifbank W [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Vòng 1 Giải Vô Đich Bóng Chuyền QG",Fenerbahce W Vs Vakifbank W [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/92bb2f50169cd35aec5a354fc7dd13a8/image/small?v=1768601124" group-title="Russian Cup",Krylya Sovetov Vs Cska Moscow [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/92bb2f50169cd35aec5a354fc7dd13a8/image/small?v=1768601124" group-title="Russian Cup",Krylya Sovetov Vs Cska Moscow [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/92bb2f50169cd35aec5a354fc7dd13a8/image/small?v=1768601124" group-title="Russian Cup",Krylya Sovetov Vs Cska Moscow [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/92bb2f50169cd35aec5a354fc7dd13a8/image/small?v=1768601124" group-title="Russian Cup",Krylya Sovetov Vs Cska Moscow [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/92bb2f50169cd35aec5a354fc7dd13a8/image/small?v=1768601124" group-title="Russian Cup",Krylya Sovetov Vs Cska Moscow [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124" group-title="Croatian Football League",Nk Istra 1961 Vs Hajduk Split [SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124" group-title="Croatian Football League",Nk Istra 1961 Vs Hajduk Split [HD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124" group-title="Croatian Football League",Nk Istra 1961 Vs Hajduk Split [FullHD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124" group-title="Croatian Football League",Nk Istra 1961 Vs Hajduk Split [SD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.rapid-api.icu/football/team/551e023562bef9317af57655d20d582b/image/small?v=1768601124" group-title="Croatian Football League",Nk Istra 1961 Vs Hajduk Split [HD Nhanh]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="08:00",LD Alajuelense vs Guadalupe FC [Nhà đài SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/e675011bbe58d77c97cb0fd842e3797e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="08:06",Pachuca Women vs Leon Women [Nhà đài SD]
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/a21d79f8d9eeb41f4a19ea1e2267ecfd/playlist.m3u8
+
