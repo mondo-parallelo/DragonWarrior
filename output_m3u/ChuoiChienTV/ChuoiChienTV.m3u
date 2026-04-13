@@ -1,0 +1,60 @@
+#EXTM3U
+# Source  : https://live18.chuoichientv.com
+# Updated : 2026-04-13 08:09 UTC
+# Total   : 11 kenh
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145023_6270222c.png" group-title="Chuoi Chien TV",[15h30] Vietnam U17 vs Malaysia U17
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125803_9e802d0a.png" group-title="Chuoi Chien TV",[17h00] LNZ Cherkasy vs Shakhtar Donetsk
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133029_e0bab5b1.png" group-title="Chuoi Chien TV",[18h30] Balestier Khalsa vs Albirex Niigata S
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145025_cf293075.png" group-title="Chuoi Chien TV",[19h30] Indonesia U17 vs Timor-Leste U17
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131725_2e186d9f.png" group-title="Chuoi Chien TV",[20h00] Nasaf vs Buxoro
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133413_e6842fb5.png" group-title="Chuoi Chien TV",[21h45] Al-Ahli Jeddah vs Al-Duhail SC
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131727_9cb5bb96.png" group-title="Chuoi Chien TV",[22h15] Qizilqum vs Sogdiana
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134218_e0a5f601.png" group-title="Chuoi Chien TV",[23h00] Beroe vs Lokomotiv Plovdiv
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_131436_f3e8c8f3.png" group-title="Chuoi Chien TV",[01h00] Al-Hilal Saudi FC vs Al Sadd
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125604_de560c79.png" group-title="Chuoi Chien TV",[01h45] Fiorentina vs Lazio
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125544_6dff7e1a.png" group-title="Chuoi Chien TV",[02h00] Manchester United vs Leeds
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
