@@ -1,0 +1,45 @@
+#EXTM3U
+# Source  : https://live18.chuoichientv.com
+# Updated : 2026-05-05 08:04 UTC
+# Total   : 8 kenh
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_ea998238.png" group-title="Chuoi Chien TV",[15h30] Persepam Madura Utd vs Bali United
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_133956_15774ffd.png" group-title="Chuoi Chien TV",[17h00] FC Seoul vs FC Anyang
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/20528.png" group-title="Chuoi Chien TV",[18h30] India U17 vs Japan U17 W
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_2456a9ca.png" group-title="Chuoi Chien TV",[19h00] Pusamania Borneo vs Persita
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125818_d71a2a6d.png" group-title="Chuoi Chien TV",[21h05] Ajman vs Al-Jazira
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_145018_f7c8e720.png" group-title="Chuoi Chien TV",[23h00] Japan U17 vs Qatar U17
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chanh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134001_23e85ea3.png" group-title="Chuoi Chien TV",[01h00] Al Khaleej Saihat vs Al-Hilal Saudi FC
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125547_ba273b85.png" group-title="Chuoi Chien TV",[02h00] Arsenal vs Atletico Madrid
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8
+
