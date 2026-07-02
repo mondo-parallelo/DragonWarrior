@@ -1,0 +1,676 @@
+#EXTM3U
+# Updated : 2026-07-02 13:50 UTC
+# Total   : 132 kenh
+# CHUOICHIENTV        : 9 kenh
+# HOIQUANTV           : 111 kenh
+# QUECHOATV           : 12 kenh
+
+
+# ══ QUECHOATV (12 kenh) ══
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="QUECHOATV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: PUMA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="QUECHOATV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="QUECHOATV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="QUECHOATV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="QUECHOATV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: PUMA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="QUECHOATV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="QUECHOATV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: CHÈ XANH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="QUECHOATV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: NEM CHUA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="QUECHOATV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="QUECHOATV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: CHÈ XANH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="QUECHOATV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: NEM CHUA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="QUECHOATV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
+
+# ══ CHUOICHIENTV (9 kenh) ══
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145104_78e6132b.png" group-title="CHUOICHIENTV",[19h00] Transport United vs Drukpa
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144555_7dd16e8b.png" group-title="CHUOICHIENTV",[20h00] Croatia U19 vs Italy U19
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27634.png" group-title="CHUOICHIENTV",[20h00] Tobol 2 vs Aktobe Jas
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130602_82e9d0a4.png" group-title="CHUOICHIENTV",[21h00] Khan Tengri vs Ekibastuz
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130143_d65992e3.png" group-title="CHUOICHIENTV",[23h00] Kuressaare vs Flora Tallinn
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144559_befd0f53.png" group-title="CHUOICHIENTV",[00h00] Serbia U19 vs Ukraine U19
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125449_8711159b.png" group-title="CHUOICHIENTV",[02h00] Spain vs Austria
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="CHUOICHIENTV",[06h00] Portugal vs Croatia
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125452_c8ee16a6.png" group-title="CHUOICHIENTV",[10h00] Switzerland vs Algeria
+#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+
+# ══ HOIQUANTV (111 kenh) ══
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" group-title="HOIQUANTV",[20:00 | 02.07] Croatia U19 - Italy U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" group-title="HOIQUANTV",[20:00 | 02.07] Croatia U19 - Italy U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg" group-title="HOIQUANTV",[20:00 | 02.07] Croatia U19 - Italy U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12234.png" group-title="HOIQUANTV",[21:00 | 02.07] Abdish-Ata - Alga [Premier League] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12234.png" group-title="HOIQUANTV",[21:00 | 02.07] Abdish-Ata - Alga [Premier League] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/12234.png" group-title="HOIQUANTV",[21:00 | 02.07] Abdish-Ata - Alga [Premier League] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8026.png" group-title="HOIQUANTV",[21:00 | 02.07] Dordoi Bishkek - Kara-Balta [Premier League] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8026.png" group-title="HOIQUANTV",[21:00 | 02.07] Dordoi Bishkek - Kara-Balta [Premier League] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8026.png" group-title="HOIQUANTV",[21:00 | 02.07] Dordoi Bishkek - Kara-Balta [Premier League] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/388.png" group-title="HOIQUANTV",[22:00 | 02.07] Bate Borisov - FC Gomel [Premier League] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/388.png" group-title="HOIQUANTV",[22:00 | 02.07] Bate Borisov - FC Gomel [Premier League] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/388.png" group-title="HOIQUANTV",[22:00 | 02.07] Bate Borisov - FC Gomel [Premier League] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV THẦN THÔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV THẦN THÔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/9.png" group-title="HOIQUANTV",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: BLV THẦN THÔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV THẦN THÔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV THẦN THÔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV THẦN THÔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27.png" group-title="HOIQUANTV",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/250px-Flag_of_Switzerland.svg.png" group-title="HOIQUANTV",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10346.png" group-title="HOIQUANTV",[00:00 | 03.07] Serbia U19 - Ukraine U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10346.png" group-title="HOIQUANTV",[00:00 | 03.07] Serbia U19 - Ukraine U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10346.png" group-title="HOIQUANTV",[00:00 | 03.07] Serbia U19 - Ukraine U19 [UEFA U19 Championship] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/154.png" group-title="HOIQUANTV",[07:00 | 03.07] Fortaleza EC - Ponte Preta [Serie B] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/154.png" group-title="HOIQUANTV",[07:00 | 03.07] Fortaleza EC - Ponte Preta [Serie B] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/154.png" group-title="HOIQUANTV",[07:00 | 03.07] Fortaleza EC - Ponte Preta [Serie B] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10204.png" group-title="HOIQUANTV",[17:00 | 03.07] Edgeworth Eagles - Kahibah [Northern NSW NPL] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10204.png" group-title="HOIQUANTV",[17:00 | 03.07] Edgeworth Eagles - Kahibah [Northern NSW NPL] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10204.png" group-title="HOIQUANTV",[17:00 | 03.07] Edgeworth Eagles - Kahibah [Northern NSW NPL] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="HOIQUANTV",[19:00 | 03.07] Yunnan Yukun  - Henan Jianye [Super League] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="HOIQUANTV",[19:00 | 03.07] Yunnan Yukun  - Henan Jianye [Super League] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="HOIQUANTV",[19:00 | 03.07] Yunnan Yukun  - Henan Jianye [Super League] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="HOIQUANTV",[20:00 | 03.07] Naftan - Dinamo Brest [Premier League] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="HOIQUANTV",[20:00 | 03.07] Naftan - Dinamo Brest [Premier League] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/750.png" group-title="HOIQUANTV",[20:00 | 03.07] Naftan - Dinamo Brest [Premier League] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/562.png" group-title="HOIQUANTV",[21:00 | 03.07] FC Astana - Zhenys [Premier League] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/562.png" group-title="HOIQUANTV",[21:00 | 03.07] FC Astana - Zhenys [Premier League] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/562.png" group-title="HOIQUANTV",[21:00 | 03.07] FC Astana - Zhenys [Premier League] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10059.png" group-title="HOIQUANTV",[23:00 | 03.07] Nõmme United - Kalju Nomme [Meistriliiga] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10059.png" group-title="HOIQUANTV",[23:00 | 03.07] Nõmme United - Kalju Nomme [Meistriliiga] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/10059.png" group-title="HOIQUANTV",[23:00 | 03.07] Nõmme United - Kalju Nomme [Meistriliiga] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/370.png" group-title="HOIQUANTV",[00:00 | 04.07] Sirius - Mjallby AIF [Allsvenskan] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/370.png" group-title="HOIQUANTV",[00:00 | 04.07] Sirius - Mjallby AIF [Allsvenskan] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/370.png" group-title="HOIQUANTV",[00:00 | 04.07] Sirius - Mjallby AIF [Allsvenskan] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/25485.png" group-title="HOIQUANTV",[06:30 | 04.07] Naples - Portland Hearts of Pine [USL League One] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/25485.png" group-title="HOIQUANTV",[06:30 | 04.07] Naples - Portland Hearts of Pine [USL League One] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/25485.png" group-title="HOIQUANTV",[06:30 | 04.07] Naples - Portland Hearts of Pine [USL League One] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/23289.png" group-title="HOIQUANTV",[15:30 | 04.07] Shanghai Port II - BIT [League Two] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/23289.png" group-title="HOIQUANTV",[15:30 | 04.07] Shanghai Port II - BIT [League Two] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/23289.png" group-title="HOIQUANTV",[15:30 | 04.07] Shanghai Port II - BIT [League Two] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/lt/c/c9/FC_Anyang_logo.png?20190911143321" group-title="HOIQUANTV",[17:30 | 04.07] FC Anyang - Pohang Steelers [K League 1] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="HOIQUANTV",[18:00 | 04.07] Qingdao Youth Island - SHANGHAI SIPG [Super League] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="HOIQUANTV",[18:00 | 04.07] Qingdao Youth Island - SHANGHAI SIPG [Super League] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="HOIQUANTV",[18:00 | 04.07] Qingdao Youth Island - SHANGHAI SIPG [Super League] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/650.png" group-title="HOIQUANTV",[22:00 | 04.07] VPS - Mariehamn [Veikkausliiga] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/650.png" group-title="HOIQUANTV",[22:00 | 04.07] VPS - Mariehamn [Veikkausliiga] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/650.png" group-title="HOIQUANTV",[22:00 | 04.07] VPS - Mariehamn [Veikkausliiga] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV THẦN THÔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV THẦN THÔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV THẦN THÔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png" group-title="HOIQUANTV",[01:00 | 04.07] Australia - Egypt [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV THẦN THÔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV THẦN THÔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV THẦN THÔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/250px-Flag_of_Argentina.svg.png" group-title="HOIQUANTV",[05:00 | 04.07] Argentina - Cape Verde Islands [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV THẦN THÔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV THẦN THÔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" group-title="HOIQUANTV",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: BLV THẦN THÔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taovannghe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://preview.redd.it/wta-1000-madrid-r3-caty-mcnally-def-katerina-siniakova-6-3-v0-edv9aefkxixg1.jpeg?auto=webp&s=b41cc2c7b715f1683ed76baeadceed9a232bd3c1" group-title="HOIQUANTV",[23:00 | 02.07] Caty McNally  - Elena Rybakina [WTA500 ] | BLV: BLV PHAN HẢI [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://preview.redd.it/wta-1000-madrid-r3-caty-mcnally-def-katerina-siniakova-6-3-v0-edv9aefkxixg1.jpeg?auto=webp&s=b41cc2c7b715f1683ed76baeadceed9a232bd3c1" group-title="HOIQUANTV",[23:00 | 02.07] Caty McNally  - Elena Rybakina [WTA500 ] | BLV: BLV PHAN HẢI [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://preview.redd.it/wta-1000-madrid-r3-caty-mcnally-def-katerina-siniakova-6-3-v0-edv9aefkxixg1.jpeg?auto=webp&s=b41cc2c7b715f1683ed76baeadceed9a232bd3c1" group-title="HOIQUANTV",[23:00 | 02.07] Caty McNally  - Elena Rybakina [WTA500 ] | BLV: BLV PHAN HẢI [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/837.png" group-title="HOIQUANTV",[19:00 | 04.07] Tianjin Teda - Sichuan Jiuniu [Super League] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/837.png" group-title="HOIQUANTV",[19:00 | 04.07] Tianjin Teda - Sichuan Jiuniu [Super League] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/837.png" group-title="HOIQUANTV",[19:00 | 04.07] Tianjin Teda - Sichuan Jiuniu [Super League] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+

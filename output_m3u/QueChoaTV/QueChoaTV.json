@@ -1,0 +1,248 @@
+{
+  "site": "QueChoaTV",
+  "source": "https://quechoa11.live",
+  "updated": "2026-07-02 13:50 UTC",
+  "total": 12,
+  "channels": [
+    {
+      "name": "[02:00 | 03.07] Spain - Austria [World Cup] | BLV: PUMA [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/775.png",
+      "blv": "PUMA",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778094041033-1774933153690-blv-puma-ava.png",
+      "time": "02:00 | 03.07",
+      "team_a": "Spain",
+      "team_b": "Austria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[02:00 | 03.07] Spain - Austria [World Cup] | BLV: DƯA HẤU [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/775.png",
+      "blv": "DƯA HẤU",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1775026591736-blv-d-a-h-u-ava.png",
+      "time": "02:00 | 03.07",
+      "team_a": "Spain",
+      "team_b": "Austria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VỎ QUÝT [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/775.png",
+      "blv": "VỎ QUÝT",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png",
+      "time": "02:00 | 03.07",
+      "team_a": "Spain",
+      "team_b": "Austria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VĂN MINH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/775.png",
+      "blv": "VĂN MINH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png",
+      "time": "02:00 | 03.07",
+      "team_a": "Spain",
+      "team_b": "Austria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: PUMA [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/3.png",
+      "blv": "PUMA",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778094041033-1774933153690-blv-puma-ava.png",
+      "time": "06:00 | 03.07",
+      "team_a": "Portugal",
+      "team_b": "Croatia",
+      "quality": "FHD"
+    },
+    {
+      "name": "[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: DƯA HẤU [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/3.png",
+      "blv": "DƯA HẤU",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1775026591736-blv-d-a-h-u-ava.png",
+      "time": "06:00 | 03.07",
+      "team_a": "Portugal",
+      "team_b": "Croatia",
+      "quality": "FHD"
+    },
+    {
+      "name": "[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: CHÈ XANH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/3.png",
+      "blv": "CHÈ XANH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1776768729526-blv-chexanh-ava.png",
+      "time": "06:00 | 03.07",
+      "team_a": "Portugal",
+      "team_b": "Croatia",
+      "quality": "FHD"
+    },
+    {
+      "name": "[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: NEM CHUA [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026",
+      "logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_a_logo": "https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/3.png",
+      "blv": "NEM CHUA",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1774933138474-blv-nem-chua-ava.png",
+      "time": "06:00 | 03.07",
+      "team_a": "Portugal",
+      "team_b": "Croatia",
+      "quality": "FHD"
+    },
+    {
+      "name": "[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VỎ QUÝT [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1532.png",
+      "blv": "VỎ QUÝT",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png",
+      "time": "10:00 | 03.07",
+      "team_a": "Switzerland",
+      "team_b": "Algeria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: CHÈ XANH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1532.png",
+      "blv": "CHÈ XANH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1776768729526-blv-chexanh-ava.png",
+      "time": "10:00 | 03.07",
+      "team_a": "Switzerland",
+      "team_b": "Algeria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: NEM CHUA [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1532.png",
+      "blv": "NEM CHUA",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1774933138474-blv-nem-chua-ava.png",
+      "time": "10:00 | 03.07",
+      "team_a": "Switzerland",
+      "team_b": "Algeria",
+      "quality": "FHD"
+    },
+    {
+      "name": "[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VĂN MINH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/15.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1532.png",
+      "blv": "VĂN MINH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png",
+      "time": "10:00 | 03.07",
+      "team_a": "Switzerland",
+      "team_b": "Algeria",
+      "quality": "FHD"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+#EXTM3U
+# Source  : https://quechoa11.live
+# Updated : 2026-07-02 13:50 UTC
+# Total   : 12 kenh
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="World Cup",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: PUMA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="World Cup",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="World Cup",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858861444-spain-national-football-team-crest.svg.png" group-title="World Cup",[02:00 | 03.07] Spain - Austria [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/spain-vs-austria-smx-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="World Cup",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: PUMA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="World Cup",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="World Cup",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: CHÈ XANH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage.quechoa2.live/logos/teams/1770858850389-portugal-national-team-logo.png" group-title="World Cup",[06:00 | 03.07] Portugal - Croatia [World Cup] | BLV: NEM CHUA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/portugal-vs-croatia-uob-02-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="World Cup",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="World Cup",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: CHÈ XANH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="World Cup",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: NEM CHUA [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/15.png" group-title="World Cup",[10:00 | 03.07] Switzerland - Algeria [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/switzerland-vs-algeria-fvo-03-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
