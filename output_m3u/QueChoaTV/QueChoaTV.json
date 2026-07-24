@@ -1,0 +1,128 @@
+{
+  "site": "QueChoaTV",
+  "source": "https://quechoa11.live",
+  "updated": "2026-07-04 02:32 UTC",
+  "total": 6,
+  "channels": [
+    {
+      "name": "[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: DƯA HẤU [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1504.png",
+      "blv": "DƯA HẤU",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1775026591736-blv-d-a-h-u-ava.png",
+      "time": "08:30 | 04.07",
+      "team_a": "Colombia",
+      "team_b": "Ghana",
+      "quality": "FHD"
+    },
+    {
+      "name": "[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: VỎ QUÝT [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1504.png",
+      "blv": "VỎ QUÝT",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png",
+      "time": "08:30 | 04.07",
+      "team_a": "Colombia",
+      "team_b": "Ghana",
+      "quality": "FHD"
+    },
+    {
+      "name": "[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: VĂN MINH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/8.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/1504.png",
+      "blv": "VĂN MINH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png",
+      "time": "08:30 | 04.07",
+      "team_a": "Colombia",
+      "team_b": "Ghana",
+      "quality": "FHD"
+    },
+    {
+      "name": "[00:00 | 05.07] Canada - Morocco [World Cup] | BLV: VĂN MINH [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/canada-vs-morocco-vzd-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/5529.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/5529.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/31.png",
+      "blv": "VĂN MINH",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1766415968712-blv-vanminh-ava.png",
+      "time": "00:00 | 05.07",
+      "team_a": "Canada",
+      "team_b": "Morocco",
+      "quality": "FHD"
+    },
+    {
+      "name": "[04:00 | 05.07] Paraguay - France [World Cup] | BLV: DƯA HẤU [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/paraguay-vs-france-yig-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/2380.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/2380.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/2.png",
+      "blv": "DƯA HẤU",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1775026591736-blv-d-a-h-u-ava.png",
+      "time": "04:00 | 05.07",
+      "team_a": "Paraguay",
+      "team_b": "France",
+      "quality": "FHD"
+    },
+    {
+      "name": "[04:00 | 05.07] Paraguay - France [World Cup] | BLV: VỎ QUÝT [FHD]",
+      "league": "World Cup",
+      "stream_url": "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+      "streams": [
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8",
+        "https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8"
+      ],
+      "page_url": "https://quechoa11.live/truc-tiep/paraguay-vs-france-yig-04-07-2026",
+      "logo": "https://media.api-sports.io/football/teams/2380.png",
+      "team_a_logo": "https://media.api-sports.io/football/teams/2380.png",
+      "team_b_logo": "https://media.api-sports.io/football/teams/2.png",
+      "blv": "VỎ QUÝT",
+      "blv_avatar": "https://storage.quechoa2.live/avatars/accounts/1778851109640-blv-v-qu-t-ava.png",
+      "time": "04:00 | 05.07",
+      "team_a": "Paraguay",
+      "team_b": "France",
+      "quality": "FHD"
+    }
+  ]
+}

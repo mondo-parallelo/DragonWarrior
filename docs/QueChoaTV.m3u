@@ -1,0 +1,35 @@
+#EXTM3U
+# Source  : https://quechoa11.live
+# Updated : 2026-07-04 02:32 UTC
+# Total   : 6 kenh
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8.png" group-title="World Cup",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8.png" group-title="World Cup",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/8.png" group-title="World Cup",[08:30 | 04.07] Colombia - Ghana [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/colombia-vs-ghana-glp-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5529.png" group-title="World Cup",[00:00 | 05.07] Canada - Morocco [World Cup] | BLV: VĂN MINH [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/canada-vs-morocco-vzd-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2380.png" group-title="World Cup",[04:00 | 05.07] Paraguay - France [World Cup] | BLV: DƯA HẤU [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/paraguay-vs-france-yig-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/2380.png" group-title="World Cup",[04:00 | 05.07] Paraguay - France [World Cup] | BLV: VỎ QUÝT [FHD]
+#EXTVLCOPT:http-referrer=https://quechoa11.live/truc-tiep/paraguay-vs-france-yig-04-07-2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
+
