@@ -1,0 +1,275 @@
+#EXTM3U
+# Source  : https://sv2.hoiquan3.live/
+# Updated : 2026-07-16 15:05 ICT
+# Total   : 54 kenh
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18835.png" group-title="1. Liga",[17:00 | 19.07] Riga FC II - Super Nova 2 [1. Liga] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18835.png" group-title="1. Liga",[17:00 | 19.07] Riga FC II - Super Nova 2 [1. Liga] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18835.png" group-title="1. Liga",[17:00 | 19.07] Riga FC II - Super Nova 2 [1. Liga] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="UEFA Europa Conference League",[23:00 | 16.07] Ilves - FC Differdange 03 [UEFA Europa Conference League] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="UEFA Europa Conference League",[23:00 | 16.07] Ilves - FC Differdange 03 [UEFA Europa Conference League] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1163.png" group-title="UEFA Europa Conference League",[23:00 | 16.07] Ilves - FC Differdange 03 [UEFA Europa Conference League] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/670.png" group-title="UEFA Europa League",[00:30 | 17.07] Derry City - CSKA Sofia [UEFA Europa League] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/670.png" group-title="UEFA Europa League",[00:30 | 17.07] Derry City - CSKA Sofia [UEFA Europa League] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/670.png" group-title="UEFA Europa League",[00:30 | 17.07] Derry City - CSKA Sofia [UEFA Europa League] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5308.png" group-title="UEFA Europa Conference League",[02:00 | 17.07] Virtus - Dila [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5308.png" group-title="UEFA Europa Conference League",[02:00 | 17.07] Virtus - Dila [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5308.png" group-title="UEFA Europa Conference League",[02:00 | 17.07] Virtus - Dila [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4165.png" group-title="UEFA Europa League",[03:00 | 17.07] Vestri - Qarabag  [UEFA Europa League] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4165.png" group-title="UEFA Europa League",[03:00 | 17.07] Vestri - Qarabag  [UEFA Europa League] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4165.png" group-title="UEFA Europa League",[03:00 | 17.07] Vestri - Qarabag  [UEFA Europa League] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg" group-title="Liga MX",[08:00 | 17.07] Necaxa - Atlante FC [Liga MX] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg" group-title="Liga MX",[08:00 | 17.07] Necaxa - Atlante FC [Liga MX] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Club_Necaxa_Logo.svg" group-title="Liga MX",[08:00 | 17.07] Necaxa - Atlante FC [Liga MX] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png" group-title="Liga MX",[10:10 | 17.07] Club Tijuana - Tigres UANL  [Liga MX] | BLV: BLV PHAN ANH [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png" group-title="Liga MX",[10:10 | 17.07] Club Tijuana - Tigres UANL  [Liga MX] | BLV: BLV PHAN ANH [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png" group-title="Liga MX",[10:10 | 17.07] Club Tijuana - Tigres UANL  [Liga MX] | BLV: BLV PHAN ANH [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phananh/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27811.png" group-title="Npl Nsw U20",[14:30 | 17.07] Sydney FC U20 - Manly Utd U20 [Npl Nsw U20] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27811.png" group-title="Npl Nsw U20",[14:30 | 17.07] Sydney FC U20 - Manly Utd U20 [Npl Nsw U20] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/27811.png" group-title="Npl Nsw U20",[14:30 | 17.07] Sydney FC U20 - Manly Utd U20 [Npl Nsw U20] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="Super League",[18:00 | 17.07] Qingdao Youth Island - Chengdu Better City [Super League] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="Super League",[18:00 | 17.07] Qingdao Youth Island - Chengdu Better City [Super League] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/17265.png" group-title="Super League",[18:00 | 17.07] Qingdao Youth Island - Chengdu Better City [Super League] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="Super League",[19:00 | 17.07] Yunnan Yukun  - SHANGHAI SIPG [Super League] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="Super League",[19:00 | 17.07] Yunnan Yukun  - SHANGHAI SIPG [Super League] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90L_Xr1yfJQmgPZctKVUWm-ISXa5A-cIdw&s" group-title="Super League",[19:00 | 17.07] Yunnan Yukun  - SHANGHAI SIPG [Super League] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4548.png" group-title="1. Division",[21:00 | 17.07] Astana II - Jaiyq [1. Division] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4548.png" group-title="1. Division",[21:00 | 17.07] Astana II - Jaiyq [1. Division] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/4548.png" group-title="1. Division",[21:00 | 17.07] Astana II - Jaiyq [1. Division] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png" group-title="First League",[23:00 | 17.07] Spartak Varna - CSKA 1948 [First League] | BLV: BLV PHAN QUẨY [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png" group-title="First League",[23:00 | 17.07] Spartak Varna - CSKA 1948 [First League] | BLV: BLV PHAN QUẨY [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Spartak_Varna.png" group-title="First League",[23:00 | 17.07] Spartak Varna - CSKA 1948 [First League] | BLV: BLV PHAN QUẨY [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanquay/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="Nation League Women",[17:20 | 16.07] Nhật Bản - Canada [Nation League Women] | BLV: BLV PHAN HẢI [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="Nation League Women",[17:20 | 16.07] Nhật Bản - Canada [Nation League Women] | BLV: BLV PHAN HẢI [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/960px-Flag_of_Japan.svg.png" group-title="Nation League Women",[17:20 | 16.07] Nhật Bản - Canada [Nation League Women] | BLV: BLV PHAN HẢI [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanhai/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" group-title="Nation League Women",[21:30 | 16.07] Iran  - Đức [Nation League Women] | BLV: BLV PHAN BỐNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" group-title="Nation League Women",[21:30 | 16.07] Iran  - Đức [Nation League Women] | BLV: BLV PHAN BỐNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" group-title="Nation League Women",[21:30 | 16.07] Iran  - Đức [Nation League Women] | BLV: BLV PHAN BỐNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanbong/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png" group-title="Asean Championship Women",[15:45 | 16.07] Indonesia W -  Cambodia W [Asean Championship Women] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png" group-title="Asean Championship Women",[15:45 | 16.07] Indonesia W -  Cambodia W [Asean Championship Women] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/500px-Flag_of_Indonesia.svg.png" group-title="Asean Championship Women",[15:45 | 16.07] Indonesia W -  Cambodia W [Asean Championship Women] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5591.png" group-title="Ngoại hạng Bhutan",[19:00 | 16.07] Thimphu - Paro [Ngoại hạng Bhutan] | BLV: BLV TÁO GIÀ [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5591.png" group-title="Ngoại hạng Bhutan",[19:00 | 16.07] Thimphu - Paro [Ngoại hạng Bhutan] | BLV: BLV TÁO GIÀ [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/5591.png" group-title="Ngoại hạng Bhutan",[19:00 | 16.07] Thimphu - Paro [Ngoại hạng Bhutan] | BLV: BLV TÁO GIÀ [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/tdtv_blv_taotinhtao/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18805.png" group-title="First League",[21:00 | 16.07] Khan Tengri - Yelimay Semey 2 [First League] | BLV: BLV PHAN CA [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18805.png" group-title="First League",[21:00 | 16.07] Khan Tengri - Yelimay Semey 2 [First League] | BLV: BLV PHAN CA [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/18805.png" group-title="First League",[21:00 | 16.07] Khan Tengri - Yelimay Semey 2 [First League] | BLV: BLV PHAN CA [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.zlylive.com/hqtv_blv_phanca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1164.png" group-title="UEFA Europa Conference League",[22:00 | 16.07] Inter Turku - FK Sarajevo [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [FHD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1164.png" group-title="UEFA Europa Conference League",[22:00 | 16.07] Inter Turku - FK Sarajevo [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [HD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.api-sports.io/football/teams/1164.png" group-title="UEFA Europa Conference League",[22:00 | 16.07] Inter Turku - FK Sarajevo [UEFA Europa Conference League] | BLV: BLV LƯƠNG BỔNG [SD]
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://alive.yarncdn.live/hqtv_blv_phanliem/tracks-v1a1/mono.m3u8
+

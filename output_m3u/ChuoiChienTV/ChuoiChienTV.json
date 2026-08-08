@@ -1,0 +1,125 @@
+{
+  "site": "ChuoiChienTV",
+  "source": "https://live25.chuoichientv.com",
+  "updated": "2026-08-08 18:31 UTC",
+  "total": 9,
+  "channels": [
+    {
+      "name": "[00h00] Guimaraes vs Arouca",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_125616_1c0d1552.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoida.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoidahd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[01h00] Udinese vs Nottingham Forest",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[02h00] Barcelona vs Nottingham Forest",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[02h30] Estrela vs Sporting CP",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_125620_800242ab.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinho.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoinhohd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[03h00] Tigre vs River Plate",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_132722_a0210070.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/angao.flv",
+        "https://gckc0525.edgemaxcdn.org/live/angaohd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/angaohd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[03h00] Udinese vs Barcelona",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctru.flv",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/troctruhd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[07h00] Inter Miami vs Monterrey",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoichao.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoichaohd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[08h00] Guadalajara Chivas vs FC Dallas",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/20260724_223350_d469c078.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    },
+    {
+      "name": "[10h10] Toluca vs Los Angeles FC",
+      "group": "Chuoi Chien TV",
+      "logo": "https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png",
+      "stream_url": "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+      "streams": [
+        "https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoito.flv",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitohd/playlist.m3u8",
+        "https://gckc0525.edgemaxcdn.org/live/chuoitohd.flv"
+      ],
+      "page_url": "https://live25.chuoichientv.com/"
+    }
+  ]
+}
