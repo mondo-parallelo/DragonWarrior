@@ -10,8 +10,8 @@ GITHUB_BRANCH = "main"
 GITHUB_RAW     = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}"
 BASE_THUMB_URL = f"{GITHUB_RAW}/thumbs/"
 
-# Thư mục output
-OUTPUT_ROOT = "output_m3u"
+# Thư mục output — generate M3U trực tiếp vào `docs/` để tránh duplication
+OUTPUT_ROOT = "docs"
 DOCS_DIR    = "docs"
 THUMBS_DIR  = "thumbs"
 

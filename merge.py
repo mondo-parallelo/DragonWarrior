@@ -25,13 +25,13 @@ OUT_ALL = os.path.join(DOCS_DIR, "all.m3u")
 SITE_GROUP = {
     # Keep only explicit site groups we want; legacy sites map into OTHERS
     "ChuoiChienTV": "CHUOICHIENTV",
-    "QueChoaTV":    "OTHERS",
-    "HoiQuan3":     "OTHERS",
+    "ColaTV":    "COLATV",
+    "PhaoHoaTV":     "PHAOHOATV",
 }
 
 # Thứ tự group trong file all.m3u — giữ các group cần thiết;
 # đặt các site không khớp vào OTHERS
-GROUP_ORDER = ["CHUOICHIENTV", "OTHERS"]
+GROUP_ORDER = ["CHUOICHIENTV", "COLATV", "PHAOHOATV", "OTHERS"]
 
 
 # ══════════════════════════════════════════════════════════════
@@ -91,16 +91,10 @@ def main():
     print(f"  {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}", flush=True)
     print("=" * 60, flush=True)
 
-    # Gather M3U files from OUTPUT_ROOT/<site>/*.m3u
-    m3u_files = sorted(glob.glob(os.path.join(OUTPUT_ROOT, "*", "*.m3u")))
-    # Also include any user-provided M3U files placed in DOCS_DIR (exclude the generated all.m3u)
-    docs_m3us = [p for p in sorted(glob.glob(os.path.join(DOCS_DIR, "*.m3u"))) if os.path.abspath(p) != os.path.abspath(OUT_ALL)]
-    for p in docs_m3us:
-        if p not in m3u_files:
-            m3u_files.append(p)
-
+    # Gather M3U files directly from DOCS_DIR (exclude the generated all.m3u)
+    m3u_files = [p for p in sorted(glob.glob(os.path.join(DOCS_DIR, "*.m3u"))) if os.path.abspath(p) != os.path.abspath(OUT_ALL)]
     if not m3u_files:
-        print(f"\n[!] Khong co file M3U nao trong {OUTPUT_ROOT}/ hoac {DOCS_DIR}/", flush=True)
+        print(f"\n[!] Khong co file M3U nao trong {DOCS_DIR}/", flush=True)
         return
 
     # Đọc và phân nhóm theo SITE_NAME
@@ -108,13 +102,9 @@ def main():
     stats   = {}
 
     for filepath in m3u_files:
-        # Tên thư mục site (vd: "QueChoaTV", "ChuoiChienTV"…) —
-        # nếu file đặt trong docs/ thì lấy tên file (không có .m3u)
-        parent = os.path.basename(os.path.dirname(filepath))
-        if os.path.abspath(os.path.dirname(filepath)) == os.path.abspath(DOCS_DIR):
-            folder_name = os.path.splitext(os.path.basename(filepath))[0]
-        else:
-            folder_name = filepath.replace("\\", "/").split("/")[-2]
+        # When merging files from `docs/`, use the filename (without .m3u)
+        folder_name = os.path.splitext(os.path.basename(filepath))[0]
+        site_group  = SITE_GROUP.get(folder_name, folder_name.upper())
         site_group  = SITE_GROUP.get(folder_name, folder_name.upper())
 
         chs = parse_m3u(filepath)
@@ -133,18 +123,6 @@ def main():
             grouped["OTHERS"].extend(chs)
 
         print(f"  {folder_name:<20}: {len(chs)} kenh  [{site_group}]", flush=True)
-
-        # Copy file riêng vào docs/ — GỐC (skip if source already in docs/)
-        dest = os.path.join(DOCS_DIR, f"{folder_name}.m3u")
-        try:
-            if os.path.abspath(filepath) != os.path.abspath(dest):
-                # Only copy when source is not already the destination
-                shutil.copy2(filepath, dest)
-                print(f"               -> {dest}", flush=True)
-            else:
-                print(f"               -> (skipped copy, already in docs)", flush=True)
-        except Exception as e:
-            print(f"  [!] Khong copy duoc {filepath} -> {dest}: {e}", flush=True)
 
     # Ghi all.m3u — theo thứ tự GROUP_ORDER
     total = sum(len(v) for v in grouped.values())
