@@ -27,6 +27,7 @@ SITE_GROUP = {
     "ChuoiChienTV": "CHUOICHIENTV",
     "ColaTV":    "COLATV",
     "PhaoHoaTV":     "PHAOHOATV",
+    "Others":     "OTHERS",
 }
 
 # Thứ tự group trong file all.m3u — giữ các group cần thiết;

@@ -45,22 +45,24 @@ jobs:
 
       - name: Show Results
         run: |
-          echo "=== output_m3u/ ==="
-          find output_m3u -name "*.m3u" 2>/dev/null | while read f; do
-            echo "  $f: $(grep -c '#EXTINF' $f 2>/dev/null || echo 0) kenh"
+          echo "=== docs/ (*.m3u) ==="
+          find docs -maxdepth 1 -name "*.m3u" 2>/dev/null | while read f; do
+            echo "  $f: $(grep -c '#EXTINF' "$f" 2>/dev/null || echo 0) kenh"
           done
           echo ""
-          echo "=== docs/ ==="
-          grep -c '#EXTINF' docs/all.m3u 2>/dev/null && echo " kenh tong" || echo "0 kenh"
+          TOTAL=$(grep -c '#EXTINF' docs/all.m3u 2>/dev/null || echo 0)
+          echo "Total in docs/all.m3u: $TOTAL kenh"
 
-      - name: Commit & Push (1 commit)
+      - name: Commit & Push (safe)
         run: |
-          git config user.name  "github-actions[bot]"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A output_m3u/ docs/ thumbs/
-          git checkout --orphan temp_branch
-          git add -A
-          git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git branch -D main
-          git branch -m main
-          git push --force origin main
+          # Add only docs/ and thumbs/ (output_m3u no longer used)
+          git add -A docs/ thumbs/ || true
+          # If there are no staged changes, exit cleanly
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push origin HEAD:main
+          fi
