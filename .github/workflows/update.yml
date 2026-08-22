@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       scraper:
-        description: 'Ten scraper (de trong = tat ca): chuoichien / hoiquan / quechoa/ hoadao'
+        description: 'Ten scraper (de trong = tat ca): chuoichien'
         required: false
         default: ''
 

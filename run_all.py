@@ -20,8 +20,8 @@ TZ_VN = timezone(timedelta(hours=7))
 # Danh sách scraper — (keyword, module, func)
 SCRAPERS = [
     ("chuoichien", "scrapers.chuoichientv", "main"),
-    ("hoiquan",    "scrapers.hoiquan3",     "main"),
-    ("quechoa",    "scrapers.quechoa8",     "main"),
+    # ("hoiquan",    "scrapers.hoiquan3",     "main"),
+    # ("quechoa",    "scrapers.quechoa8",     "main"),
 ]
 
 
