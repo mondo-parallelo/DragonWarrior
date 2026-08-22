@@ -1,0 +1,4 @@
+# Ignore HoaDaoTV generated outputs
+docs/HoaDaoTV.m3u
+output_m3u/HoaDaoTV/
+scrapers/hoadaotv.py
