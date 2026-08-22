@@ -1,30 +1,21 @@
 {
   "site": "ChuoiChienTV",
-  "source": "https://live25.chuoichientv.com",
-  "updated": "2026-08-22 06:32 UTC",
-  "total": 15,
+  "source": "https://live04.chuoichientv.me",
+  "updated": "2026-08-22 10:17 UTC",
+  "total": 14,
   "channels": [
     {
-      "name": "[14h00] Kazakhstan vs Indonesia",
+      "name": "[16h00] Kashima vs Avispa Fukuoka",
       "group": "Chuoi Chien TV",
-      "logo": "https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png",
-      "stream_url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8",
-      "streams": [
-        "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8",
-        "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8"
-      ],
-      "page_url": "https://live25.chuoichientv.com/"
-    },
-    {
-      "name": "[16h00] Negeri Sembilan vs Kuala Lumpur FA",
-      "group": "Chuoi Chien TV",
-      "logo": "https://media.chuoichientv.net/media/uploads/20250623_133853_faf7b8c1.png",
+      "logo": "https://media.chuoichientv.net/media/uploads/20250623_132411_ccc1be3a.png",
       "stream_url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
       "streams": [
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
+        "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8",
+        "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[18h30] Hull City vs Manchester United",
@@ -37,7 +28,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[18h30] China vs Iraq",
@@ -48,7 +39,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[20h00] Thailand vs Việt Nam",
@@ -59,7 +50,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[21h00] Everton vs Crystal Palace",
@@ -70,7 +61,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[21h00] Nottingham Forest vs Leeds",
@@ -81,7 +72,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[22h00] Athletic Club vs Sevilla",
@@ -92,7 +83,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[23h30] Brentford vs Tottenham",
@@ -103,7 +94,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[23h30] Inter vs Monza",
@@ -114,7 +105,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[01h30] Borussia Dortmund vs Bayern München",
@@ -125,7 +116,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[01h45] Genoa vs Napoli",
@@ -136,7 +127,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[02h30] Espanyol vs Real Madrid",
@@ -147,7 +138,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[04h30] Internacional vs Atletico-MG",
@@ -158,7 +149,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     },
     {
       "name": "[06h30] Inter Miami vs Toronto FC",
@@ -169,7 +160,7 @@
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8",
         "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8"
       ],
-      "page_url": "https://live25.chuoichientv.com/"
+      "page_url": "https://live04.chuoichientv.me/"
     }
   ]
 }

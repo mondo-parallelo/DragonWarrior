@@ -15,9 +15,10 @@ from config import (
 
 # ──────────────────────────────────────────────────────────────
 SITE_NAME = "ChuoiChienTV"
-SITE_URL  = "https://live25.chuoichientv.com"
-SITE_REF  = "https://live.chuoichientv.com"
-API_URL   = "https://api.chuoichientv.com/v1/matches?page=1&limit=100&sport=&type=blv"
+SITE_URL  = "https://live04.chuoichientv.me"
+SITE_REF  = "https://live.chuoichien.tv/"
+# Use the v2 API host (larger limit) and keep flexibility for response shape
+API_URL   = "https://api-v2.chuoichientv.net/v2/matches?page=1&limit=100&type=blv"
 
 OUTPUT_DIR = os.path.join(OUTPUT_ROOT, SITE_NAME)
 OUT_M3U    = os.path.join(OUTPUT_DIR, f"{SITE_NAME}.m3u")
@@ -61,14 +62,41 @@ def fetch_matches():
         r = cr.get(API_URL, headers=HEADERS, impersonate="chrome110", timeout=20)
     except ImportError:
         import requests
-        r = requests.get(API_URL, headers=HEADERS, timeout=20)
+        try:
+            r = requests.get(API_URL, headers=HEADERS, timeout=20)
+        except Exception as e:
+            print(f"        Request error: {e}", flush=True)
+            return []
+    except Exception as e:
+        print(f"        Request error: {e}", flush=True)
+        return []
 
     print(f"        HTTP {r.status_code}", flush=True)
     if r.status_code == 401:
         print("  [401] Token het han! Cap nhat CHUOICHIEN_TOKEN trong config.py", flush=True)
         return []
-    if r.status_code == 200:
-        return r.json().get("matches", [])
+    if r.status_code != 200:
+        return []
+
+    # Flexible parsing: API may return a list or an object containing matches/data/items
+    try:
+        data = r.json()
+    except Exception:
+        print("        Failed to parse JSON response", flush=True)
+        return []
+
+    if isinstance(data, list):
+        return data
+
+    if isinstance(data, dict):
+        for key in ("matches", "data", "items", "results", "list"):
+            if key in data and isinstance(data[key], (list, tuple)):
+                return data[key]
+
+        # Some v2 endpoints return an object for a single match — detect and wrap
+        if any(k in data for k in ("id", "matchTime", "blvs", "teams")):
+            return [data]
+
     return []
 
 
