@@ -6,7 +6,7 @@ Chạy độc lập: python scrapers/chuoichientv.py
 import sys
 sys.path.insert(0, __import__('os').path.join(__import__('os').path.dirname(__file__), '..'))
 
-import os, json, re, time
+import os, re, time
 from datetime import datetime, timezone, timedelta
 from config import (
     CHUOICHIEN_TOKEN, BASE_THUMB_URL, BG_IMAGE_URL,
@@ -20,9 +20,9 @@ SITE_REF  = "https://live.chuoichien.tv/"
 # Use the v2 API host (larger limit) and keep flexibility for response shape
 API_URL   = "https://api-v2.chuoichientv.net/v2/matches?page=1&limit=100&type=blv"
 
-OUTPUT_DIR = os.path.join(OUTPUT_ROOT, SITE_NAME)
+# Write M3U/JSON directly into OUTPUT_ROOT (now set to docs/)
+OUTPUT_DIR = OUTPUT_ROOT
 OUT_M3U    = os.path.join(OUTPUT_DIR, f"{SITE_NAME}.m3u")
-OUT_JSON   = os.path.join(OUTPUT_DIR, f"{SITE_NAME}.json")
 TZ_VN      = timezone(timedelta(hours=7))
 
 for d in [OUTPUT_DIR, THUMBS_DIR, DOCS_DIR]:
@@ -155,14 +155,6 @@ def write_m3u(channels):
     print(f"  [OK] {OUT_M3U}  ({len(channels)} kenh)", flush=True)
 
 
-def write_json(channels):
-    with open(OUT_JSON, "w", encoding="utf-8") as f:
-        json.dump({
-            "site": SITE_NAME, "source": SITE_URL,
-            "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
-            "total": len(channels), "channels": channels
-        }, f, ensure_ascii=False, indent=2)
-    print(f"  [OK] {OUT_JSON}", flush=True)
 
 
 # ══════════════════════════════════════════════════════════════
@@ -188,7 +180,6 @@ def main():
     print(f"\n  Ket qua: {len(channels)} kenh", flush=True)
     if channels:
         write_m3u(channels)
-        write_json(channels)
 
     return channels
 
