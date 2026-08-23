@@ -1,60 +1,35 @@
 #EXTM3U
 # Source  : https://live04.chuoichientv.me
-# Updated : 2026-08-22 14:07 UTC
-# Total   : 11 kenh
+# Updated : 2026-08-23 12:30 UTC
+# Total   : 6 kenh
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="Chuoi Chien TV",[20h00] Thailand vs Việt Nam
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png" group-title="Chuoi Chien TV",[21h00] Ipswich vs Sunderland
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_d9b536ef.png" group-title="Chuoi Chien TV",[20h00] Brighton vs Aston Villa
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_9c96cd68.png" group-title="Chuoi Chien TV",[21h00] Nottingham Forest vs Leeds
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_e607f942.png" group-title="Chuoi Chien TV",[22h00] Athletic Club vs Sevilla
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" group-title="Chuoi Chien TV",[23h30] Brentford vs Tottenham
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" group-title="Chuoi Chien TV",[20h00] Manchester City vs Bournemouth
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125605_14c915ad.png" group-title="Chuoi Chien TV",[23h30] Inter vs Monza
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="Chuoi Chien TV",[01h30] Borussia Dortmund vs Bayern München
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png" group-title="Chuoi Chien TV",[22h00] Atletico Madrid vs Villarreal
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_0fe8ee77.png" group-title="Chuoi Chien TV",[01h45] Genoa vs Napoli
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="Chuoi Chien TV",[22h30] Newcastle vs Liverpool
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125624_d0355588.png" group-title="Chuoi Chien TV",[02h30] Espanyol vs Real Madrid
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133427_2c58ddc2.png" group-title="Chuoi Chien TV",[23h30] Frosinone vs Juventus
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125535_ec3a86e6.png" group-title="Chuoi Chien TV",[04h30] Internacional vs Atletico-MG
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="Chuoi Chien TV",[00h30] Getafe vs Racing Santander
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="Chuoi Chien TV",[06h30] Inter Miami vs Toronto FC
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 
