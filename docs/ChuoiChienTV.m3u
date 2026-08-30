@@ -1,27 +1,7 @@
 #EXTM3U
 # Source  : https://live04.chuoichientv.me
-# Updated : 2026-08-30 03:19 UTC
-# Total   : 23 kenh
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="Chuoi Chien TV",[08h30] Colorado Rapids vs Real Salt Lake
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260830_010812_be110117.png" group-title="Chuoi Chien TV",[12h00] Alamein FC vs FC Bulleen Lions (w)
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_b96e660a.png" group-title="Chuoi Chien TV",[14h15] Iran vs Japan
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141414_253eb944.png" group-title="Chuoi Chien TV",[15h30] SC Wanderers vs Ipswich
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+# Updated : 2026-08-30 11:08 UTC
+# Total   : 19 kenh
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="Chuoi Chien TV",[17h30] Gangwon FC vs Pohang Steelers
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
