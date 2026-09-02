@@ -1,53 +1,23 @@
 #EXTM3U
-# Updated : 2026-09-02 10:30 UTC
-# Total   : 79 kenh
-# CHUOICHIENTV        : 18 kenh
+# Updated : 2026-09-02 15:53 UTC
+# Total   : 73 kenh
+# CHUOICHIENTV        : 12 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (18 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132427_3482cb2f.png" group-title="CHUOICHIENTV",[16h30] Sagamihara vs Jubilo Iwata
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132420_2da62274.png" group-title="CHUOICHIENTV",[17h00] Avispa Fukuoka vs Urawa
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132416_e9d110f2.png" group-title="CHUOICHIENTV",[17h00] Machida Zelvia vs Kawasaki Frontale
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_c2f06d41.png" group-title="CHUOICHIENTV",[18h30] Sabah FA vs Selangor
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png" group-title="CHUOICHIENTV",[19h00] Yunnan Yukun vs Chongqing Tongliang Long
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" group-title="CHUOICHIENTV",[20h00] Sassuolo vs Frosinone
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png" group-title="CHUOICHIENTV",[20h15] FC Orenburg vs Rubin
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+# ══ CHUOICHIENTV (12 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133525_ee4eabe4.png" group-title="CHUOICHIENTV",[22h30] Zenit vs Makhachkala
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png" group-title="CHUOICHIENTV",[23h00] Udinese vs Venezia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133756_fc66ccc8.png" group-title="CHUOICHIENTV",[00h00] Real Sociedad W vs Chelsea W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -92,7 +62,7 @@ https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" group-title="CHUOICHIENTV",[08h00] Toluca vs Leon
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="CHUOICHIENTV",[10h30] Club America vs Monterrey
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
