@@ -1,28 +1,13 @@
 #EXTM3U
-# Updated : 2026-09-03 15:41 UTC
-# Total   : 70 kenh
-# CHUOICHIENTV        : 9 kenh
+# Updated : 2026-09-03 20:25 UTC
+# Total   : 67 kenh
+# CHUOICHIENTV        : 6 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (9 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_ede3b9aa.png" group-title="CHUOICHIENTV",[21h00] Al Ahli Doha vs Qatar SC
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133430_0844ae85.png" group-title="CHUOICHIENTV",[23h00] Palermo vs Mantova
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260728_172221_fe525e1b.png" group-title="CHUOICHIENTV",[00h00] Mjallby vs Djurgardens IF
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+# ══ CHUOICHIENTV (6 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125516_47f735ea.png" group-title="CHUOICHIENTV",[01h45] Toulouse vs Lille
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
