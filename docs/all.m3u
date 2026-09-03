@@ -1,23 +1,83 @@
 #EXTM3U
-# Updated : 2026-09-03 02:43 UTC
-# Total   : 63 kenh
-# CHUOICHIENTV        : 2 kenh
+# Updated : 2026-09-03 10:36 UTC
+# Total   : 75 kenh
+# CHUOICHIENTV        : 14 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (2 kenh) ══
+# ══ CHUOICHIENTV (14 kenh) ══
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250921_010707_d23dff4c.png" group-title="CHUOICHIENTV",[08h00] Toluca vs Leon
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145201_72f0bbb2.png" group-title="CHUOICHIENTV",[18h00] Bangladesh U20 vs Syria U20
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_8f17ab4f.png" group-title="CHUOICHIENTV",[19h00] Campuchia U20 vs Japan U20
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145158_dcd03cf8.png" group-title="CHUOICHIENTV",[19h00] Palestine U20 vs Vietnam U20
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="CHUOICHIENTV",[10h30] Club America vs Monterrey
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145214_5a4d5d3a.png" group-title="CHUOICHIENTV",[19h30] Turkmenistan U20 vs Thailand U20
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_ede3b9aa.png" group-title="CHUOICHIENTV",[21h00] Al Ahli Doha vs Qatar SC
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png" group-title="CHUOICHIENTV",[22h55] Al-Fayha vs Al Kholood
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251225_174245_7b5ab6f6.png" group-title="CHUOICHIENTV",[23h30] Al Neom vs Al Khaleej Saihat
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20260728_172221_fe525e1b.png" group-title="CHUOICHIENTV",[00h00] Mjallby vs Djurgardens IF
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125516_47f735ea.png" group-title="CHUOICHIENTV",[01h45] Toulouse vs Lille
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="CHUOICHIENTV",[02h00] Real Sociedad vs Celta Vigo
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_1f684e4e.png" group-title="CHUOICHIENTV",[02h00] Cagliari vs Verona
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132258_57a3d7d1.png" group-title="CHUOICHIENTV",[04h30] Leones del Norte vs Orense SC
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_d4d52169.png" group-title="CHUOICHIENTV",[06h00] Gremio vs Internacional
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png" group-title="CHUOICHIENTV",[08h00] Deportivo Pereira vs Independiente Medellin
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
 
 # ══ COLATV (26 kenh) ══
