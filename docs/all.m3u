@@ -1,23 +1,13 @@
 #EXTM3U
-# Updated : 2026-09-04 15:40 UTC
-# Total   : 71 kenh
-# CHUOICHIENTV        : 10 kenh
+# Updated : 2026-09-04 20:12 UTC
+# Total   : 69 kenh
+# CHUOICHIENTV        : 8 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (10 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_20be1fc6.png" group-title="CHUOICHIENTV",[21h00] Navbahor vs Lokomotiv
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130306_9aaa73c1.png" group-title="CHUOICHIENTV",[23h30] Arminia Bielefeld vs FC St. Pauli
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+# ══ CHUOICHIENTV (8 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png" group-title="CHUOICHIENTV",[01h30] VfB Stuttgart vs 1.FC Köln
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -39,7 +29,7 @@ https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134816_e343e621.png" group-title="CHUOICHIENTV",[04h15] ABB vs Universitario de Vinto
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132719_cb10e107.png" group-title="CHUOICHIENTV",[05h00] Belgrano Cordoba vs Huracan
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
