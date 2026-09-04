@@ -1,33 +1,13 @@
 #EXTM3U
-# Updated : 2026-09-04 10:28 UTC
-# Total   : 75 kenh
-# CHUOICHIENTV        : 14 kenh
+# Updated : 2026-09-04 15:40 UTC
+# Total   : 71 kenh
+# CHUOICHIENTV        : 10 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (14 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOICHIENTV",[17h30] Japan vs Oman
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134000_383af510.png" group-title="CHUOICHIENTV",[17h30] Cheongju vs Seoul E-Land FC
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" group-title="CHUOICHIENTV",[18h00] Trường Tươi Đồng Nai vs Viettel
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_73ab7535.png" group-title="CHUOICHIENTV",[19h00] Bali United vs PSS Sleman
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+# ══ CHUOICHIENTV (10 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_20be1fc6.png" group-title="CHUOICHIENTV",[21h00] Navbahor vs Lokomotiv
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
