@@ -1,27 +1,7 @@
 #EXTM3U
 # Source  : https://live04.chuoichientv.me
-# Updated : 2026-10-04 04:03 UTC
-# Total   : 20 kenh
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" group-title="Chuoi Chien TV",[09h00] USA vs Mexico
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="Chuoi Chien TV",[11h00] Consadole Sapporo vs Iwaki
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="Chuoi Chien TV",[13h00] Vegalta Sendai vs Jubilo Iwata
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="Chuoi Chien TV",[15h00] Deren vs Khovd
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+# Updated : 2026-10-04 11:43 UTC
+# Total   : 35 kenh
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" group-title="Chuoi Chien TV",[17h00] Tegevajaro Miyazaki vs Omiya Ardija
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -38,10 +18,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132804_f3da6d9a.png" group-title="Chuoi Chien TV",[20h00] Comoros vs Senegal
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133730_8086a067.png" group-title="Chuoi Chien TV",[20h00] West Ham W vs Chelsea W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133421_7b891bfa.png" group-title="Chuoi Chien TV",[21h15] Sporting Gijon vs Celta de Vigo II
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -61,7 +41,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b8e0fc4e.png" group-title="Chuoi Chien TV",[23h30] Las Palmas vs Valladolid
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="Chuoi Chien TV",[01h45] Greece vs Germany
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -99,6 +79,101 @@ https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134318_ac29542c.png" group-title="Chuoi Chien TV",[09h00] Nicaragua vs Dominican Republic
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" group-title="Chuoi Chien TV",[12h00] Ulaanbaatar vs Ulaangom City
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132810_d11dcb2d.png" group-title="Chuoi Chien TV",[13h30] Ecuador vs Panama
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_72f0bbb2.png" group-title="Chuoi Chien TV",[15h00] Hunters vs Amtat FC
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="Chuoi Chien TV",[16h00] Malaysia vs Việt Nam
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="Chuoi Chien TV",[17h30] Japan vs New Zealand
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="Chuoi Chien TV",[20h00] Indonesia vs Thailand
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132920_6173468d.png" group-title="Chuoi Chien TV",[20h30] Havadar vs Pars Jonoubi JAM
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145129_f2ce05fe.png" group-title="Chuoi Chien TV",[21h30] Montenegro U21 vs Armenia U21
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="Chuoi Chien TV",[23h00] Cyprus vs Latvia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134528_13158a72.png" group-title="Chuoi Chien TV",[23h15] Italy U21 vs Poland U21
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="Chuoi Chien TV",[01h45] France vs Belgium
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="Chuoi Chien TV",[01h45] Italy vs Türkiye
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png" group-title="Chuoi Chien TV",[01h45] Ukraine vs Hungary
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="Chuoi Chien TV",[01h45] Northern Ireland vs Georgia
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f7c99abe.png" group-title="Chuoi Chien TV",[01h45] Bosnia & Herzegovina vs Poland
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png" group-title="Chuoi Chien TV",[01h45] Romania vs Sweden
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_e60db733.png" group-title="Chuoi Chien TV",[05h00] Martinique vs El Salvador
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="Chuoi Chien TV",[07h00] Guatemala vs Suriname
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_23235379.png" group-title="Chuoi Chien TV",[09h00] Honduras vs Jamaica
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
