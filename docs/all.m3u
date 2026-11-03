@@ -1,58 +1,13 @@
 #EXTM3U
-# Updated : 2026-11-02 14:38 UTC
-# Total   : 72 kenh
-# CHUOICHIENTV        : 11 kenh
+# Updated : 2026-11-03 00:25 UTC
+# Total   : 64 kenh
+# CHUOICHIENTV        : 3 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (11 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png" group-title="CHUOICHIENTV",[20h45] Pakhtakor vs Al-Nassr
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_3dc5d829.png" group-title="CHUOICHIENTV",[22h00] Krylia Sovetov vs Zenit
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133917_611d191e.png" group-title="CHUOICHIENTV",[22h30] FC Voluntari vs Farul Constanta
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="CHUOICHIENTV",[23h00] Al Sadd vs Al-Ahli Jeddah
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png" group-title="CHUOICHIENTV",[00h30] Sassuolo vs Fiorentina
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130845_c31bfe11.png" group-title="CHUOICHIENTV",[01h15] Al-Gharafa vs Al-Qadisiyah FC
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" group-title="CHUOICHIENTV",[01h15] Al-Ittihad FC vs Al Ain
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125603_d3cec98d.png" group-title="CHUOICHIENTV",[02h45] Atalanta vs Parma
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125545_2cdfd5d4.png" group-title="CHUOICHIENTV",[03h00] Newcastle vs Everton
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+# ══ CHUOICHIENTV (3 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png" group-title="CHUOICHIENTV",[06h00] RB Bragantino vs Santos
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
@@ -63,6 +18,11 @@ https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132425_593a6678.png" group-title="CHUOICHIENTV",[11h55] Kataller Toyama vs Vegalta Sendai
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
 
 
 # ══ COLATV (26 kenh) ══
