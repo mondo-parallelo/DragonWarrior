@@ -1,38 +1,13 @@
 #EXTM3U
-# Updated : 2026-11-21 22:43 UTC
-# Total   : 105 kenh
-# CHUOICHIENTV        : 44 kenh
+# Updated : 2026-11-22 04:50 UTC
+# Total   : 100 kenh
+# CHUOICHIENTV        : 39 kenh
 # COLATV              : 26 kenh
 # OTHERS              : 27 kenh
 # PHAOHOATV           : 8 kenh
 
 
-# ══ CHUOICHIENTV (44 kenh) ══
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" group-title="CHUOICHIENTV",[05h30] Atletico-MG vs Boca Juniors
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png" group-title="CHUOICHIENTV",[06h00] Inter Miami vs Columbus Crew
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="CHUOICHIENTV",[08h15] Once Caldas vs Atletico Nacional
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png" group-title="CHUOICHIENTV",[09h00] Wellington Phoenix vs Macarthur
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" group-title="CHUOICHIENTV",[11h00] Melbourne Victory W vs Perth Glory FC W
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+# ══ CHUOICHIENTV (39 kenh) ══
 
 #EXTINF:-1 tvg-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="CHUOICHIENTV",[11h05] Gunma Bank Green Wings W vs Body Queenseis W
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
